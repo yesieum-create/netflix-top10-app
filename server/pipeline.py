@@ -51,7 +51,7 @@ TUDUM_COUNTRIES = "https://www.netflix.com/tudum/top10/data/all-weeks-countries.
 COUNTRY = os.getenv("TOP10_COUNTRY", "KR")
 UA = {"User-Agent": "Mozilla/5.0 (Top10KR data pipeline)"}
 
-TMDB_KEY = os.getenv("TMDB_API_KEY", "")
+TMDB_KEY = os.getenv("TMDB_API_KEY", "").strip()
 TMDB_IMG = "https://image.tmdb.org/t/p/w500"
 CLAUDE_MODEL = os.getenv("CLAUDE_MODEL", "claude-opus-5-5")
 
@@ -185,6 +185,18 @@ def _map_flixpatrol_row(x: dict) -> dict | None:
 # 3) TMDB 보강 — 한국어 제목, 공식 줄거리, 장르, 출연, 포스터
 #    AI 가 제목만 보고 줄거리를 '지어내는' 것을 막는 사실 근거 역할
 # ---------------------------------------------------------------------------
+def _tmdb(path: str, **params) -> dict:
+    """TMDB 호출. 짧은 'API Key'(32자리)와 긴 'API 읽기 액세스 토큰' 둘 다 지원."""
+    headers = dict(UA)
+    if len(TMDB_KEY) > 40:  # 읽기 액세스 토큰(Bearer)
+        headers["Authorization"] = f"Bearer {TMDB_KEY}"
+    else:
+        params["api_key"] = TMDB_KEY
+    r = requests.get(f"https://api.themoviedb.org/3/{path}", params=params, headers=headers, timeout=30)
+    r.raise_for_status()
+    return r.json()
+
+
 def tmdb_enrich(item: dict, cache: dict) -> dict:
     key = title_key(item["show_title"], None)
     if key in cache:
@@ -193,28 +205,16 @@ def tmdb_enrich(item: dict, cache: dict) -> dict:
         return {}
     kind = item["type"]
     try:
-        s = requests.get(
-            f"https://api.themoviedb.org/3/search/{kind}",
-            params={"api_key": TMDB_KEY, "query": item["show_title"], "language": "ko-KR"},
-            timeout=30,
-        ).json()
+        s = _tmdb(f"search/{kind}", **{"query": item["show_title"], "language": "ko-KR"})
         results = s.get("results") or []
         if not results:
             cache[key] = {}
             return {}
         best = results[0]
-        d = requests.get(
-            f"https://api.themoviedb.org/3/{kind}/{best['id']}",
-            params={"api_key": TMDB_KEY, "language": "ko-KR", "append_to_response": "credits"},
-            timeout=30,
-        ).json()
+        d = _tmdb(f"{kind}/{best['id']}", **{"language": "ko-KR", "append_to_response": "credits"})
         overview = d.get("overview") or ""
         if not overview:  # 한국어 줄거리가 없으면 영어 줄거리를 근거로 사용
-            en = requests.get(
-                f"https://api.themoviedb.org/3/{kind}/{best['id']}",
-                params={"api_key": TMDB_KEY, "language": "en-US"},
-                timeout=30,
-            ).json()
+            en = _tmdb(f"{kind}/{best['id']}", **{"language": "en-US"})
             overview = en.get("overview") or ""
         info = {
             "tmdb_id": best["id"],
