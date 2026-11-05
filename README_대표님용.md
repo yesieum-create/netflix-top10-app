@@ -28,7 +28,13 @@
 | `.github/workflows/update-top10.yml` | 매일 자동 실행 설정 |
 | `android/` | 안드로이드 앱 (Kotlin + Jetpack Compose). Android Studio로 열면 됩니다 |
 
-## 확인된 것 (2026-11-05)
+## 현재 상태 (2026-11-05 저녁)
+
+- 가동 중: 매일 08:00 자동 갱신, Claude·TMDB 키 등록 완료, 55편 중 46편 충실 해설
+- 대표님 폰 설치 완료. 설치 파일: https://github.com/yesieum-create/netflix-top10-app/releases (QR: `screenshots/설치_QR코드.png`)
+- ⚠️ Claude 키 2026-12-05 만료 → 만료 전 교체
+
+## 처음 확인된 것 (2026-11-05)
 
 - Netflix Tudum 데이터 파일 실제 다운로드 성공: 최신 주 **2026-11-01**, 한국 20건 · 글로벌 40건 → 작품 55개 정리 ✅
 - 안드로이드 앱 빌드 성공 (`android/app/build/outputs/apk/debug/app-debug.apk`) ✅
