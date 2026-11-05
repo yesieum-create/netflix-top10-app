@@ -13,8 +13,8 @@ android {
         applicationId = "com.sisa.top10"
         minSdk = 26
         targetSdk = 35
-        versionCode = 1
-        versionName = "1.0.0"
+        versionCode = 2
+        versionName = "1.1.0"
         // GitHub Pages 에 공개된 데이터 주소 (매일 08:00 자동 갱신)
         buildConfigField("String", "DATA_URL", "\"https://yesieum-create.github.io/netflix-top10-app/top10.json\"")
     }

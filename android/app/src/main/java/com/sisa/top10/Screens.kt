@@ -26,7 +26,7 @@ import coil.compose.AsyncImage
 
 // ═══════════════════════════ 홈: 순위 목록 ═══════════════════════════
 
-private enum class Tab(val label: String) { KR("한국 주간"), GLOBAL("글로벌 주간"), DAILY("일간 트렌드") }
+private enum class Tab(val label: String) { KR("한국 주간"), GLOBAL("글로벌 주간"), TREND("급상승") }
 private enum class Kind(val label: String) { ALL("전체"), MOVIE("영화"), TV("시리즈") }
 
 @OptIn(ExperimentalMaterial3Api::class)
@@ -76,7 +76,8 @@ private fun RankList(s: UiState.Ready, tab: Tab, kind: Kind, onOpen: (String) ->
     val (header, items) = when (tab) {
         Tab.KR -> "Netflix 공식 한국 TOP10 · ${d.country.week} 주" to d.country.items
         Tab.GLOBAL -> "Netflix 공식 글로벌 TOP10 · ${d.global.week} 주" to d.global.items
-        Tab.DAILY -> (d.daily?.let { "FlixPatrol 일간 트렌드 · ${it.date} (참고용)" } ?: "") to (d.daily?.items ?: emptyList())
+        Tab.TREND -> "이번 주 신규 진입 · 순위 상승 (한국, ${d.trending?.week ?: d.country.week} 주)" to
+            (d.trending?.items ?: emptyList())
     }
     val filtered = items.filter {
         when (kind) { Kind.ALL -> true; Kind.MOVIE -> it.type == "movie"; Kind.TV -> it.type == "tv" }
@@ -96,7 +97,7 @@ private fun RankList(s: UiState.Ready, tab: Tab, kind: Kind, onOpen: (String) ->
         }
         if (filtered.isEmpty()) item {
             Text(
-                if (tab == Tab.DAILY) "일간 트렌드는 FlixPatrol API 연결 후 표시됩니다." else "표시할 작품이 없습니다.",
+                if (tab == Tab.TREND) "이번 주는 새로 들어오거나 크게 오른 작품이 없습니다." else "표시할 작품이 없습니다.",
                 modifier = Modifier.padding(24.dp)
             )
         }
@@ -137,6 +138,7 @@ private fun RankRow(r: RankItem, t: Title?, onClick: () -> Unit) {
             )
             t?.season_title?.let { Text(it, fontSize = 12.sp, maxLines = 1, overflow = TextOverflow.Ellipsis) }
             val meta = buildList {
+                if (r.is_new) add("NEW")
                 add(if (r.type == "tv") "시리즈" else "영화")
                 r.weeks_in_top10?.let { add("${it}주째 TOP10") }
                 r.weekly_views?.let { add("주간 ${formatViews(it)}회") }

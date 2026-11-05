@@ -116,19 +116,30 @@ def fetch_tudum_global() -> tuple[str, list[dict]]:
 def fetch_tudum_country(iso2: str) -> tuple[str, list[dict]]:
     """국가별 TOP10(기본 한국) 최근 주. 파일이 30MB+ 이므로 스트리밍으로 해당 국가만 추린다."""
     rows = [r for r in _stream_tsv(TUDUM_COUNTRIES) if r["country_iso2"] == iso2]
-    latest = max(r["week"] for r in rows)
+    weeks = sorted({r["week"] for r in rows})
+    latest = weeks[-1]
+    prev = weeks[-2] if len(weeks) > 1 else None
+    # 지난주 순위 (같은 구분 안에서 비교: 영화끼리 / 시리즈끼리)
+    prev_rank = {
+        (r["category"], title_key(r["show_title"], r["season_title"])): int(r["weekly_rank"])
+        for r in rows if r["week"] == prev
+    }
     items = []
     for r in rows:
         if r["week"] != latest:
             continue
+        rank = int(r["weekly_rank"])
+        before = prev_rank.get((r["category"], title_key(r["show_title"], r["season_title"])))
         items.append(
             {
-                "rank": int(r["weekly_rank"]),
+                "rank": rank,
                 "category": r["category"],  # Films / TV
                 "type": "tv" if r["category"].startswith("TV") else "movie",
                 "show_title": r["show_title"],
                 "season_title": None if r["season_title"] in ("", "N/A") else r["season_title"],
                 "weeks_in_top10": _to_int(r.get("cumulative_weeks_in_top_10")),
+                "is_new": before is None,                       # 이번 주 새로 진입
+                "rank_change": None if before is None else before - rank,  # +면 상승
             }
         )
     items.sort(key=lambda x: (x["category"], x["rank"]))
@@ -390,15 +401,21 @@ def main() -> int:
     def slim(lst):
         return [
             {k: v for k, v in i.items() if k in ("id", "rank", "category", "type", "weeks_in_top10",
-                                                  "weekly_views", "rank_change")}
+                                                  "weekly_views", "rank_change", "is_new")}
             for i in lst
         ]
 
+    # 이번 주 급상승: 신규 진입 + 지난주보다 2계단 이상 상승 (넷플릭스 공식 데이터 기준, 무료)
+    new_in = sorted([i for i in country_items if i.get("is_new")], key=lambda x: (x["rank"], x["category"]))
+    risers = sorted([i for i in country_items if (i.get("rank_change") or 0) >= 2],
+                    key=lambda x: (-x["rank_change"], x["rank"]))
+    trending = new_in + risers
+
     out = {
         "generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
-        "source_note": "주간 순위: Netflix Tudum 공식 TOP10 (기준) / 일간 트렌드: FlixPatrol (참고) / "
-                       "작품 정보: TMDB / 해설: AI 생성",
+        "source_note": "순위: Netflix Tudum 공식 TOP10 / 작품 정보: TMDB / 해설: AI 생성",
         "country": {"code": COUNTRY, "week": c_week, "items": slim(country_items)},
+        "trending": {"week": c_week, "items": slim(trending)},
         "global": {"week": g_week, "items": slim(global_items)},
         "daily": {"date": daily["date"], "items": slim(daily["items"])} if daily else None,
         "titles": titles,

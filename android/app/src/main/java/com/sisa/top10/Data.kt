@@ -23,6 +23,7 @@ data class Top10Data(
     val source_note: String = "",
     val country: Ranking,
     val global: Ranking,
+    val trending: Ranking? = null,
     val daily: DailyRanking? = null,
     val titles: Map<String, Title> = emptyMap(),
 )
@@ -42,6 +43,7 @@ data class RankItem(
     val weeks_in_top10: Int? = null,
     val weekly_views: Long? = null,
     val rank_change: Int? = null,
+    val is_new: Boolean = false,
 )
 
 @Serializable
