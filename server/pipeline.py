@@ -56,7 +56,8 @@ TMDB_IMG = "https://image.tmdb.org/t/p/w500"
 CLAUDE_MODEL = os.getenv("CLAUDE_MODEL", "claude-opus-5-5")
 
 AI_CACHE_FILE = CACHE_DIR / "ai_cache.json"
-TMDB_CACHE_FILE = CACHE_DIR / "tmdb_cache.json"
+TMDB_CACHE_FILE = CACHE_DIR / "tmdb_cache_v2.json"   # v2: 작품 매칭 방식 개선
+OLD_TMDB_CACHE_FILE = CACHE_DIR / "tmdb_cache.json"  # v1: 기존 해설이 어떤 작품 기준이었는지 확인용
 
 
 def log(msg: str) -> None:
@@ -130,6 +131,7 @@ def fetch_tudum_country(iso2: str) -> tuple[str, list[dict]]:
             continue
         rank = int(r["weekly_rank"])
         before = prev_rank.get((r["category"], title_key(r["show_title"], r["season_title"])))
+        weeks = _to_int(r.get("cumulative_weeks_in_top_10")) or 1
         items.append(
             {
                 "rank": rank,
@@ -138,7 +140,8 @@ def fetch_tudum_country(iso2: str) -> tuple[str, list[dict]]:
                 "show_title": r["show_title"],
                 "season_title": None if r["season_title"] in ("", "N/A") else r["season_title"],
                 "weeks_in_top10": _to_int(r.get("cumulative_weeks_in_top_10")),
-                "is_new": before is None,                       # 이번 주 새로 진입
+                "is_new": before is None and weeks <= 1,        # 이번 주 처음 진입
+                "re_entry": before is None and weeks > 1,       # 지난주엔 없었지만 예전에 있던 작품
                 "rank_change": None if before is None else before - rank,  # +면 상승
             }
         )
@@ -216,12 +219,20 @@ def tmdb_enrich(item: dict, cache: dict) -> dict:
         return {}
     kind = item["type"]
     try:
-        s = _tmdb(f"search/{kind}", **{"query": item["show_title"], "language": "ko-KR"})
+        # 넷플릭스 표기 제목은 영어이므로 영어로 검색해 '제목 정확 일치'를 우선하고,
+        # 그다음 인기도(popularity)가 높은 작품을 고른다. (첫 결과를 무조건 쓰면 동명 다큐 등이 잡힘)
+        s = _tmdb(f"search/{kind}", **{"query": item["show_title"], "language": "en-US"})
         results = s.get("results") or []
         if not results:
             cache[key] = {}
             return {}
-        best = results[0]
+        q = item["show_title"].strip().lower()
+
+        def score(r):
+            names = {(r.get(f) or "").strip().lower() for f in ("title", "name", "original_title", "original_name")}
+            return (q in names, r.get("popularity") or 0)
+
+        best = max(results, key=score)
         d = _tmdb(f"{kind}/{best['id']}", **{"language": "ko-KR", "append_to_response": "credits"})
         overview = d.get("overview") or ""
         if not overview:  # 한국어 줄거리가 없으면 영어 줄거리를 근거로 사용
@@ -346,6 +357,7 @@ def main() -> int:
     args = ap.parse_args()
 
     tmdb_cache = load_json(TMDB_CACHE_FILE, {})
+    old_tmdb = load_json(OLD_TMDB_CACHE_FILE, {})
     ai_cache = load_json(AI_CACHE_FILE, {})
 
     log("Tudum 글로벌 TOP10 수집")
@@ -382,10 +394,18 @@ def main() -> int:
         ai = ai_cache.get(k)
         # 자료 부족(low)으로 만든 해설은, 나중에 TMDB 줄거리가 생기면 다시 쓴다
         stale = ai is not None and ai.get("confidence") == "low" and info.get("overview_source")
+        # 해설이 근거로 삼은 작품(tmdb_id)과 지금 연결된 작품이 다르면 다시 쓴다 (잘못 연결된 경우)
+        if ai is not None:
+            based_on = ai.get("tmdb_id", old_tmdb.get(title_key(item["show_title"], None), {}).get("tmdb_id"))
+            if info.get("tmdb_id") and based_on != info["tmdb_id"]:
+                stale = True
+            elif info.get("tmdb_id") and "tmdb_id" not in ai:
+                ai["tmdb_id"] = info["tmdb_id"]  # 같은 작품이면 기록만 남김
         if (ai is None or stale) and client is not None:
             log(f"AI 생성: {item['show_title']}")
             ai = ai_generate(client, merged, info)
             if ai:
+                ai["tmdb_id"] = info.get("tmdb_id")
                 ai_cache[k] = ai
                 new_ai += 1
                 save_json(AI_CACHE_FILE, ai_cache)  # 중간에 끊겨도 생성분 보존
@@ -401,12 +421,13 @@ def main() -> int:
     def slim(lst):
         return [
             {k: v for k, v in i.items() if k in ("id", "rank", "category", "type", "weeks_in_top10",
-                                                  "weekly_views", "rank_change", "is_new")}
+                                                  "weekly_views", "rank_change", "is_new", "re_entry")}
             for i in lst
         ]
 
     # 이번 주 급상승: 신규 진입 + 지난주보다 2계단 이상 상승 (넷플릭스 공식 데이터 기준, 무료)
-    new_in = sorted([i for i in country_items if i.get("is_new")], key=lambda x: (x["rank"], x["category"]))
+    new_in = sorted([i for i in country_items if i.get("is_new") or i.get("re_entry")],
+                    key=lambda x: (x.get("re_entry", False), x["rank"], x["category"]))
     risers = sorted([i for i in country_items if (i.get("rank_change") or 0) >= 2],
                     key=lambda x: (-x["rank_change"], x["rank"]))
     trending = new_in + risers

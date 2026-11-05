@@ -76,7 +76,7 @@ private fun RankList(s: UiState.Ready, tab: Tab, kind: Kind, onOpen: (String) ->
     val (header, items) = when (tab) {
         Tab.KR -> "Netflix 공식 한국 TOP10 · ${d.country.week} 주" to d.country.items
         Tab.GLOBAL -> "Netflix 공식 글로벌 TOP10 · ${d.global.week} 주" to d.global.items
-        Tab.TREND -> "이번 주 신규 진입 · 순위 상승 (한국, ${d.trending?.week ?: d.country.week} 주)" to
+        Tab.TREND -> "이번 주 신규 · 재진입 · 순위 상승 (한국, ${d.trending?.week ?: d.country.week} 주)" to
             (d.trending?.items ?: emptyList())
     }
     val filtered = items.filter {
@@ -139,6 +139,7 @@ private fun RankRow(r: RankItem, t: Title?, onClick: () -> Unit) {
             t?.season_title?.let { Text(it, fontSize = 12.sp, maxLines = 1, overflow = TextOverflow.Ellipsis) }
             val meta = buildList {
                 if (r.is_new) add("NEW")
+                if (r.re_entry) add("재진입")
                 add(if (r.type == "tv") "시리즈" else "영화")
                 r.weeks_in_top10?.let { add("${it}주째 TOP10") }
                 r.weekly_views?.let { add("주간 ${formatViews(it)}회") }

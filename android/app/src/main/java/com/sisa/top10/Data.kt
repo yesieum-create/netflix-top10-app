@@ -44,6 +44,7 @@ data class RankItem(
     val weekly_views: Long? = null,
     val rank_change: Int? = null,
     val is_new: Boolean = false,
+    val re_entry: Boolean = false,
 )
 
 @Serializable
