@@ -369,7 +369,9 @@ def main() -> int:
         merged = {**item, **{f: g[f] for f in ("weekly_views", "weekly_hours_viewed") if g.get(f)}}
         info = tmdb_enrich(merged, tmdb_cache)
         ai = ai_cache.get(k)
-        if ai is None and client is not None:
+        # 자료 부족(low)으로 만든 해설은, 나중에 TMDB 줄거리가 생기면 다시 쓴다
+        stale = ai is not None and ai.get("confidence") == "low" and info.get("overview_source")
+        if (ai is None or stale) and client is not None:
             log(f"AI 생성: {item['show_title']}")
             ai = ai_generate(client, merged, info)
             if ai:
