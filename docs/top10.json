@@ -1,39 +1,39 @@
 {
-  "generated_at": "2026-11-10T04:30:40+00:00",
+  "generated_at": "2026-11-11T02:36:42+00:00",
   "source_note": "순위: Netflix Tudum 공식 TOP10 / 작품 정보: TMDB / 해설: AI 생성",
   "country": {
     "code": "KR",
-    "week": "2026-11-01",
+    "week": "2026-11-08",
     "items": [
       {
         "rank": 1,
         "category": "Films",
         "type": "movie",
-        "weeks_in_top10": 2,
-        "is_new": false,
+        "weeks_in_top10": 1,
+        "is_new": true,
         "re_entry": false,
-        "rank_change": 5,
-        "id": "Surviving Hurricane Otis||"
+        "rank_change": null,
+        "id": "Possible Love||"
       },
       {
         "rank": 2,
         "category": "Films",
         "type": "movie",
-        "weeks_in_top10": 6,
+        "weeks_in_top10": 2,
         "is_new": false,
         "re_entry": false,
-        "rank_change": 3,
-        "id": "The Ultimate Duo||"
+        "rank_change": 4,
+        "id": "Collision Course||"
       },
       {
         "rank": 3,
         "category": "Films",
         "type": "movie",
-        "weeks_in_top10": 2,
-        "is_new": false,
+        "weeks_in_top10": 1,
+        "is_new": true,
         "re_entry": false,
-        "rank_change": 0,
-        "id": "Drop||"
+        "rank_change": null,
+        "id": "One Year to Live, Buy a Man||"
       },
       {
         "rank": 4,
@@ -43,17 +43,17 @@
         "is_new": true,
         "re_entry": false,
         "rank_change": null,
-        "id": "Nowhere to Run||"
+        "id": "The Hobbit: An Unexpected Journey||"
       },
       {
         "rank": 5,
         "category": "Films",
         "type": "movie",
-        "weeks_in_top10": 4,
-        "is_new": false,
+        "weeks_in_top10": 1,
+        "is_new": true,
         "re_entry": false,
-        "rank_change": -3,
-        "id": "The Eyes||"
+        "rank_change": null,
+        "id": "The Hobbit: The Battle of the Five Armies||"
       },
       {
         "rank": 6,
@@ -63,17 +63,17 @@
         "is_new": true,
         "re_entry": false,
         "rank_change": null,
-        "id": "Collision Course||"
+        "id": "The Hobbit: The Desolation of Smaug||"
       },
       {
         "rank": 7,
         "category": "Films",
         "type": "movie",
-        "weeks_in_top10": 3,
-        "is_new": false,
+        "weeks_in_top10": 1,
+        "is_new": true,
         "re_entry": false,
-        "rank_change": -6,
-        "id": "Evil Dead Burn||"
+        "rank_change": null,
+        "id": "Me Before You||"
       },
       {
         "rank": 8,
@@ -83,7 +83,7 @@
         "is_new": true,
         "re_entry": false,
         "rank_change": null,
-        "id": "Kubi||"
+        "id": "Heist||"
       },
       {
         "rank": 9,
@@ -92,133 +92,143 @@
         "weeks_in_top10": 2,
         "is_new": false,
         "re_entry": false,
-        "rank_change": -2,
-        "id": "Armored||"
+        "rank_change": -5,
+        "id": "Nowhere to Run||"
       },
       {
         "rank": 10,
         "category": "Films",
         "type": "movie",
-        "weeks_in_top10": 2,
+        "weeks_in_top10": 7,
         "is_new": false,
         "re_entry": false,
-        "rank_change": -2,
-        "id": "My Boss My Hero||"
+        "rank_change": -8,
+        "id": "The Ultimate Duo||"
       },
       {
         "rank": 1,
         "category": "TV",
         "type": "tv",
-        "weeks_in_top10": 4,
+        "weeks_in_top10": 2,
         "is_new": false,
         "re_entry": false,
-        "rank_change": 0,
-        "id": "Doctor X: Mafia in White||Doctor X: Mafia in White: Limited Series"
+        "rank_change": 1,
+        "id": "Dead-End Job||Dead-End Job: Limited Series"
       },
       {
         "rank": 2,
         "category": "TV",
         "type": "tv",
-        "weeks_in_top10": 1,
-        "is_new": true,
+        "weeks_in_top10": 5,
+        "is_new": false,
         "re_entry": false,
-        "rank_change": null,
-        "id": "Dead-End Job||Dead-End Job: Limited Series"
+        "rank_change": -1,
+        "id": "Doctor X: Mafia in White||Doctor X: Mafia in White: Limited Series"
       },
       {
         "rank": 3,
         "category": "TV",
         "type": "tv",
-        "weeks_in_top10": 4,
+        "weeks_in_top10": 5,
         "is_new": false,
         "re_entry": false,
-        "rank_change": -1,
+        "rank_change": 0,
         "id": "100 Days of Deception||100 Days of Deception: Limited Series"
       },
       {
         "rank": 4,
         "category": "TV",
         "type": "tv",
-        "weeks_in_top10": 4,
+        "weeks_in_top10": 5,
         "is_new": false,
         "re_entry": false,
-        "rank_change": -1,
+        "rank_change": 0,
         "id": "I am Solo||I am Solo: Part 34"
       },
       {
         "rank": 5,
         "category": "TV",
         "type": "tv",
-        "weeks_in_top10": 4,
-        "is_new": false,
+        "weeks_in_top10": 1,
+        "is_new": true,
         "re_entry": false,
-        "rank_change": 0,
-        "id": "The Ballad of Us||The Ballad of Us: Season 2"
+        "rank_change": null,
+        "id": "Romance School : First & Again||Romance School : First & Again: Season 2"
       },
       {
         "rank": 6,
         "category": "TV",
         "type": "tv",
-        "weeks_in_top10": 2,
+        "weeks_in_top10": 3,
         "is_new": false,
         "re_entry": false,
-        "rank_change": -2,
+        "rank_change": 0,
         "id": "World Dice Tour||World Dice Tour: Season 4"
       },
       {
         "rank": 7,
         "category": "TV",
         "type": "tv",
-        "weeks_in_top10": 3,
+        "weeks_in_top10": 5,
         "is_new": false,
         "re_entry": false,
-        "rank_change": 1,
-        "id": "The Wonder Coach||The Wonder Coach: Season 2"
+        "rank_change": -2,
+        "id": "The Ballad of Us||The Ballad of Us: Season 2"
       },
       {
         "rank": 8,
         "category": "TV",
         "type": "tv",
-        "weeks_in_top10": 2,
+        "weeks_in_top10": 4,
         "is_new": false,
         "re_entry": false,
         "rank_change": -1,
-        "id": "Where the Mask Ends||Where the Mask Ends: Season 1"
+        "id": "The Wonder Coach||The Wonder Coach: Season 2"
       },
       {
         "rank": 9,
         "category": "TV",
         "type": "tv",
-        "weeks_in_top10": 4,
+        "weeks_in_top10": 5,
         "is_new": false,
-        "re_entry": true,
-        "rank_change": null,
+        "re_entry": false,
+        "rank_change": 0,
         "id": "Marriage of Convenience||Marriage of Convenience: Season 1"
       },
       {
         "rank": 10,
         "category": "TV",
         "type": "tv",
-        "weeks_in_top10": 4,
+        "weeks_in_top10": 3,
         "is_new": false,
         "re_entry": false,
-        "rank_change": -4,
-        "id": "Take Charge of My Heart||Take Charge of My Heart: Limited Series"
+        "rank_change": -2,
+        "id": "Where the Mask Ends||Where the Mask Ends: Season 1"
       }
     ]
   },
   "trending": {
-    "week": "2026-11-01",
+    "week": "2026-11-08",
     "items": [
       {
-        "rank": 2,
-        "category": "TV",
-        "type": "tv",
+        "rank": 1,
+        "category": "Films",
+        "type": "movie",
         "weeks_in_top10": 1,
         "is_new": true,
         "re_entry": false,
         "rank_change": null,
-        "id": "Dead-End Job||Dead-End Job: Limited Series"
+        "id": "Possible Love||"
+      },
+      {
+        "rank": 3,
+        "category": "Films",
+        "type": "movie",
+        "weeks_in_top10": 1,
+        "is_new": true,
+        "re_entry": false,
+        "rank_change": null,
+        "id": "One Year to Live, Buy a Man||"
       },
       {
         "rank": 4,
@@ -228,7 +238,27 @@
         "is_new": true,
         "re_entry": false,
         "rank_change": null,
-        "id": "Nowhere to Run||"
+        "id": "The Hobbit: An Unexpected Journey||"
+      },
+      {
+        "rank": 5,
+        "category": "Films",
+        "type": "movie",
+        "weeks_in_top10": 1,
+        "is_new": true,
+        "re_entry": false,
+        "rank_change": null,
+        "id": "The Hobbit: The Battle of the Five Armies||"
+      },
+      {
+        "rank": 5,
+        "category": "TV",
+        "type": "tv",
+        "weeks_in_top10": 1,
+        "is_new": true,
+        "re_entry": false,
+        "rank_change": null,
+        "id": "Romance School : First & Again||Romance School : First & Again: Season 2"
       },
       {
         "rank": 6,
@@ -238,7 +268,17 @@
         "is_new": true,
         "re_entry": false,
         "rank_change": null,
-        "id": "Collision Course||"
+        "id": "The Hobbit: The Desolation of Smaug||"
+      },
+      {
+        "rank": 7,
+        "category": "Films",
+        "type": "movie",
+        "weeks_in_top10": 1,
+        "is_new": true,
+        "re_entry": false,
+        "rank_change": null,
+        "id": "Me Before You||"
       },
       {
         "rank": 8,
@@ -248,146 +288,126 @@
         "is_new": true,
         "re_entry": false,
         "rank_change": null,
-        "id": "Kubi||"
-      },
-      {
-        "rank": 9,
-        "category": "TV",
-        "type": "tv",
-        "weeks_in_top10": 4,
-        "is_new": false,
-        "re_entry": true,
-        "rank_change": null,
-        "id": "Marriage of Convenience||Marriage of Convenience: Season 1"
-      },
-      {
-        "rank": 1,
-        "category": "Films",
-        "type": "movie",
-        "weeks_in_top10": 2,
-        "is_new": false,
-        "re_entry": false,
-        "rank_change": 5,
-        "id": "Surviving Hurricane Otis||"
+        "id": "Heist||"
       },
       {
         "rank": 2,
         "category": "Films",
         "type": "movie",
-        "weeks_in_top10": 6,
+        "weeks_in_top10": 2,
         "is_new": false,
         "re_entry": false,
-        "rank_change": 3,
-        "id": "The Ultimate Duo||"
+        "rank_change": 4,
+        "id": "Collision Course||"
       }
     ]
   },
   "global": {
-    "week": "2026-11-01",
+    "week": "2026-11-08",
     "items": [
       {
         "rank": 1,
         "category": "Films (English)",
         "type": "movie",
-        "weekly_views": 4700000,
-        "weeks_in_top10": 4,
-        "id": "Animals||"
+        "weekly_views": 8600000,
+        "weeks_in_top10": 1,
+        "id": "A Dog's Perfect Christmas||"
       },
       {
         "rank": 2,
         "category": "Films (English)",
         "type": "movie",
-        "weekly_views": 3600000,
+        "weekly_views": 6300000,
         "weeks_in_top10": 1,
-        "id": "Return to Sender||"
+        "id": "Heist||"
       },
       {
         "rank": 3,
         "category": "Films (English)",
         "type": "movie",
-        "weekly_views": 2600000,
-        "weeks_in_top10": 68,
-        "id": "KPop Demon Hunters||"
+        "weekly_views": 5800000,
+        "weeks_in_top10": 1,
+        "id": "Final Destination: Bloodlines||"
       },
       {
         "rank": 4,
         "category": "Films (English)",
         "type": "movie",
-        "weekly_views": 2600000,
+        "weekly_views": 4400000,
         "weeks_in_top10": 2,
-        "id": "Hot Wheels Let's Race: Attack of the T-Rex||"
+        "id": "The Day After Tomorrow||"
       },
       {
         "rank": 5,
         "category": "Films (English)",
         "type": "movie",
-        "weekly_views": 2400000,
-        "weeks_in_top10": 3,
-        "id": "Ice Age 4: Continental Drift||"
+        "weekly_views": 4300000,
+        "weeks_in_top10": 14,
+        "id": "Sing 2||"
       },
       {
         "rank": 6,
         "category": "Films (English)",
         "type": "movie",
-        "weekly_views": 2300000,
-        "weeks_in_top10": 7,
-        "id": "Ice Age: Dawn of the Dinosaurs||"
+        "weekly_views": 3900000,
+        "weeks_in_top10": 1,
+        "id": "Sniper: The Last Stand||"
       },
       {
         "rank": 7,
         "category": "Films (English)",
         "type": "movie",
-        "weekly_views": 2200000,
-        "weeks_in_top10": 7,
-        "id": "Ice Age 5: Collision Course||"
+        "weekly_views": 3800000,
+        "weeks_in_top10": 2,
+        "id": "Thanksgiving||"
       },
       {
         "rank": 8,
         "category": "Films (English)",
         "type": "movie",
-        "weekly_views": 2100000,
-        "weeks_in_top10": 1,
-        "id": "This Is Not a Test||"
+        "weekly_views": 3200000,
+        "weeks_in_top10": 18,
+        "id": "Sing||"
       },
       {
         "rank": 9,
         "category": "Films (English)",
         "type": "movie",
-        "weekly_views": 2100000,
-        "weeks_in_top10": 4,
-        "id": "Ice Age||"
+        "weekly_views": 3100000,
+        "weeks_in_top10": 1,
+        "id": "Kidnapped in Her Own Home: The Martha Carelli Story||"
       },
       {
         "rank": 10,
         "category": "Films (English)",
         "type": "movie",
-        "weekly_views": 2100000,
-        "weeks_in_top10": 1,
-        "id": "Aliens in the Attic||"
+        "weekly_views": 2800000,
+        "weeks_in_top10": 69,
+        "id": "KPop Demon Hunters||"
       },
       {
         "rank": 1,
         "category": "Films (Non-English)",
         "type": "movie",
-        "weekly_views": 12400000,
+        "weekly_views": 17200000,
         "weeks_in_top10": 2,
-        "id": "Surviving Hurricane Otis||"
+        "id": "Collision Course||"
       },
       {
         "rank": 2,
         "category": "Films (Non-English)",
         "type": "movie",
-        "weekly_views": 10700000,
+        "weekly_views": 11400000,
         "weeks_in_top10": 1,
-        "id": "Collision Course||"
+        "id": "My Best Friend||"
       },
       {
         "rank": 3,
         "category": "Films (Non-English)",
         "type": "movie",
-        "weekly_views": 5000000,
-        "weeks_in_top10": 2,
-        "id": "Gajab Raat||"
+        "weekly_views": 3000000,
+        "weeks_in_top10": 1,
+        "id": "The One||"
       },
       {
         "rank": 4,
@@ -395,442 +415,260 @@
         "type": "movie",
         "weekly_views": 2500000,
         "weeks_in_top10": 1,
-        "id": "Baththa||"
+        "id": "One Year to Live, Buy a Man||"
       },
       {
         "rank": 5,
         "category": "Films (Non-English)",
         "type": "movie",
-        "weekly_views": 2000000,
-        "weeks_in_top10": 2,
-        "id": "The Paradise||"
+        "weekly_views": 2400000,
+        "weeks_in_top10": 3,
+        "id": "Surviving Hurricane Otis||"
       },
       {
         "rank": 6,
         "category": "Films (Non-English)",
         "type": "movie",
-        "weekly_views": 1900000,
-        "weeks_in_top10": 1,
-        "id": "You, Me, Us||"
+        "weekly_views": 2300000,
+        "weeks_in_top10": 2,
+        "id": "Baththa||"
       },
       {
         "rank": 7,
         "category": "Films (Non-English)",
         "type": "movie",
-        "weekly_views": 1600000,
+        "weekly_views": 2100000,
         "weeks_in_top10": 2,
-        "id": "Dorothy||"
+        "id": "The Birthday Gift||"
       },
       {
         "rank": 8,
         "category": "Films (Non-English)",
         "type": "movie",
-        "weekly_views": 1500000,
+        "weekly_views": 1600000,
         "weeks_in_top10": 1,
-        "id": "The Birthday Gift||"
+        "id": "Unprotected: Murder in Galicia||"
       },
       {
         "rank": 9,
         "category": "Films (Non-English)",
         "type": "movie",
-        "weekly_views": 1100000,
+        "weekly_views": 1400000,
         "weeks_in_top10": 1,
-        "id": "Dhoomakethu||"
+        "id": "Don't Trouble the Trouble||"
       },
       {
         "rank": 10,
         "category": "Films (Non-English)",
         "type": "movie",
-        "weekly_views": 1000000,
-        "weeks_in_top10": 8,
-        "id": "The Secret Woman||"
+        "weekly_views": 1300000,
+        "weeks_in_top10": 1,
+        "id": "Ninho: Fame Ain’t Worth It||"
       },
       {
         "rank": 1,
         "category": "TV (English)",
         "type": "tv",
-        "weekly_views": 9500000,
+        "weekly_views": 12900000,
         "weeks_in_top10": 1,
-        "id": "The One About Matthew Perry||The One About Matthew Perry: Season 1"
+        "id": "Taken: Natalee Holloway||Taken: Natalee Holloway: Season 1"
       },
       {
         "rank": 2,
         "category": "TV (English)",
         "type": "tv",
-        "weekly_views": 7200000,
+        "weekly_views": 4400000,
         "weeks_in_top10": 2,
-        "id": "Nobody Wants This||Nobody Wants This: Season 3"
+        "id": "The One About Matthew Perry||The One About Matthew Perry: Season 1"
       },
       {
         "rank": 3,
         "category": "TV (English)",
         "type": "tv",
-        "weekly_views": 3800000,
-        "weeks_in_top10": 4,
-        "id": "Below||Below: Limited Series"
+        "weekly_views": 4000000,
+        "weeks_in_top10": 3,
+        "id": "Nobody Wants This||Nobody Wants This: Season 3"
       },
       {
         "rank": 4,
         "category": "TV (English)",
         "type": "tv",
-        "weekly_views": 2900000,
-        "weeks_in_top10": 3,
-        "id": "The Diplomat||The Diplomat: Season 4"
+        "weekly_views": 3800000,
+        "weeks_in_top10": 1,
+        "id": "Black Doves||Black Doves: Season 2"
       },
       {
         "rank": 5,
-        "category": "TV (English)",
-        "type": "tv",
-        "weekly_views": 2800000,
-        "weeks_in_top10": 3,
-        "id": "Love Is Blind||Love Is Blind: S11: Boston"
-      },
-      {
-        "rank": 6,
-        "category": "TV (English)",
-        "type": "tv",
-        "weekly_views": 2400000,
-        "weeks_in_top10": 1,
-        "id": "Minimum Wage||Minimum Wage: Season 1"
-      },
-      {
-        "rank": 7,
         "category": "TV (English)",
         "type": "tv",
         "weekly_views": 2300000,
         "weeks_in_top10": 1,
-        "id": "Raw||Raw: October 26, 2026"
+        "id": "Raw||Raw: November 2, 2026"
+      },
+      {
+        "rank": 6,
+        "category": "TV (English)",
+        "type": "tv",
+        "weekly_views": 2200000,
+        "weeks_in_top10": 5,
+        "id": "Below||Below: Limited Series"
+      },
+      {
+        "rank": 7,
+        "category": "TV (English)",
+        "type": "tv",
+        "weekly_views": 2000000,
+        "weeks_in_top10": 4,
+        "id": "Love Is Blind||Love Is Blind: S11: Boston"
       },
       {
         "rank": 8,
         "category": "TV (English)",
         "type": "tv",
-        "weekly_views": 2200000,
-        "weeks_in_top10": 2,
-        "id": "From||From: Season 1"
+        "weekly_views": 1900000,
+        "weeks_in_top10": 1,
+        "id": "Will Trent||Will Trent: Season 1"
       },
       {
         "rank": 9,
         "category": "TV (English)",
         "type": "tv",
-        "weekly_views": 2200000,
-        "weeks_in_top10": 5,
-        "id": "East of Eden||East of Eden: Limited Series"
+        "weekly_views": 1900000,
+        "weeks_in_top10": 4,
+        "id": "The Diplomat||The Diplomat: Season 4"
       },
       {
         "rank": 10,
         "category": "TV (English)",
         "type": "tv",
-        "weekly_views": 2000000,
-        "weeks_in_top10": 1,
-        "id": "Instadocs: Jane Doe v. Cornell||"
+        "weekly_views": 1700000,
+        "weeks_in_top10": 6,
+        "id": "East of Eden||East of Eden: Limited Series"
       },
       {
         "rank": 1,
         "category": "TV (Non-English)",
         "type": "tv",
-        "weekly_views": 10800000,
+        "weekly_views": 8700000,
         "weeks_in_top10": 2,
-        "id": "Lupin||Lupin: Part 4"
+        "id": "Dead-End Job||Dead-End Job: Limited Series"
       },
       {
         "rank": 2,
         "category": "TV (Non-English)",
         "type": "tv",
-        "weekly_views": 5200000,
-        "weeks_in_top10": 7,
-        "id": "Lupin||Lupin: Part 1"
+        "weekly_views": 7200000,
+        "weeks_in_top10": 2,
+        "id": "A Couple of Lies||A Couple of Lies: Limited Series"
       },
       {
         "rank": 3,
         "category": "TV (Non-English)",
         "type": "tv",
-        "weekly_views": 5200000,
-        "weeks_in_top10": 1,
-        "id": "The Fall of El Mayo||The Fall of El Mayo: Limited Series"
+        "weekly_views": 6100000,
+        "weeks_in_top10": 3,
+        "id": "Lupin||Lupin: Part 4"
       },
       {
         "rank": 4,
         "category": "TV (Non-English)",
         "type": "tv",
-        "weekly_views": 5000000,
-        "weeks_in_top10": 1,
-        "id": "Dead-End Job||Dead-End Job: Limited Series"
+        "weekly_views": 3700000,
+        "weeks_in_top10": 5,
+        "id": "Doctor X: Mafia in White||Doctor X: Mafia in White: Limited Series"
       },
       {
         "rank": 5,
         "category": "TV (Non-English)",
         "type": "tv",
-        "weekly_views": 4400000,
-        "weeks_in_top10": 4,
-        "id": "Doctor X: Mafia in White||Doctor X: Mafia in White: Limited Series"
+        "weekly_views": 3500000,
+        "weeks_in_top10": 1,
+        "id": "Anaesthesia||Anaesthesia: Season 1"
       },
       {
         "rank": 6,
         "category": "TV (Non-English)",
         "type": "tv",
-        "weekly_views": 3200000,
-        "weeks_in_top10": 9,
-        "id": "Lupin||Lupin: Part 2"
+        "weekly_views": 2900000,
+        "weeks_in_top10": 8,
+        "id": "Lupin||Lupin: Part 1"
       },
       {
         "rank": 7,
         "category": "TV (Non-English)",
         "type": "tv",
-        "weekly_views": 3200000,
-        "weeks_in_top10": 1,
-        "id": "A Couple of Lies||A Couple of Lies: Limited Series"
+        "weekly_views": 2700000,
+        "weeks_in_top10": 2,
+        "id": "The Fall of El Mayo||The Fall of El Mayo: Limited Series"
       },
       {
         "rank": 8,
         "category": "TV (Non-English)",
         "type": "tv",
-        "weekly_views": 3000000,
-        "weeks_in_top10": 8,
+        "weekly_views": 2300000,
+        "weeks_in_top10": 9,
         "id": "Lupin||Lupin: Part 3"
       },
       {
         "rank": 9,
         "category": "TV (Non-English)",
         "type": "tv",
-        "weekly_views": 2600000,
-        "weeks_in_top10": 3,
-        "id": "Where the Mask Ends||Where the Mask Ends: Season 1"
+        "weekly_views": 2300000,
+        "weeks_in_top10": 1,
+        "id": "Akka: The Protectors||Akka: The Protectors: Season 1"
       },
       {
         "rank": 10,
         "category": "TV (Non-English)",
         "type": "tv",
-        "weekly_views": 2300000,
-        "weeks_in_top10": 1,
-        "id": "The Gift of Deceit||The Gift of Deceit: Season 1"
+        "weekly_views": 2200000,
+        "weeks_in_top10": 10,
+        "id": "Lupin||Lupin: Part 2"
       }
     ]
   },
   "daily": null,
   "titles": {
-    "Surviving Hurricane Otis||": {
-      "id": "Surviving Hurricane Otis||",
-      "show_title": "Surviving Hurricane Otis",
+    "Possible Love||": {
+      "id": "Possible Love||",
+      "show_title": "Possible Love",
       "season_title": null,
       "type": "movie",
-      "title_ko": "허리케인을 거슬러",
+      "title_ko": "가능한 사랑",
       "year": "2026",
       "genres": [
         "드라마"
       ],
       "cast": [
-        "Benny Emmanuel",
-        "Kristyan Ferrer",
-        "Mónica del Carmen",
-        "Mónica Jiménez",
-        "Andrew Leland Rogers"
+        "전도연",
+        "설경구",
+        "조인성",
+        "조여정",
+        "조유리"
       ],
-      "poster": "https://image.tmdb.org/t/p/w500/lFaMt4I8LiQAGW9Rb5gfGFXbvOY.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/cpNMIRCrDl0sxDL1tHBzfWi0UZC.jpg",
-      "vote": 7.525,
+      "poster": "https://image.tmdb.org/t/p/w500/7UAzxqezg5yvZyK3k62wOAzg0Zs.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/k0BY5D4Ya6NHhsvNYMmaabpvUtS.jpg",
+      "vote": 7.6,
       "ai": {
-        "synopsis_ko": "허리케인 오티스가 멕시코 아카풀코를 덮치면서 이야기가 시작됩니다. 그동안 서로 거리를 두고 지내던 두 형제는 거대한 재난 한가운데에서 살아남기 위해 다시 힘을 합쳐야 하는 처지에 놓입니다. 절망적인 상황 속에서 두 사람이 형제애와 용기로 희망을 붙잡으려 애쓰는 과정을 그린, 실화를 바탕으로 한 드라마입니다.",
+        "synopsis_ko": "해고 노동자와 그의 아내, 그리고 다큐멘터리 감독과 그녀의 남편이 있습니다. 서로 전혀 다른 삶을 살아온 두 부부는 한 편의 다큐멘터리 제작을 계기로 처음 만나게 됩니다. 카메라를 사이에 두고 마주한 이들은 각자의 일상 속에 감춰 두었던 마음과 욕망을 조금씩 들여다보게 됩니다.",
         "watch_points": [
-          "실제로 아카풀코를 덮친 허리케인 오티스를 바탕으로 한 이야기라 재난의 무게가 더욱 현실적으로 다가옵니다.",
-          "서먹했던 두 형제가 극한 상황에서 함께 버텨 나가며 관계가 어떻게 달라지는지 지켜보는 재미가 있습니다.",
-          "베니 에마누엘과 크리스티안 페레르가 그려 내는 형제의 호흡이 이야기의 중심을 이룹니다."
+          "전도연, 설경구, 조인성, 조여정, 조유리 등 탄탄한 배우진이 한 작품에서 만들어 내는 연기 호흡을 지켜보는 재미가 있습니다.",
+          "해고 노동자 부부와 다큐멘터리 감독 부부라는 대비되는 두 가정이 만나며 생기는 긴장감이 이야기의 중심을 이룹니다.",
+          "다큐멘터리 제작이라는 설정이 인물들의 삶과 속마음을 비추는 장치로 어떻게 쓰이는지 눈여겨볼 만합니다."
         ],
-        "recommend_reason": "재난 속에서 피어나는 가족애와 실화의 울림을 좋아하시는 분께 추천드립니다. 공개 후 2주째 글로벌 TOP10에 머무르며 주간 1,240만 회의 시청수를 기록할 만큼 많은 시청자의 관심을 받고 있습니다.",
+        "recommend_reason": "배우들의 섬세한 연기로 인물의 내면을 따라가는 드라마를 좋아하시는 분께 추천합니다. 공개 후 넷플릭스 TOP10에 이름을 올린 만큼, 화제가 된 이 작품을 지금 확인해 보셔도 좋겠습니다.",
         "recommend_for": [
-          "실화 기반 드라마 애호가",
-          "가족·형제 이야기를 좋아하는 분"
+          "연기파 배우 팬",
+          "관계 드라마를 좋아하는 분"
         ],
         "mood_tags": [
-          "긴박한",
-          "뭉클한",
-          "희망적인"
+          "잔잔한 긴장감",
+          "사색적인"
         ],
-        "confidence": "high",
-        "generated_at": "2026-11-05T08:54:31+00:00",
+        "confidence": "low",
+        "generated_at": "2026-11-11T02:32:59+00:00",
         "model": "claude-opus-5-5",
-        "tmdb_id": 1780005
-      }
-    },
-    "The Ultimate Duo||": {
-      "id": "The Ultimate Duo||",
-      "show_title": "The Ultimate Duo",
-      "season_title": null,
-      "type": "movie",
-      "title_ko": "끝장수사",
-      "year": "2026",
-      "genres": [
-        "코미디",
-        "범죄",
-        "액션"
-      ],
-      "cast": [
-        "배성우",
-        "정가람",
-        "이솜",
-        "조한철",
-        "윤경호"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/5Ae26RGA7hLe4yYsjH0Q9PYCTLN.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/yfjIDn5aAgBH4ioq4rE2W6zmqju.jpg",
-      "vote": 5.3,
-      "ai": {
-        "synopsis_ko": "한때 광역수사대 에이스였지만 사건을 망치고 인생까지 꼬여 버린 형사 재혁에게, 명석한 두뇌와 돈, 패기를 갖춘 인플루언서 출신 신입 형사 중호가 파트너로 배정됩니다. 사사건건 맞지 않던 두 사람은 시골 교회 헌금함에서 48,700원을 훔친 절도범을 붙잡았다가, 그가 서울 강남 살인사건의 유력 용의자라는 사실을 알아냅니다. 하지만 그 사건은 이미 범인이 체포되어 종결된 상태입니다. 진범을 잡기 위해 서울로 출장을 떠난 두 사람은 담당 검사 미주에게 재수사 지원을 약속받고 강남 경찰서에 공조를 요청합니다.",
-        "watch_points": [
-          "몰락한 베테랑 형사와 인플루언서 출신 신입 형사라는 정반대 성향의 두 사람이 빚어내는 티격태격 버디 호흡이 볼거리입니다.",
-          "고작 48,700원짜리 헌금함 절도 사건이 강남 살인사건으로 이어지는 출발점이 호기심을 자극합니다.",
-          "배성우, 정가람, 이솜, 조한철, 윤경호 등 개성 있는 배우들이 코미디와 범죄 수사를 오가며 보여 주는 연기 앙상블을 눈여겨볼 만합니다."
-        ],
-        "recommend_reason": "티격태격하는 형사 콤비가 사건을 쫓는 코믹 수사극을 좋아하시는 분께 추천합니다. 넷플릭스 TOP10에 6주 동안 이름을 올릴 만큼 꾸준히 사랑받은 작품이라, 웃음과 수사의 재미를 함께 가볍게 즐기기 좋습니다.",
-        "recommend_for": [
-          "버디 형사물 팬",
-          "가볍게 웃고 싶은 날",
-          "한국 코미디 영화 애호가"
-        ],
-        "mood_tags": [
-          "유쾌한",
-          "티격태격 케미",
-          "코믹 수사극"
-        ],
-        "confidence": "high",
-        "generated_at": "2026-11-05T08:54:40+00:00",
-        "model": "claude-opus-5-5",
-        "tmdb_id": 608067
-      }
-    },
-    "Drop||": {
-      "id": "Drop||",
-      "show_title": "Drop",
-      "season_title": null,
-      "type": "movie",
-      "title_ko": "드롭",
-      "year": "2025",
-      "genres": [
-        "미스터리",
-        "스릴러"
-      ],
-      "cast": [
-        "메간 파히",
-        "브랜든 스클레나",
-        "Reed Diamond",
-        "Violett Beane",
-        "Jeffery Self"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/l7Xj2XB7tRg1UqF4x5Prlc2LssQ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/akBGSguhkAj1TXOdZUcL11e1hpH.jpg",
-      "vote": 6.275,
-      "ai": {
-        "synopsis_ko": "싱글맘 바이올렛은 몇 년 만에 용기를 내 헨리와 데이트에 나섭니다. 레스토랑에서 즐겁게 식사하던 중, 그녀는 같은 공간에 있는 누군가로부터 의문의 메시지를 받기 시작합니다. 처음에는 단순한 장난이라 여기지만, 헨리를 죽이지 않으면 아들이 죽는다는 협박이 이어지면서 그녀는 익명의 위협에서 벗어나기 위해 필사적으로 움직이게 됩니다.",
-        "watch_points": [
-          "설렘으로 시작된 데이트가 의문의 메시지 하나로 순식간에 긴장감 넘치는 상황으로 바뀌는 전개가 흥미롭습니다.",
-          "같은 레스토랑 안 누군가가 보내는 메시지라는 설정 덕분에 주변 인물 모두를 의심하게 되는 미스터리의 재미가 있습니다.",
-          "아들을 지켜야 하는 엄마의 절박함을 연기하는 메간 파히의 모습에 주목해 보실 만합니다."
-        ],
-        "recommend_reason": "한정된 공간에서 펼쳐지는 심리 스릴러와 누가 메시지를 보내는지 추리하는 미스터리를 좋아하시는 분께 추천드립니다. 넷플릭스 TOP10에 2주간 이름을 올린 작품인 만큼, 한 편으로 몰입감 있게 즐기기 좋은 영화입니다.",
-        "recommend_for": [
-          "스릴러 마니아",
-          "미스터리 추리 좋아하는 분",
-          "혼자 몰입해서 보기"
-        ],
-        "mood_tags": [
-          "긴장감 넘치는",
-          "미스터리한",
-          "숨 막히는"
-        ],
-        "confidence": "high",
-        "generated_at": "2026-11-05T08:54:48+00:00",
-        "model": "claude-opus-5-5",
-        "tmdb_id": 1249213
-      }
-    },
-    "Nowhere to Run||": {
-      "id": "Nowhere to Run||",
-      "show_title": "Nowhere to Run",
-      "season_title": null,
-      "type": "movie",
-      "title_ko": "탈주자",
-      "year": "1993",
-      "genres": [
-        "액션",
-        "드라마",
-        "스릴러"
-      ],
-      "cast": [
-        "장클로드 반담",
-        "로잔나 아퀘트",
-        "키어런 컬킨",
-        "테드 러바인",
-        "Tiffany Taubman"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/a2FGbyzk2dTAlu37iGeQBbUjLLE.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/5VF6N8dPSSPeyQdQoQ53mxDcUjw.jpg",
-      "vote": 6.57,
-      "ai": {
-        "synopsis_ko": "호송 버스에서 탈출한 죄수 샘은 경찰의 추적을 피해 한적한 시골 마을 숲속에 몸을 숨깁니다. 그곳에서 그는 남편을 잃고 어린 두 아이 무키, 브리와 함께 농장을 꾸려 가는 클라이디를 몰래 지켜보게 됩니다. 개발업자 하일이 클라이디의 땅을 차지하려고 해결사를 보내 가족을 위협하고, 아무도 도와주지 않는 상황에서 그녀는 홀로 버티고 있습니다. 숨어 지내야 하는 처지에도 이 가족을 외면할 수 없었던 샘은 결국 그들 앞에 모습을 드러냅니다.",
-        "watch_points": [
-          "쫓기는 탈주자가 위기에 처한 가족을 지키게 되는 설정이 액션과 드라마를 함께 끌고 갑니다.",
-          "장클로드 반담의 액션과 함께, 경계하던 클라이디와 아이들이 차츰 마음을 여는 과정이 따뜻하게 그려집니다.",
-          "개발업자 일당의 위협과 좁혀 오는 수사망이 겹치며 긴장감이 쌓여 갑니다."
-        ],
-        "recommend_reason": "1990년대 정통 액션 영화의 분위기를 좋아하시거나 장클로드 반담의 작품을 다시 보고 싶은 분께 추천합니다. 시원한 액션에 가족 드라마의 정서가 더해져 있고, 넷플릭스 TOP10에도 한 주 이름을 올리며 다시 관심을 받은 작품입니다.",
-        "recommend_for": [
-          "90년대 액션 영화 팬",
-          "장클로드 반담 팬",
-          "가볍게 즐길 액션을 찾는 분"
-        ],
-        "mood_tags": [
-          "긴장감",
-          "따뜻함",
-          "클래식 액션"
-        ],
-        "confidence": "high",
-        "generated_at": "2026-11-05T08:54:56+00:00",
-        "model": "claude-opus-5-5",
-        "tmdb_id": 10413
-      }
-    },
-    "The Eyes||": {
-      "id": "The Eyes||",
-      "show_title": "The Eyes",
-      "season_title": null,
-      "type": "movie",
-      "title_ko": "Đôi Mắt Âm Dương",
-      "year": "2020",
-      "genres": [
-        "코미디",
-        "공포"
-      ],
-      "cast": [
-        "Thu Trang",
-        "Bảo Thanh",
-        "Quốc Trường",
-        "La Thành",
-        "Hữu Châu"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/mnLvOSbrisVPOoy50IcmLeH6vi5.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/aLLYZmgrOMZtC8JKdzGvZ1IkRF8.jpg",
-      "vote": 0.0,
-      "ai": {
-        "synopsis_ko": "교통사고로 혼수상태에 빠졌다가 깨어난 트랑은 그 사이 기억을 잃은 상태입니다. 회복 후 그녀의 주변에는 피로 물든 눈을 가진 한 여인의 유령이 맴돌기 시작합니다. 트랑은 이 기이한 현상의 정체를 밝히기 위해 직접 사건을 파헤치기로 마음먹습니다.",
-        "watch_points": [
-          "코미디와 공포가 한 작품 안에 섞인 장르 조합이 어떤 분위기를 만들어 내는지 지켜보는 재미가 있습니다.",
-          "기억을 잃은 주인공이 유령을 보게 되는 설정이 궁금증을 자연스럽게 끌어올립니다.",
-          "Thu Trang, Quốc Trường 등 베트남 배우들이 출연하는 2020년 베트남 영화라는 점에서 색다른 감상이 가능합니다."
-        ],
-        "recommend_reason": "무겁기만 한 공포보다 웃음이 섞인 호러를 선호하시는 분께 추천합니다. 넷플릭스 TOP10에 4주간 이름을 올린 작품인 만큼 가볍게 골라 보기에도 무리가 없습니다.",
-        "recommend_for": [
-          "호러 코미디 팬",
-          "아시아 영화 탐방"
-        ],
-        "mood_tags": [
-          "으스스한",
-          "유쾌한",
-          "미스터리"
-        ],
-        "confidence": "high",
-        "generated_at": "2026-11-06T03:11:00+00:00",
-        "model": "claude-opus-5-5",
-        "tmdb_id": 658181
+        "tmdb_id": 1483525
       }
     },
     "Collision Course||": {
@@ -879,187 +717,412 @@
         "tmdb_id": 1571955
       }
     },
-    "Evil Dead Burn||": {
-      "id": "Evil Dead Burn||",
-      "show_title": "Evil Dead Burn",
+    "One Year to Live, Buy a Man||": {
+      "id": "One Year to Live, Buy a Man||",
+      "show_title": "One Year to Live, Buy a Man",
       "season_title": null,
       "type": "movie",
-      "title_ko": "이블 데드 번",
+      "title_ko": "시한부 1년, 남자를 사다",
       "year": "2026",
       "genres": [
-        "공포"
-      ],
-      "cast": [
-        "수헤일라 야쿠브",
-        "탄디 라이트",
-        "헌터 두핸",
-        "루시앤 뷰캐넌",
-        "에롤 샨드"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/oDVnoRDTXhWpFkh6ThGHznWWNHV.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/o0jkkpcN81QqSl8DMLScBCXyUH9.jpg",
-      "vote": 7.59,
-      "ai": {
-        "synopsis_ko": "사랑하는 남편을 잃은 앨리스는 슬픔을 달래기 위해 외딴 곳에 자리한 시댁을 찾습니다. 상실의 아픔을 함께 나누며 서로를 위로하려던 가족 모임이었지만, 알 수 없는 사악한 힘이 집안에 스며들면서 조용한 재회는 악몽으로 바뀌기 시작합니다. 다정했던 가족들이 하나둘 피에 굶주린 존재로 변해 가고, 닫힌 문 안에서 앨리스는 살아남기 위한 사투를 벌이게 됩니다.",
-        "watch_points": [
-          "슬픔을 나누려던 가족 모임이 공포의 무대로 바뀌는 설정이 긴장감을 만들어 냅니다.",
-          "어제까지 가족이라 부르던 이들이 위협이 되는 상황이 섬뜩한 공포를 더합니다.",
-          "탈출구가 보이지 않는 외딴 집이라는 공간이 밀실 공포의 답답함을 살려 줍니다."
-        ],
-        "recommend_reason": "잔혹하고 강도 높은 공포 영화를 즐기시는 분께 추천합니다. 상실과 가족이라는 정서 위에 핏빛 공포를 얹은 작품으로, 넷플릭스 TOP10에 3주간 이름을 올릴 만큼 꾸준히 관심을 받았습니다.",
-        "recommend_for": [
-          "공포 영화 마니아",
-          "고어 장르 팬"
-        ],
-        "mood_tags": [
-          "잔혹한",
-          "긴장감 넘치는",
-          "폐쇄적인"
-        ],
-        "confidence": "high",
-        "generated_at": "2026-11-05T08:55:17+00:00",
-        "model": "claude-opus-5-5",
-        "tmdb_id": 1212763
-      }
-    },
-    "Kubi||": {
-      "id": "Kubi||",
-      "show_title": "Kubi",
-      "season_title": null,
-      "type": "movie",
-      "title_ko": "목",
-      "year": "2023",
-      "genres": [
-        "역사",
-        "액션",
+        "로맨스",
         "드라마",
-        "코미디",
-        "스릴러"
+        "코미디"
       ],
       "cast": [
-        "기타노 다케시",
-        "니시지마 히데토시",
-        "카세 료",
-        "아사노 타다노부",
-        "오모리 나오"
+        "시바사키 코우",
+        "아카소 에이지",
+        "츠츠이 미치타카",
+        "니시다 나오미",
+        "나루미 유이"
       ],
-      "poster": "https://image.tmdb.org/t/p/w500/DG3B7D0cLx3gmoySAwHVZ6QPeb.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/yZXzliI9QoO7t9Mokkypauvz5Qr.jpg",
-      "vote": 6.9,
+      "poster": "https://image.tmdb.org/t/p/w500/lkEQXQ1YpMCzCrLOBxHLGdCHLVb.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/6vGH7JZFLzFawpwCcnNweF8j3KD.jpg",
+      "vote": 7.6,
       "ai": {
-        "synopsis_ko": "일본 통일을 향해 나아가던 오다 노부나가는 여러 군웅들과 전쟁을 이어가고 있습니다. 그러던 중 그의 가신인 아라키 무라시게가 반란을 일으키며 상황이 크게 흔들리기 시작합니다. 전국시대를 배경으로 한 이 영화는 역사극의 무게감에 액션과 스릴러의 긴장감, 그리고 코미디의 결까지 함께 담아낸 작품입니다.",
+        "synopsis_ko": "절약밖에 모르고 살아온 마흔 살의 유이가 이야기의 중심입니다. 제목이 암시하듯 남은 시간이 1년이라는 상황에서, 그녀는 처음으로 거금을 쓰기로 결심하고 클럽 호스트 세나를 '삽니다'. 이렇게 계약으로 시작된 두 사람의 관계가 예상하지 못한 방향으로 흘러가기 시작합니다.",
         "watch_points": [
-          "오다 노부나가와 그를 둘러싼 가신들의 관계를 따라가며 전국시대 권력 다툼의 긴장감을 느껴보실 수 있습니다.",
-          "역사, 액션, 드라마에 코미디와 스릴러까지 여러 장르가 한 작품 안에서 어떻게 어우러지는지 지켜보는 재미가 있습니다.",
-          "기타노 다케시, 니시지마 히데토시, 카세 료, 아사노 타다노부, 오모리 나오 등 일본을 대표하는 배우들의 연기 앙상블이 돋보입니다."
+          "평생 아끼기만 하던 사람이 처음으로 큰돈을 쓰기로 결심하는 설정이 흥미로운 출발점이 됩니다.",
+          "돈으로 시작된 계약 관계라는 독특한 구도가 로맨스와 코미디, 드라마를 함께 이끌어 갑니다.",
+          "시바사키 코우, 아카소 에이지 등 일본 배우들의 연기 호흡을 지켜보는 재미가 있습니다."
         ],
-        "recommend_reason": "일본 전국시대 역사극을 좋아하시거나, 진지한 시대극 속에서 색다른 장르적 재미를 찾는 분께 추천드립니다. 넷플릭스 TOP10에도 한 주 이름을 올린 작품으로, 묵직한 배우진이 그려내는 권력과 반란의 이야기를 만나보실 수 있습니다.",
+        "recommend_reason": "가볍게 웃다가도 삶과 관계에 대해 한 번쯤 생각해 보고 싶은 분께 추천드립니다. 공개 후 넷플릭스 글로벌 TOP10에 진입해 한 주 동안 약 250만 회의 시청수를 기록한 작품입니다.",
         "recommend_for": [
-          "시대극 애호가",
-          "일본 영화 팬",
-          "배우 앙상블을 즐기는 분"
+          "일본 로맨스 영화 팬",
+          "잔잔한 휴먼 드라마를 좋아하는 분"
         ],
         "mood_tags": [
-          "긴장감 있는",
-          "묵직한",
-          "블랙 유머"
+          "로맨틱 코미디",
+          "따뜻한",
+          "씁쓸달콤한"
         ],
         "confidence": "high",
-        "generated_at": "2026-11-05T09:35:25+00:00",
+        "generated_at": "2026-11-11T02:33:08+00:00",
         "model": "claude-opus-5-5",
-        "tmdb_id": 795087
+        "tmdb_id": 1654940
       }
     },
-    "Armored||": {
-      "id": "Armored||",
-      "show_title": "Armored",
+    "The Hobbit: An Unexpected Journey||": {
+      "id": "The Hobbit: An Unexpected Journey||",
+      "show_title": "The Hobbit: An Unexpected Journey",
       "season_title": null,
       "type": "movie",
-      "title_ko": "아머드",
-      "year": "2009",
+      "title_ko": "호빗: 뜻밖의 여정",
+      "year": "2012",
+      "genres": [
+        "모험",
+        "판타지",
+        "액션"
+      ],
+      "cast": [
+        "마틴 프리먼",
+        "이안 맥켈런",
+        "리차드 아미티지",
+        "제임스 네스빗",
+        "Ken Stott"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/vtsequVUU3W2NVfWObXkq31VIgN.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/xyXmtuvsoM5J3yNad0nvcetpBdY.jpg",
+      "vote": 7.388,
+      "ai": {
+        "synopsis_ko": "평온한 일상을 사랑하는 호빗족 빌보 배긴스는 어느 날 찾아온 회색의 마법사 간달프에게서 뜻밖의 제안을 받습니다. 오래전 난쟁이족의 영토였지만 무시무시한 용 스마우그에게 빼앗겨 황무지가 된 외로운 산, 에레보르 왕국을 되찾는 여정에 함께하자는 것입니다. 결국 빌보는 전설의 용사 소린이 이끄는 13명의 난쟁이족과 함께 위험이 가득한 길에 오릅니다.",
+        "watch_points": [
+          "집 밖을 모르던 호빗이 낯선 모험에 휘말리며 조금씩 달라지는 과정을 따라가는 재미가 있습니다.",
+          "개성 강한 13명의 난쟁이족과 마법사 간달프가 한 무리로 움직이며 만들어내는 활기찬 분위기가 돋보입니다.",
+          "용에게 빼앗긴 왕국을 되찾는다는 고전적인 판타지 설정이 웅장한 모험의 출발점이 되어 줍니다."
+        ],
+        "recommend_reason": "마틴 프리먼, 이안 맥켈런, 리차드 아미티지 등이 출연한 정통 판타지 모험 영화를 찾는 분께 추천합니다. 2012년 작품임에도 넷플릭스 TOP10에 이름을 올릴 만큼 꾸준히 찾는 이가 있는 작품이라, 주말에 여유롭게 긴 여정을 함께하기 좋습니다.",
+        "recommend_for": [
+          "판타지 모험 팬",
+          "가족과 함께",
+          "반지의 제왕 세계관이 궁금한 분"
+        ],
+        "mood_tags": [
+          "웅장한",
+          "모험적인",
+          "동화 같은"
+        ],
+        "confidence": "high",
+        "generated_at": "2026-11-11T02:33:18+00:00",
+        "model": "claude-opus-5-5",
+        "tmdb_id": 49051
+      }
+    },
+    "The Hobbit: The Battle of the Five Armies||": {
+      "id": "The Hobbit: The Battle of the Five Armies||",
+      "show_title": "The Hobbit: The Battle of the Five Armies",
+      "season_title": null,
+      "type": "movie",
+      "title_ko": "호빗: 다섯 군대 전투",
+      "year": "2014",
+      "genres": [
+        "액션",
+        "모험",
+        "판타지"
+      ],
+      "cast": [
+        "이안 맥켈런",
+        "마틴 프리먼",
+        "리차드 아미티지",
+        "올랜도 블룸",
+        "에반젤린 릴리"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/tLNTaP5kcH2FDQNxGu4EkOCpMjr.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/3UbaCMmqOd7mca4Y5DOzY2ZVTyX.jpg",
+      "vote": 7.342,
+      "ai": {
+        "synopsis_ko": "빌보 배긴스와 참나무 방패 소린, 그리고 난쟁이 일행은 긴 여정 끝에 옛 터전 에레보르의 막대한 보물을 되찾습니다. 하지만 그 대가로 무시무시한 용 스마우그가 호수마을 주민들을 덮치게 되고, 소린은 점점 탐욕에 사로잡혀 왕의 보물 아르켄스톤에 집착하기 시작합니다. 한편 암흑의 군주 사우론은 외로운 산을 향해 오크 군대를 보내고, 빌보는 자신과 친구들의 목숨을 걸고 거대한 전쟁 한가운데에 서게 됩니다.",
+        "watch_points": [
+          "제목 그대로 다섯 군대가 맞붙는 대규모 전투 장면이 판타지 액션의 볼거리를 채워 줍니다.",
+          "보물 앞에서 흔들리는 소린의 모습을 통해 탐욕과 우정, 명예 사이의 갈등을 지켜볼 수 있습니다.",
+          "이안 맥켈런, 마틴 프리먼, 리차드 아미티지, 올랜도 블룸, 에반젤린 릴리 등 익숙한 배우들이 중간계의 인물들을 연기합니다."
+        ],
+        "recommend_reason": "호빗 시리즈의 여정을 따라오셨거나 웅장한 판타지 모험을 좋아하시는 분께 추천합니다. 넷플릭스 TOP10에도 이름을 올린 작품으로, 용과 오크, 여러 종족이 얽힌 중간계의 대규모 전쟁을 큰 화면처럼 즐기기 좋습니다.",
+        "recommend_for": [
+          "판타지 모험 팬",
+          "중간계 시리즈 애호가",
+          "대규모 액션을 좋아하는 분"
+        ],
+        "mood_tags": [
+          "웅장한",
+          "긴장감 있는",
+          "서사적인"
+        ],
+        "confidence": "high",
+        "generated_at": "2026-11-11T02:33:26+00:00",
+        "model": "claude-opus-5-5",
+        "tmdb_id": 122917
+      }
+    },
+    "The Hobbit: The Desolation of Smaug||": {
+      "id": "The Hobbit: The Desolation of Smaug||",
+      "show_title": "The Hobbit: The Desolation of Smaug",
+      "season_title": null,
+      "type": "movie",
+      "title_ko": "호빗: 스마우그의 폐허",
+      "year": "2013",
+      "genres": [
+        "판타지",
+        "모험",
+        "액션"
+      ],
+      "cast": [
+        "이안 맥켈런",
+        "마틴 프리먼",
+        "리차드 아미티지",
+        "베네딕트 컴버배치",
+        "올랜도 블룸"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/jhnHkvYSi9AlwDcYLlv193LiOPG.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/5ZYxL6k4ZHrEmrFvmY4HZVzerxG.jpg",
+      "vote": 7.58,
+      "ai": {
+        "synopsis_ko": "호빗 빌보 배긴스는 마법사 간달프, 그리고 난쟁이족 왕족의 후예 소린이 이끄는 13명의 난쟁이들과 함께 뜻하지 않은 여정에 나섭니다. 이들의 목표는 사나운 용 스마우그에게 빼앗긴 동쪽의 외로운 산, 에레보르 왕국을 되찾는 것입니다. 외로운 산으로 향하는 길에 원정대는 어둠의 숲을 지나며 낯선 존재들과 위험을 차례로 마주하게 됩니다.",
+        "watch_points": [
+          "어둠의 숲에서 마주치는 거대한 거미떼 등 판타지 세계의 다양한 위협이 모험의 긴장감을 더합니다.",
+          "이안 맥켈런, 마틴 프리먼, 리차드 아미티지, 베네딕트 컴버배치, 올랜도 블룸 등 출연진의 면면을 확인하는 재미가 있습니다.",
+          "용기와 우정, 지혜를 시험받는 원정대의 여정이 판타지 모험 특유의 볼거리와 함께 펼쳐집니다."
+        ],
+        "recommend_reason": "웅장한 판타지 세계에서 펼쳐지는 모험과 액션을 좋아하시는 분께 추천합니다. 넷플릭스 TOP10에도 이름을 올린 작품으로, 용에게 빼앗긴 왕국을 되찾으려는 원정대의 여정을 따라가는 재미가 있습니다.",
+        "recommend_for": [
+          "판타지 모험 팬",
+          "가족과 함께",
+          "주말 대작 영화를 찾는 분"
+        ],
+        "mood_tags": [
+          "웅장한",
+          "모험적인",
+          "긴장감 있는"
+        ],
+        "confidence": "high",
+        "generated_at": "2026-11-11T02:33:36+00:00",
+        "model": "claude-opus-5-5",
+        "tmdb_id": 57158
+      }
+    },
+    "Me Before You||": {
+      "id": "Me Before You||",
+      "show_title": "Me Before You",
+      "season_title": null,
+      "type": "movie",
+      "title_ko": "미 비포 유",
+      "year": "2016",
+      "genres": [
+        "드라마",
+        "로맨스"
+      ],
+      "cast": [
+        "에밀리아 클라크",
+        "샘 클라플린",
+        "자넷 맥티어",
+        "찰스 댄스",
+        "브렌던 코일"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/aCnkVi4QTuc7E0d0qp0SAnRA3M0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/3WK7p9EdZmmvB1IbB2Vw9Rf4lXH.jpg",
+      "vote": 7.932,
+      "ai": {
+        "synopsis_ko": "오랫동안 일하던 카페가 문을 닫으면서 가족의 생계를 걱정하게 된 루이자는 사고로 사지가 마비된 윌의 간병인 일을 맡게 됩니다. 활동적인 사업가였던 윌은 달라진 삶을 받아들이지 못한 채 마음을 닫고, 밝은 옷차림과 수다로 다가오는 루이자에게 냉담하게 반응합니다. 돌봄 경험도 특별한 계획도 없던 루이자는 까다로운 고용주를 상대하며 자존심을 다치지만, 매일 마주하는 사이 두 사람은 서로의 말과 웃음 뒤에 숨은 상처를 조금씩 알아가기 시작합니다.",
+        "watch_points": [
+          "에밀리아 클라크가 연기하는 루이자의 밝고 엉뚱한 에너지가 냉소적인 윌과 부딪히며 만들어내는 대비가 인상적입니다.",
+          "날카로운 말과 냉담한 태도 뒤에 가려진 윌의 상처를 샘 클라플린이 섬세하게 표현합니다.",
+          "작은 마을에 머물던 루이자와 넓은 세상을 알던 윌이 서로의 시야를 넓혀가는 과정이 잔잔하게 그려집니다."
+        ],
+        "recommend_reason": "서로 전혀 다른 두 사람이 천천히 마음을 열어가는 감성적인 로맨스를 좋아하시는 분께 추천합니다. 넷플릭스 TOP10에도 이름을 올린 작품으로, 돌봄과 삶의 의미에 대해 생각해볼 거리를 함께 건네는 드라마입니다.",
+        "recommend_for": [
+          "감성 로맨스를 좋아하는 분",
+          "잔잔한 드라마를 찾는 분"
+        ],
+        "mood_tags": [
+          "따뜻한",
+          "애틋한",
+          "감성적인"
+        ],
+        "confidence": "high",
+        "generated_at": "2026-11-11T02:33:47+00:00",
+        "model": "claude-opus-5-5",
+        "tmdb_id": 296096
+      }
+    },
+    "Heist||": {
+      "id": "Heist||",
+      "show_title": "Heist",
+      "season_title": null,
+      "type": "movie",
+      "title_ko": "하이스트",
+      "year": "2001",
       "genres": [
         "액션",
         "범죄",
         "드라마",
-        "스릴러",
-        "미스터리"
+        "스릴러"
       ],
       "cast": [
-        "맷 딜런",
-        "장 르노",
-        "로렌스 피시번",
-        "Amaury Nolasco",
-        "Fred Ward"
+        "진 해크먼",
+        "대니 드비토",
+        "델로이 린도",
+        "샘 록웰",
+        "Rebecca Pidgeon"
       ],
-      "poster": "https://image.tmdb.org/t/p/w500/oQrAXGkBy84FyGpWrY71ptqs7zD.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/EOAv4NeWOxB5rfGmDJTofX3j3Z.jpg",
-      "vote": 5.8,
+      "poster": "https://image.tmdb.org/t/p/w500/xrwwSXFeW35wYsnobreXbGxHwUC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/1acmRn1cnPnavQGQCrIJOERd6vX.jpg",
+      "vote": 6.321,
       "ai": {
-        "synopsis_ko": "무장수송 경비 회사에서 일하는 직원들이 자신들이 운반하는 현금 4,200만 달러를 빼돌리기로 마음먹습니다. 마이크가 세운 계획은 돈을 옮기는 척하며 숨긴 뒤 트럭에 불을 질러 강도를 당한 것처럼 꾸미는 것입니다. 부모를 잃고 홀로 동생 지미를 돌보는 티와이는 동료들의 제안을 받고 깊은 갈등에 빠집니다.",
+        "synopsis_ko": "보석 도둑 조 무어는 범행 장면이 감시 카메라에 찍히면서 인생이 꼬이기 시작합니다. 장물아비 버그먼은 약속한 돈을 주지 않고, 무어와 파트너 바비, 핑키는 자신들이 빈털터리가 된 채 배신당하고 갈취당한 처지임을 깨닫습니다. 궁지에 몰린 이들은 결국 버그먼이 계획한 마지막 도둑질에 나서게 됩니다.",
         "watch_points": [
-          "맷 딜런, 장 르노, 로렌스 피시번 등 개성 있는 배우들이 한 팀을 이루는 앙상블을 보는 재미가 있습니다.",
-          "무장 트럭 한 대를 통째로 빼돌리려는 계획이 조금씩 어긋나며 쌓여 가는 긴장감이 돋보입니다.",
-          "동생을 책임져야 하는 티와이의 처지가 단순한 범죄극에 인간적인 고민을 더합니다."
+          "진 해크먼이 노련한 보석 도둑 조 무어를 연기하며 작품의 중심을 단단히 잡아 줍니다.",
+          "대니 드비토, 델로이 린도, 샘 록웰 등 개성 강한 배우들이 서로 얽히는 관계를 보는 재미가 있습니다.",
+          "누가 누구를 믿을 수 있는지 알 수 없는 인물들 사이의 긴장감이 범죄 스릴러의 묘미를 살립니다."
         ],
-        "recommend_reason": "짜임새 있는 범죄 계획과 그 속에서 흔들리는 인물들의 이야기를 좋아하시는 분께 추천합니다. 넷플릭스 TOP10에 2주간 이름을 올린 작품으로, 부담 없이 몰입할 수 있는 범죄 스릴러를 찾으신다면 좋은 선택이 될 것입니다.",
+        "recommend_reason": "한 탕을 앞둔 범죄자들 사이의 신경전과 배신의 기운이 감도는 정통 하이스트 영화를 좋아하시는 분께 추천드립니다. 2001년 작품임에도 글로벌 주간 시청수 630만 회를 기록하며 TOP10에 오를 만큼 지금도 꾸준히 관심을 받고 있습니다.",
         "recommend_for": [
-          "범죄 스릴러 팬",
-          "배우 앙상블을 즐기는 분"
+          "범죄 스릴러 애호가",
+          "베테랑 배우 연기를 즐기는 분"
         ],
         "mood_tags": [
           "긴장감",
-          "하이스트",
-          "인간적 갈등"
+          "클래식 범죄극",
+          "심리전"
         ],
         "confidence": "high",
-        "generated_at": "2026-11-05T08:55:37+00:00",
+        "generated_at": "2026-11-11T02:33:55+00:00",
         "model": "claude-opus-5-5",
-        "tmdb_id": 4597
+        "tmdb_id": 11088
       }
     },
-    "My Boss My Hero||": {
-      "id": "My Boss My Hero||",
-      "show_title": "My Boss My Hero",
+    "Nowhere to Run||": {
+      "id": "Nowhere to Run||",
+      "show_title": "Nowhere to Run",
       "season_title": null,
       "type": "movie",
-      "title_ko": "두사부일체",
-      "year": "2001",
+      "title_ko": "탈주자",
+      "year": "1993",
       "genres": [
         "액션",
-        "코미디",
-        "범죄"
+        "드라마",
+        "스릴러"
       ],
       "cast": [
-        "정준호",
-        "정웅인",
-        "정운택",
-        "오승은",
-        "송선미"
+        "장클로드 반담",
+        "로잔나 아퀘트",
+        "키어런 컬킨",
+        "테드 러바인",
+        "Tiffany Taubman"
       ],
-      "poster": "https://image.tmdb.org/t/p/w500/eKg1t2dkiO5cWv251sIytgEKLj0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/9XdFqrOOmKN71bjxrAli6cgdtAb.jpg",
-      "vote": 6.2,
+      "poster": "https://image.tmdb.org/t/p/w500/a2FGbyzk2dTAlu37iGeQBbUjLLE.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/5VF6N8dPSSPeyQdQoQ53mxDcUjw.jpg",
+      "vote": 6.57,
       "ai": {
-        "synopsis_ko": "타고난 카리스마로 조직 세계에서 빠르게 성장하고 있는 영동파 두목 계두식은 명동파를 접수한 뒤 처음으로 조직 수뇌부 회의에 참석합니다. 그 자리에서 큰형님이 내린 명령은 뜻밖에도 '고등학교 졸업장을 따 오라'는 것이었습니다. 부하 상두와 대가리는 두목을 학교에 보내기 위해 한 사립고교에 기부금 입학을 시키고, 그렇게 조직 두목의 고교 생활이 시작됩니다.",
+        "synopsis_ko": "호송 버스에서 탈출한 죄수 샘은 경찰의 추적을 피해 한적한 시골 마을 숲속에 몸을 숨깁니다. 그곳에서 그는 남편을 잃고 어린 두 아이 무키, 브리와 함께 농장을 꾸려 가는 클라이디를 몰래 지켜보게 됩니다. 개발업자 하일이 클라이디의 땅을 차지하려고 해결사를 보내 가족을 위협하고, 아무도 도와주지 않는 상황에서 그녀는 홀로 버티고 있습니다. 숨어 지내야 하는 처지에도 이 가족을 외면할 수 없었던 샘은 결국 그들 앞에 모습을 드러냅니다.",
         "watch_points": [
-          "거친 조직 두목이 교복을 입고 고등학생이 된다는 설정 자체에서 나오는 웃음이 중심을 이룹니다.",
-          "정준호, 정웅인, 정운택이 보여 주는 두목과 부하들의 호흡이 코미디의 재미를 더합니다.",
-          "액션, 코미디, 범죄 장르가 섞여 있어 가볍게 웃으면서도 활기찬 장면들을 즐길 수 있습니다."
+          "쫓기는 탈주자가 위기에 처한 가족을 지키게 되는 설정이 액션과 드라마를 함께 끌고 갑니다.",
+          "장클로드 반담의 액션과 함께, 경계하던 클라이디와 아이들이 차츰 마음을 여는 과정이 따뜻하게 그려집니다.",
+          "개발업자 일당의 위협과 좁혀 오는 수사망이 겹치며 긴장감이 쌓여 갑니다."
         ],
-        "recommend_reason": "2000년대 초 한국 조폭 코미디 특유의 분위기를 다시 느껴 보고 싶은 분께 추천합니다. 넷플릭스 TOP10에 2주간 이름을 올렸을 만큼 지금 다시 보아도 부담 없이 즐길 수 있는 작품입니다.",
+        "recommend_reason": "1990년대 정통 액션 영화의 분위기를 좋아하시거나 장클로드 반담의 작품을 다시 보고 싶은 분께 추천합니다. 시원한 액션에 가족 드라마의 정서가 더해져 있고, 넷플릭스 TOP10에도 한 주 이름을 올리며 다시 관심을 받은 작품입니다.",
         "recommend_for": [
-          "추억의 한국 코미디 팬",
-          "가볍게 웃고 싶은 날"
+          "90년대 액션 영화 팬",
+          "장클로드 반담 팬",
+          "가볍게 즐길 액션을 찾는 분"
+        ],
+        "mood_tags": [
+          "긴장감",
+          "따뜻함",
+          "클래식 액션"
+        ],
+        "confidence": "high",
+        "generated_at": "2026-11-05T08:54:56+00:00",
+        "model": "claude-opus-5-5",
+        "tmdb_id": 10413
+      }
+    },
+    "The Ultimate Duo||": {
+      "id": "The Ultimate Duo||",
+      "show_title": "The Ultimate Duo",
+      "season_title": null,
+      "type": "movie",
+      "title_ko": "끝장수사",
+      "year": "2026",
+      "genres": [
+        "코미디",
+        "범죄",
+        "액션"
+      ],
+      "cast": [
+        "배성우",
+        "정가람",
+        "이솜",
+        "조한철",
+        "윤경호"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/5Ae26RGA7hLe4yYsjH0Q9PYCTLN.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/yfjIDn5aAgBH4ioq4rE2W6zmqju.jpg",
+      "vote": 5.3,
+      "ai": {
+        "synopsis_ko": "한때 광역수사대 에이스였지만 사건을 망치고 인생까지 꼬여 버린 형사 재혁에게, 명석한 두뇌와 돈, 패기를 갖춘 인플루언서 출신 신입 형사 중호가 파트너로 배정됩니다. 사사건건 맞지 않던 두 사람은 시골 교회 헌금함에서 48,700원을 훔친 절도범을 붙잡았다가, 그가 서울 강남 살인사건의 유력 용의자라는 사실을 알아냅니다. 하지만 그 사건은 이미 범인이 체포되어 종결된 상태입니다. 진범을 잡기 위해 서울로 출장을 떠난 두 사람은 담당 검사 미주에게 재수사 지원을 약속받고 강남 경찰서에 공조를 요청합니다.",
+        "watch_points": [
+          "몰락한 베테랑 형사와 인플루언서 출신 신입 형사라는 정반대 성향의 두 사람이 빚어내는 티격태격 버디 호흡이 볼거리입니다.",
+          "고작 48,700원짜리 헌금함 절도 사건이 강남 살인사건으로 이어지는 출발점이 호기심을 자극합니다.",
+          "배성우, 정가람, 이솜, 조한철, 윤경호 등 개성 있는 배우들이 코미디와 범죄 수사를 오가며 보여 주는 연기 앙상블을 눈여겨볼 만합니다."
+        ],
+        "recommend_reason": "티격태격하는 형사 콤비가 사건을 쫓는 코믹 수사극을 좋아하시는 분께 추천합니다. 넷플릭스 TOP10에 6주 동안 이름을 올릴 만큼 꾸준히 사랑받은 작품이라, 웃음과 수사의 재미를 함께 가볍게 즐기기 좋습니다.",
+        "recommend_for": [
+          "버디 형사물 팬",
+          "가볍게 웃고 싶은 날",
+          "한국 코미디 영화 애호가"
         ],
         "mood_tags": [
           "유쾌한",
-          "코믹 액션",
-          "레트로"
+          "티격태격 케미",
+          "코믹 수사극"
         ],
         "confidence": "high",
-        "generated_at": "2026-11-05T08:55:44+00:00",
+        "generated_at": "2026-11-05T08:54:40+00:00",
         "model": "claude-opus-5-5",
-        "tmdb_id": 19588
+        "tmdb_id": 608067
+      }
+    },
+    "Dead-End Job||Dead-End Job: Limited Series": {
+      "id": "Dead-End Job||Dead-End Job: Limited Series",
+      "show_title": "Dead-End Job",
+      "season_title": "Dead-End Job: Limited Series",
+      "type": "tv",
+      "title_ko": "꿀알바",
+      "year": "2026",
+      "genres": [
+        "미스터리"
+      ],
+      "cast": [
+        "이재욱",
+        "고민시",
+        "김민하",
+        "이희준"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/yyA9CI8BLNg6LtVRvmVxki4xiGb.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/gWedDgBsZkuOho2qe3q2sTQmbpO.jpg",
+      "vote": 7.7,
+      "ai": {
+        "synopsis_ko": "빚에 쫓기던 청년 혁준 앞에 어느 날 수상한 인력사무소가 나타납니다. 이곳이 내건 조건은 최소 50배의 시급, 그리고 살아서 퇴근하면 다음엔 더 많이 준다는 의미심장한 약속입니다. 가난에서 벗어나고 싶은 혁준은 위험을 알면서도 오늘도 알바 자리를 수락합니다.",
+        "watch_points": [
+          "'살아서 퇴근하면'이라는 조건이 붙은 고액 알바라는 설정이 처음부터 궁금증을 자극합니다.",
+          "빚과 가난에 내몰린 청년의 절박한 선택이 미스터리 장르 안에서 현실적인 공감대를 만듭니다.",
+          "이재욱, 고민시, 김민하, 이희준 등 출연진이 함께 만들어갈 앙상블도 눈여겨볼 만합니다."
+        ],
+        "recommend_reason": "수상한 제안과 정체 모를 일터를 따라가며 퍼즐을 맞추는 미스터리를 좋아하시는 분께 추천합니다. 공개 첫 주부터 글로벌 주간 시청수 500만을 기록하며 TOP10에 진입해 관심을 모으고 있는 리미티드 시리즈입니다.",
+        "recommend_for": [
+          "미스터리 마니아",
+          "한국 장르물 팬",
+          "짧게 몰아보기"
+        ],
+        "mood_tags": [
+          "긴장감",
+          "수상한",
+          "현실 공감"
+        ],
+        "confidence": "high",
+        "generated_at": "2026-11-05T08:55:58+00:00",
+        "model": "claude-opus-5-5",
+        "tmdb_id": 289517
       }
     },
     "Doctor X: Mafia in White||Doctor X: Mafia in White: Limited Series": {
@@ -1106,49 +1169,6 @@
         "generated_at": "2026-11-05T08:55:51+00:00",
         "model": "claude-opus-5-5",
         "tmdb_id": 293610
-      }
-    },
-    "Dead-End Job||Dead-End Job: Limited Series": {
-      "id": "Dead-End Job||Dead-End Job: Limited Series",
-      "show_title": "Dead-End Job",
-      "season_title": "Dead-End Job: Limited Series",
-      "type": "tv",
-      "title_ko": "꿀알바",
-      "year": "2026",
-      "genres": [
-        "미스터리"
-      ],
-      "cast": [
-        "이재욱",
-        "고민시",
-        "김민하",
-        "이희준"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/yyA9CI8BLNg6LtVRvmVxki4xiGb.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/gWedDgBsZkuOho2qe3q2sTQmbpO.jpg",
-      "vote": 7.7,
-      "ai": {
-        "synopsis_ko": "빚에 쫓기던 청년 혁준 앞에 어느 날 수상한 인력사무소가 나타납니다. 이곳이 내건 조건은 최소 50배의 시급, 그리고 살아서 퇴근하면 다음엔 더 많이 준다는 의미심장한 약속입니다. 가난에서 벗어나고 싶은 혁준은 위험을 알면서도 오늘도 알바 자리를 수락합니다.",
-        "watch_points": [
-          "'살아서 퇴근하면'이라는 조건이 붙은 고액 알바라는 설정이 처음부터 궁금증을 자극합니다.",
-          "빚과 가난에 내몰린 청년의 절박한 선택이 미스터리 장르 안에서 현실적인 공감대를 만듭니다.",
-          "이재욱, 고민시, 김민하, 이희준 등 출연진이 함께 만들어갈 앙상블도 눈여겨볼 만합니다."
-        ],
-        "recommend_reason": "수상한 제안과 정체 모를 일터를 따라가며 퍼즐을 맞추는 미스터리를 좋아하시는 분께 추천합니다. 공개 첫 주부터 글로벌 주간 시청수 500만을 기록하며 TOP10에 진입해 관심을 모으고 있는 리미티드 시리즈입니다.",
-        "recommend_for": [
-          "미스터리 마니아",
-          "한국 장르물 팬",
-          "짧게 몰아보기"
-        ],
-        "mood_tags": [
-          "긴장감",
-          "수상한",
-          "현실 공감"
-        ],
-        "confidence": "high",
-        "generated_at": "2026-11-05T08:55:58+00:00",
-        "model": "claude-opus-5-5",
-        "tmdb_id": 289517
       }
     },
     "100 Days of Deception||100 Days of Deception: Limited Series": {
@@ -1238,42 +1258,41 @@
         "tmdb_id": 129236
       }
     },
-    "The Ballad of Us||The Ballad of Us: Season 2": {
-      "id": "The Ballad of Us||The Ballad of Us: Season 2",
-      "show_title": "The Ballad of Us",
-      "season_title": "The Ballad of Us: Season 2",
+    "Romance School : First & Again||Romance School : First & Again: Season 2": {
+      "id": "Romance School : First & Again||Romance School : First & Again: Season 2",
+      "show_title": "Romance School : First & Again",
+      "season_title": "Romance School : First & Again: Season 2",
       "type": "tv",
-      "title_ko": "우리들의 발라드",
-      "year": "2025",
+      "title_ko": "연애기숙학교 돌싱N모솔",
+      "year": "2026",
       "genres": [
         "Reality"
       ],
       "cast": [],
-      "poster": "https://image.tmdb.org/t/p/w500/2aVyjksEovs1QdFk9pjCZkGKol5.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/3RiACm6V2MuWSg6DwoK83BHI1M2.jpg",
-      "vote": 10.0,
+      "poster": "https://image.tmdb.org/t/p/w500/f31OoLXzH4Sw1IyRir32vTYbmiG.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/lHnRnanfc2SqfmAjb1AoznvGifb.jpg",
+      "vote": 0.0,
       "ai": {
-        "synopsis_ko": "《우리들의 발라드》는 요즘 세대 참가자들이 '그 시절 너와 나의 노래'를 다시 부르는 음악 서바이벌 오디션 리얼리티입니다. 음악 전문가부터 일반 남녀노소까지 150명으로 구성된 '탑백귀 대표단'이 대중의 귀를 대표하는 감별사로 나섭니다. 집단 지성을 통해 새로운 목소리를 찾아가는 과정을 담았습니다.",
+        "synopsis_ko": "《연애기숙학교 돌싱N모솔》은 연애의 끝을 씁쓸하게 경험해 본 돌싱 여성들과 연애의 시작조차 해보지 못한 모태솔로 남성들이 함께 연애기숙학교에 입학하는 리얼리티 예능입니다. 연애 경험이 정반대인 두 그룹이 한 공간에서 생활하며 짝을 찾아가는 과정을 담았습니다. 이번 작품은 시즌 2로 찾아왔습니다.",
         "watch_points": [
-          "익숙한 추억의 발라드가 요즘 참가자들의 목소리로 어떻게 새롭게 들리는지 비교하며 감상할 수 있습니다.",
-          "전문가뿐 아니라 다양한 연령대의 일반인이 함께 평가하는 150명 대표단의 선택이 흥미로운 관전 포인트입니다.",
-          "대중의 귀로 새로운 목소리를 발굴한다는 집단 지성 오디션 방식이 기존 오디션 프로그램과는 다른 재미를 줍니다."
+          "이별을 겪어 본 돌싱 여성과 연애를 시작해 본 적 없는 모태솔로 남성이라는 대비되는 조합이 흥미롭습니다.",
+          "'기숙학교'라는 설정 속에서 출연자들이 함께 지내며 관계를 쌓아가는 모습을 지켜볼 수 있습니다.",
+          "연애의 끝과 시작이라는 서로 다른 출발점에서 각자 어떤 마음으로 짝을 찾아가는지 살펴보는 재미가 있습니다."
         ],
-        "recommend_reason": "옛 발라드에 대한 향수가 있거나 새로운 보컬을 발견하는 오디션 프로그램을 좋아하시는 분께 추천합니다. 넷플릭스 TOP10에 4주간 이름을 올릴 만큼 꾸준히 관심을 받은 작품이라 부담 없이 시작해 보셔도 좋습니다.",
+        "recommend_reason": "연애 리얼리티를 즐겨 보시면서 기존과는 다른 조합의 출연자 구성을 궁금해하시는 분께 추천합니다. 넷플릭스 TOP10에도 이름을 올린 시즌인 만큼, 가볍게 함께 이야기 나누며 보기 좋은 작품입니다.",
         "recommend_for": [
-          "발라드 애호가",
-          "오디션 프로그램 팬",
-          "가족과 함께"
+          "연애 리얼리티 애호가",
+          "색다른 예능을 찾는 분"
         ],
         "mood_tags": [
-          "감성적인",
-          "추억 소환",
-          "잔잔한 긴장감"
+          "설렘",
+          "현실 연애",
+          "관찰 예능"
         ],
-        "confidence": "high",
-        "generated_at": "2026-11-08T02:03:11+00:00",
+        "confidence": "low",
+        "generated_at": "2026-11-11T02:34:03+00:00",
         "model": "claude-opus-5-5",
-        "tmdb_id": 301379
+        "tmdb_id": 319744
       }
     },
     "World Dice Tour||World Dice Tour: Season 4": {
@@ -1321,6 +1340,44 @@
         "tmdb_id": 219465
       }
     },
+    "The Ballad of Us||The Ballad of Us: Season 2": {
+      "id": "The Ballad of Us||The Ballad of Us: Season 2",
+      "show_title": "The Ballad of Us",
+      "season_title": "The Ballad of Us: Season 2",
+      "type": "tv",
+      "title_ko": "우리들의 발라드",
+      "year": "2025",
+      "genres": [
+        "Reality"
+      ],
+      "cast": [],
+      "poster": "https://image.tmdb.org/t/p/w500/2aVyjksEovs1QdFk9pjCZkGKol5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/3RiACm6V2MuWSg6DwoK83BHI1M2.jpg",
+      "vote": 10.0,
+      "ai": {
+        "synopsis_ko": "《우리들의 발라드》는 요즘 세대 참가자들이 '그 시절 너와 나의 노래'를 다시 부르는 음악 서바이벌 오디션 리얼리티입니다. 음악 전문가부터 일반 남녀노소까지 150명으로 구성된 '탑백귀 대표단'이 대중의 귀를 대표하는 감별사로 나섭니다. 집단 지성을 통해 새로운 목소리를 찾아가는 과정을 담았습니다.",
+        "watch_points": [
+          "익숙한 추억의 발라드가 요즘 참가자들의 목소리로 어떻게 새롭게 들리는지 비교하며 감상할 수 있습니다.",
+          "전문가뿐 아니라 다양한 연령대의 일반인이 함께 평가하는 150명 대표단의 선택이 흥미로운 관전 포인트입니다.",
+          "대중의 귀로 새로운 목소리를 발굴한다는 집단 지성 오디션 방식이 기존 오디션 프로그램과는 다른 재미를 줍니다."
+        ],
+        "recommend_reason": "옛 발라드에 대한 향수가 있거나 새로운 보컬을 발견하는 오디션 프로그램을 좋아하시는 분께 추천합니다. 넷플릭스 TOP10에 4주간 이름을 올릴 만큼 꾸준히 관심을 받은 작품이라 부담 없이 시작해 보셔도 좋습니다.",
+        "recommend_for": [
+          "발라드 애호가",
+          "오디션 프로그램 팬",
+          "가족과 함께"
+        ],
+        "mood_tags": [
+          "감성적인",
+          "추억 소환",
+          "잔잔한 긴장감"
+        ],
+        "confidence": "high",
+        "generated_at": "2026-11-08T02:03:11+00:00",
+        "model": "claude-opus-5-5",
+        "tmdb_id": 301379
+      }
+    },
     "The Wonder Coach||The Wonder Coach: Season 2": {
       "id": "The Wonder Coach||The Wonder Coach: Season 2",
       "show_title": "The Wonder Coach",
@@ -1359,47 +1416,6 @@
         "generated_at": "2026-11-05T08:56:34+00:00",
         "model": "claude-opus-5-5",
         "tmdb_id": 301798
-      }
-    },
-    "Where the Mask Ends||Where the Mask Ends: Season 1": {
-      "id": "Where the Mask Ends||Where the Mask Ends: Season 1",
-      "show_title": "Where the Mask Ends",
-      "season_title": "Where the Mask Ends: Season 1",
-      "type": "tv",
-      "title_ko": "가금채",
-      "year": "2026",
-      "genres": [
-        "드라마"
-      ],
-      "cast": [
-        "전희미",
-        "Yan An"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/lmvbyTinVPHrbplMIV5151OqYzK.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/q6VPQREsEGFccpWVF7wFvy9oc25.jpg",
-      "vote": 7.0,
-      "ai": {
-        "synopsis_ko": "거리를 떠돌며 괴롭힘을 당하던 아처우는 후부의 아가씨 웨이라오와 얼굴이 매우 닮았다는 이유로, 뜻밖에도 국공부 세자 루줘의 액막이 신부가 됩니다. 야심을 품은 아처우는 이 기회를 발판 삼아 신분 상승을 꿈꾸지만, 죽음을 앞두고 있던 남편 루줘가 갑자기 의식을 되찾으면서 예상하지 못한 일들이 잇따릅니다. 겉으로는 평화로워 보이는 국공부에도 저마다의 속셈과 위험이 곳곳에 숨어 있습니다.",
-        "watch_points": [
-          "닮은 얼굴 하나로 전혀 다른 신분의 삶에 들어서게 된 아처우의 대담한 출발이 흥미를 끕니다.",
-          "액막이 신부와 깨어난 세자 루줘, 의도치 않게 엮인 두 사람의 관계 변화를 지켜보는 재미가 있습니다.",
-          "고요해 보이는 국공부 안에 도사린 계략과 긴장감이 사극 특유의 몰입감을 더합니다."
-        ],
-        "recommend_reason": "신분 상승을 꿈꾸는 주인공의 생존기와 궁중·가문 암투가 어우러진 중국 사극을 좋아하시는 분께 추천합니다. 글로벌 TOP10에 2주째 이름을 올리고 주간 시청수 260만 회를 기록하며 꾸준히 관심을 모으고 있는 작품입니다.",
-        "recommend_for": [
-          "중국 사극 팬",
-          "로맨스 사극을 좋아하는 분",
-          "암투극 마니아"
-        ],
-        "mood_tags": [
-          "긴장감 있는",
-          "로맨틱한",
-          "권모술수"
-        ],
-        "confidence": "high",
-        "generated_at": "2026-11-05T08:56:44+00:00",
-        "model": "claude-opus-5-5",
-        "tmdb_id": 300146
       }
     },
     "Marriage of Convenience||Marriage of Convenience: Season 1": {
@@ -1444,140 +1460,407 @@
         "tmdb_id": 336844
       }
     },
-    "Take Charge of My Heart||Take Charge of My Heart: Limited Series": {
-      "id": "Take Charge of My Heart||Take Charge of My Heart: Limited Series",
-      "show_title": "Take Charge of My Heart",
-      "season_title": "Take Charge of My Heart: Limited Series",
+    "Where the Mask Ends||Where the Mask Ends: Season 1": {
+      "id": "Where the Mask Ends||Where the Mask Ends: Season 1",
+      "show_title": "Where the Mask Ends",
+      "season_title": "Where the Mask Ends: Season 1",
       "type": "tv",
-      "title_ko": "나를 충전해줘",
+      "title_ko": "가금채",
       "year": "2026",
       "genres": [
-        "Sci-Fi & Fantasy",
+        "드라마"
+      ],
+      "cast": [
+        "전희미",
+        "Yan An"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/lmvbyTinVPHrbplMIV5151OqYzK.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/q6VPQREsEGFccpWVF7wFvy9oc25.jpg",
+      "vote": 7.0,
+      "ai": {
+        "synopsis_ko": "거리를 떠돌며 괴롭힘을 당하던 아처우는 후부의 아가씨 웨이라오와 얼굴이 매우 닮았다는 이유로, 뜻밖에도 국공부 세자 루줘의 액막이 신부가 됩니다. 야심을 품은 아처우는 이 기회를 발판 삼아 신분 상승을 꿈꾸지만, 죽음을 앞두고 있던 남편 루줘가 갑자기 의식을 되찾으면서 예상하지 못한 일들이 잇따릅니다. 겉으로는 평화로워 보이는 국공부에도 저마다의 속셈과 위험이 곳곳에 숨어 있습니다.",
+        "watch_points": [
+          "닮은 얼굴 하나로 전혀 다른 신분의 삶에 들어서게 된 아처우의 대담한 출발이 흥미를 끕니다.",
+          "액막이 신부와 깨어난 세자 루줘, 의도치 않게 엮인 두 사람의 관계 변화를 지켜보는 재미가 있습니다.",
+          "고요해 보이는 국공부 안에 도사린 계략과 긴장감이 사극 특유의 몰입감을 더합니다."
+        ],
+        "recommend_reason": "신분 상승을 꿈꾸는 주인공의 생존기와 궁중·가문 암투가 어우러진 중국 사극을 좋아하시는 분께 추천합니다. 글로벌 TOP10에 2주째 이름을 올리고 주간 시청수 260만 회를 기록하며 꾸준히 관심을 모으고 있는 작품입니다.",
+        "recommend_for": [
+          "중국 사극 팬",
+          "로맨스 사극을 좋아하는 분",
+          "암투극 마니아"
+        ],
+        "mood_tags": [
+          "긴장감 있는",
+          "로맨틱한",
+          "권모술수"
+        ],
+        "confidence": "high",
+        "generated_at": "2026-11-05T08:56:44+00:00",
+        "model": "claude-opus-5-5",
+        "tmdb_id": 300146
+      }
+    },
+    "A Dog's Perfect Christmas||": {
+      "id": "A Dog's Perfect Christmas||",
+      "show_title": "A Dog's Perfect Christmas",
+      "season_title": null,
+      "type": "movie",
+      "title_ko": "반려견의 완벽한 크리스마스",
+      "year": "2026",
+      "genres": [
         "코미디",
         "드라마"
       ],
       "cast": [
-        "김영광",
-        "채수빈",
-        "차우민",
-        "허동원"
+        "데니스 퀘이드",
+        "Milo Ventimiglia",
+        "브룩 레나 존슨",
+        "캐슬린 로즈 퍼킨스",
+        "제니퍼 틸리"
       ],
-      "poster": "https://image.tmdb.org/t/p/w500/p5UJ0xS2NVmqtUfy9i0DMIJ1Lf3.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/cnb3SelfQKewpo0bw4HCNRHjwY4.jpg",
-      "vote": 8.766,
+      "poster": "https://image.tmdb.org/t/p/w500/zvsNAohDHRWcGvbPSD7r3WojpKb.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg",
+      "vote": 7.4,
       "ai": {
-        "synopsis_ko": "모든 것을 갖춘 듯한 재벌 3세 백호랑에게는 남에게 말할 수 없는 약점이 하나 있습니다. 바로 인공 심장을 달고 살아간다는 사실입니다. 심장 배터리가 방전되기 직전의 위기에서 그는 온몸에 전기가 흐르는 여자 나보배를 만나게 되고, 두 사람은 특별한 계약을 맺게 됩니다.",
+        "synopsis_ko": "갑작스러운 건강 문제로 고스 가족은 뿔뿔이 흩어지게 됩니다. 크리스마스를 앞두고 가족이 각자의 자리에서 떨어져 지내는 가운데, 충직한 반려견 윈스테드가 나섭니다. 윈스테드는 크리스마스이브가 오기 전 가족을 다시 한자리에 모으기 위해 온 힘을 다합니다.",
         "watch_points": [
-          "인공 심장과 몸에 전기가 흐르는 여자라는 독특한 판타지 설정이 로맨틱 코미디와 어떻게 어우러지는지 지켜보는 재미가 있습니다.",
-          "김영광과 채수빈이 완벽해 보이는 재벌 3세와 특별한 능력을 지닌 여자로 만나 보여주는 호흡이 기대됩니다.",
-          "배터리 충전을 위해 시작된 계약 관계가 감정의 변화로 이어질지 궁금증을 자아내는 구성이 돋보입니다."
+          "가족을 다시 모으려는 반려견 윈스테드의 활약이 이야기의 중심을 이룹니다.",
+          "데니스 퀘이드, 마일로 벤티미글리아, 제니퍼 틸리 등 익숙한 배우들이 함께 출연합니다.",
+          "코미디와 드라마가 어우러져 크리스마스 시즌에 어울리는 가족 이야기를 전합니다."
         ],
-        "recommend_reason": "가볍게 웃으면서도 설레는 판타지 로맨스를 찾는 분께 추천합니다. 넷플릭스 TOP10에 4주 동안 이름을 올릴 만큼 꾸준한 관심을 받은 리미티드 시리즈라 부담 없이 정주행하기 좋습니다.",
+        "recommend_reason": "연말에 온 가족이 함께 편하게 볼 따뜻한 영화를 찾는 분께 추천합니다. 공개 후 넷플릭스 글로벌 TOP10에 진입해 한 주 동안 약 860만 회 시청을 기록하며 많은 시청자의 선택을 받았습니다.",
         "recommend_for": [
-          "로맨틱 코미디 팬",
-          "판타지 로맨스를 좋아하는 분",
-          "가볍게 정주행할 작품을 찾는 분"
+          "가족과 함께",
+          "반려동물을 사랑하는 분",
+          "연말 시즌 영화 찾는 분"
         ],
         "mood_tags": [
-          "설레는",
+          "따뜻한",
           "유쾌한",
-          "판타지"
+          "크리스마스"
         ],
         "confidence": "high",
-        "generated_at": "2026-11-05T08:56:58+00:00",
+        "generated_at": "2026-11-11T02:34:09+00:00",
         "model": "claude-opus-5-5",
-        "tmdb_id": 289423
+        "tmdb_id": 1570488
       }
     },
-    "Animals||": {
-      "id": "Animals||",
-      "show_title": "Animals",
+    "Final Destination: Bloodlines||": {
+      "id": "Final Destination: Bloodlines||",
+      "show_title": "Final Destination: Bloodlines",
       "season_title": null,
       "type": "movie",
-      "title_ko": "짐승들",
-      "year": "2026",
+      "title_ko": "파이널 데스티네이션: 블러드라인",
+      "year": "2025",
       "genres": [
-        "스릴러",
-        "드라마",
-        "액션",
-        "범죄"
+        "공포",
+        "미스터리"
       ],
       "cast": [
-        "벤 애플렉",
-        "케리 워싱턴",
-        "질리언 앤더슨",
-        "스티븐 연",
-        "아드리아나 파스"
+        "케이틀린 산타 후아나",
+        "테오 브리오네스",
+        "리아 킬스테트",
+        "리처드 하몬",
+        "오웬 패트릭 조이너"
       ],
-      "poster": "https://image.tmdb.org/t/p/w500/4wBaw64HtUcMzKHJ21hDPtkNWcb.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/tzoarEu7TsG959upiELyYPm5kO9.jpg",
-      "vote": 6.967,
+      "poster": "https://image.tmdb.org/t/p/w500/agaIglFrRGuUQOzkhzlrvcjJgt2.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/uIpJPDNFoeX0TVml9smPrs9KUVx.jpg",
+      "vote": 7.027,
       "ai": {
-        "synopsis_ko": "로스앤젤레스 시장 선거에 나선 후보와 그의 아내는 어느 날 아들이 납치되는 사건을 겪습니다. 두 사람은 아들의 몸값을 마련하기 위해 안간힘을 쓰지만, 그 과정에서 거짓과 속임수가 뒤얽힌 소용돌이에 휘말리게 됩니다. 결국 이들은 자신들의 삶을 송두리째 무너뜨릴 수도 있는 선택과 숨겨 온 비밀 앞에 서게 됩니다.",
+        "synopsis_ko": "끝없는 악몽에 시달리던 스테파니는 그 원인을 찾아 나섭니다. 그 과정에서 그녀는 집안 대대로 내려오는 죽음의 저주와 그 실체를 알게 됩니다. 그리고 죽음의 순서가 자신의 가족에게까지 이어졌다는 사실을 깨닫게 되면서, 다음 차례가 누구일지 모르는 긴장 속에 놓이게 됩니다.",
         "watch_points": [
-          "선거를 앞둔 정치인 가족에게 닥친 납치 사건이라는 설정이 처음부터 긴장감을 만들어 냅니다.",
-          "벤 애플렉, 케리 워싱턴, 질리언 앤더슨, 스티븐 연, 아드리아나 파스 등 탄탄한 배우진이 한 작품에 모였습니다.",
-          "스릴러와 범죄, 액션에 드라마가 더해져 사건의 긴박함과 인물들의 내면 갈등을 함께 따라가는 재미가 있습니다."
+          "반복되는 악몽이라는 단서에서 출발해 가문의 비밀을 하나씩 파헤쳐 가는 미스터리 구조가 흥미를 더합니다.",
+          "'다음 차례는 누구인가'라는 질문이 시종일관 긴장감을 유지시키는 공포 장르의 재미가 살아 있습니다.",
+          "죽음의 저주라는 시리즈 특유의 설정을 가족과 혈통의 이야기로 풀어낸 점이 눈여겨볼 만합니다."
         ],
-        "recommend_reason": "가족을 지키기 위한 선택과 그 대가를 다룬 긴장감 있는 범죄 스릴러를 찾는 분께 추천드립니다. 글로벌 TOP10에 4주 동안 머물며 주간 시청수 470만 회를 기록할 만큼 많은 시청자의 관심을 받은 작품입니다.",
+        "recommend_reason": "피할 수 없는 운명과 조여 오는 공포를 즐기시는 분께 권해 드립니다. 공개 후 TOP10에 진입해 한 주 동안 전 세계에서 580만 회 시청될 만큼 관심을 모은 작품입니다.",
         "recommend_for": [
-          "스릴러 마니아",
-          "배우 앙상블을 좋아하는 분",
-          "범죄 드라마 팬"
+          "공포 영화 팬",
+          "미스터리 좋아하는 분",
+          "시리즈 팬"
+        ],
+        "mood_tags": [
+          "긴장감",
+          "오싹함",
+          "미스터리"
+        ],
+        "confidence": "high",
+        "generated_at": "2026-11-11T02:34:17+00:00",
+        "model": "claude-opus-5-5",
+        "tmdb_id": 574475
+      }
+    },
+    "The Day After Tomorrow||": {
+      "id": "The Day After Tomorrow||",
+      "show_title": "The Day After Tomorrow",
+      "season_title": null,
+      "type": "movie",
+      "title_ko": "투모로우",
+      "year": "2004",
+      "genres": [
+        "SF",
+        "스릴러",
+        "모험"
+      ],
+      "cast": [
+        "데니스 퀘이드",
+        "제이크 질렌할",
+        "이안 홈",
+        "에미 로섬",
+        "Sela Ward"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/96W0h7WdHacyarELRPkLXBnQckk.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/smqQ71MIn1DSdSiQzCzCOV6rgRq.jpg",
+      "vote": 6.569,
+      "ai": {
+        "synopsis_ko": "기후학자 잭 홀은 남극에서 빙하를 연구하던 중, 급격한 지구 온난화가 해류의 흐름을 바꿔 새로운 빙하기를 불러올 수 있다는 사실을 깨닫습니다. 국제회의에서 이를 경고하지만 그의 주장은 먼 미래의 일로 치부되고, 정부 관료들도 귀를 기울이지 않습니다. 그런데 얼마 지나지 않아 일본에 거대한 우박이 쏟아지는 등 세계 곳곳에서 이상 기후가 한꺼번에 터져 나옵니다. 그 무렵 잭의 아들 샘은 학술 경시대회에 참가하려고 친구 로라, 브라이언과 함께 뉴욕에 와 있습니다.",
+        "watch_points": [
+          "거대한 우박과 해일, 혹한 등 세계 곳곳을 덮치는 이상 기후가 스크린을 채우는 재난 스펙터클을 보실 수 있습니다.",
+          "경고를 외면당한 과학자와 위기 속 도시에 남은 아들, 두 갈래로 펼쳐지는 이야기가 긴장감을 이어 갑니다.",
+          "데니스 퀘이드와 제이크 질렌할이 아버지와 아들로 호흡을 맞추며 재난 속 가족애를 그려 냅니다."
+        ],
+        "recommend_reason": "대규모 자연재해를 다룬 SF 재난 영화와 가족 드라마를 함께 즐기고 싶은 분께 추천해 드립니다. 2004년 작품임에도 넷플릭스 글로벌 TOP10에 2주간 이름을 올리고 주간 시청수 440만 회를 기록할 만큼, 기후 위기를 다룬 이야기가 지금도 꾸준히 관심을 받고 있습니다.",
+        "recommend_for": [
+          "재난 영화 마니아",
+          "가족과 함께",
+          "기후 위기 이야기에 관심 있는 분"
         ],
         "mood_tags": [
           "긴박한",
-          "어두운",
-          "심리적 압박"
+          "스펙터클",
+          "뭉클한 가족애"
         ],
         "confidence": "high",
-        "generated_at": "2026-11-05T08:57:06+00:00",
+        "generated_at": "2026-11-11T02:34:27+00:00",
         "model": "claude-opus-5-5",
-        "tmdb_id": 1236045
+        "tmdb_id": 435
       }
     },
-    "Return to Sender||": {
-      "id": "Return to Sender||",
-      "show_title": "Return to Sender",
+    "Sing 2||": {
+      "id": "Sing 2||",
+      "show_title": "Sing 2",
       "season_title": null,
       "type": "movie",
-      "title_ko": "리턴 투 센더",
-      "year": "2015",
+      "title_ko": "씽2게더",
+      "year": "2021",
       "genres": [
-        "드라마",
+        "애니메이션",
+        "코미디",
+        "가족",
+        "음악"
+      ],
+      "cast": [
+        "매튜 매커너히",
+        "리즈 위더스푼",
+        "스칼렛 요한슨",
+        "태런 에저턴",
+        "바비 카나베일"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/xxpPSgWZ1D7S5ugMjGdHJpOjZIz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/ztiFxuG0gC6wQ8y7JZFYbCQyN4Y.jpg",
+      "vote": 7.831,
+      "ai": {
+        "synopsis_ko": "작은 극장을 운영하던 버스터 문은 더 큰 무대를 꿈꾸며, 노래하는 친구들과 함께 화려한 도시 레드 쇼어 시티로 향합니다. 오디션에서 거물 제작자 지미 크리스털의 관심을 끌기 위해, 그는 전설적인 가수 클레이 캘러웨이를 무대에 세우겠다고 장담합니다. 하지만 클레이는 사랑하는 아내를 잃은 뒤 세상과 담을 쌓고 지내는 인물이고, 버스터는 그를 한 번도 만나 본 적이 없습니다. 무모한 약속으로 얻은 단 한 번의 기회를 붙잡기 위해 버스터와 친구들의 도전이 시작됩니다.",
+        "watch_points": [
+          "매튜 매커너히, 리즈 위더스푼, 스칼렛 요한슨, 태런 에저턴 등 배우들이 목소리로 참여한 노래와 연기를 들어 보시는 재미가 있습니다.",
+          "작은 극장을 떠나 화려한 레드 쇼어 시티의 대형 무대로 옮겨 간 만큼 더욱 커진 공연 스케일을 감상하실 수 있습니다.",
+          "춤과 연기, 고소공포증처럼 각자 낯선 과제에 부딪히는 친구들이 서로를 믿으며 한계를 마주하는 과정이 따뜻하게 그려집니다."
+        ],
+        "recommend_reason": "음악과 웃음, 응원하고 싶은 캐릭터들이 어우러진 애니메이션이라 온 가족이 함께 편하게 보시기 좋은 작품입니다. 넷플릭스 TOP10에 14주 동안 머물고 주간 글로벌 시청수 430만 회를 기록할 만큼 꾸준히 사랑받고 있다는 점도 선택에 참고하실 만합니다.",
+        "recommend_for": [
+          "가족과 함께",
+          "음악 영화를 좋아하는 분",
+          "가볍게 힐링하고 싶은 분"
+        ],
+        "mood_tags": [
+          "유쾌한",
+          "신나는",
+          "따뜻한"
+        ],
+        "confidence": "high",
+        "generated_at": "2026-11-11T02:34:37+00:00",
+        "model": "claude-opus-5-5",
+        "tmdb_id": 438695
+      }
+    },
+    "Sniper: The Last Stand||": {
+      "id": "Sniper: The Last Stand||",
+      "show_title": "Sniper: The Last Stand",
+      "season_title": null,
+      "type": "movie",
+      "title_ko": "스나이퍼: 최후의 전쟁",
+      "year": "2025",
+      "genres": [
+        "액션",
         "스릴러"
       ],
       "cast": [
-        "로저먼드 파이크",
-        "샤일로 페르난데스",
-        "닉 놀티",
-        "루머 윌리스",
-        "Keir O'Donnell"
+        "Chad Michael Collins",
+        "Ryan Robbins",
+        "Sharon Taylor",
+        "Manuel Rodriguez-Saenz",
+        "Vusi Kunene"
       ],
-      "poster": "https://image.tmdb.org/t/p/w500/Atz5diZf8nZsAsmEuLUJssCzaih.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/nFPT1iucVA0qkmkJktYNeYzXhLc.jpg",
-      "vote": 6.103,
+      "poster": "https://image.tmdb.org/t/p/w500/TVvIyCsFCmLk9MRLbAZi4X8f32.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/ybSA7fUbYHw8VeRiSJ7tgKJnYWZ.jpg",
+      "vote": 6.7,
       "ai": {
-        "synopsis_ko": "외모와 패션 감각, 외과 간호사로서의 커리어까지 모든 것이 완벽해 보이던 미란다는 친구가 소개해 준 데이트 상대를 집에서 기다리던 중 낯선 남자에게 끔찍한 범죄를 당합니다. 범인은 곧 체포되지만, 미란다는 예전 같지 않은 일상 속에서 깊은 좌절을 겪습니다. 얼마 후 그녀는 교도소에 수감된 범인에게 편지를 보내기 시작하고, 거듭 반송되던 편지에서 어느 날 한 줄의 메시지를 발견합니다. 그리고 가장 단정한 모습으로 교도소를 찾아가 범인을 향해 미소를 짓습니다.",
+        "synopsis_ko": "초강력 살상무기의 사용을 막기 위해 최정예 스나이퍼 브랜든 베켓과 에이전트 제로, 그리고 그들의 정예 부대가 코스타 베르데로 파견됩니다. 브랜든은 아직 실력이 검증되지 않은 저격수를 휘하에 두게 되면서 리더로서 새로운 도전에 직면합니다. 무기도 시간도 부족한 상황에서 이들은 임무를 완수하고 살아남아야 합니다.",
         "watch_points": [
-          "피해 이후 무너진 일상과 그 속에서 흔들리는 인물의 내면을 따라가는 심리 드라마로서의 무게감이 있습니다.",
-          "가해자에게 편지를 보내는 미란다의 속내를 끝까지 짐작하기 어렵게 만드는 긴장감이 극을 이끕니다.",
-          "로저먼드 파이크, 닉 놀티, 샤일로 페르난데스, 루머 윌리스 등 배우들의 연기 호흡을 지켜보는 재미가 있습니다."
+          "무기와 시간이 모두 부족한 극한 상황이 만들어내는 긴장감을 느껴 보세요.",
+          "검증되지 않은 저격수를 이끌게 된 브랜든이 리더로서 어떤 모습을 보여주는지 지켜보는 재미가 있습니다.",
+          "저격수가 중심이 되는 액션 스릴러 특유의 정밀한 작전 장면에 주목해 보세요."
         ],
-        "recommend_reason": "인물의 감정을 차분하게 쌓아 올리며 서서히 조여 오는 심리 스릴러를 좋아하시는 분께 추천합니다. 2015년 작품임에도 넷플릭스 글로벌 TOP10에 진입해 한 주 동안 약 360만 회 시청되며 다시 주목받았습니다.",
+        "recommend_reason": "군사 작전과 저격 액션을 좋아하시는 분께 추천합니다. 글로벌 주간 시청수 390만 회를 기록하며 넷플릭스 TOP10에 오른 작품으로, 부담 없이 즐길 수 있는 액션 영화를 찾으신다면 선택해 보셔도 좋겠습니다.",
         "recommend_for": [
-          "심리 스릴러 애호가",
-          "배우 연기 중심 영화를 좋아하는 분"
+          "밀리터리 액션 팬",
+          "스릴러 마니아"
         ],
         "mood_tags": [
-          "서늘한",
-          "긴장감 있는",
-          "묵직한"
+          "긴박한",
+          "박진감 있는"
         ],
         "confidence": "high",
-        "generated_at": "2026-11-05T08:57:17+00:00",
+        "generated_at": "2026-11-11T02:34:44+00:00",
         "model": "claude-opus-5-5",
-        "tmdb_id": 333381
+        "tmdb_id": 1410082
+      }
+    },
+    "Thanksgiving||": {
+      "id": "Thanksgiving||",
+      "show_title": "Thanksgiving",
+      "season_title": null,
+      "type": "movie",
+      "title_ko": "블랙 프라이데이",
+      "year": "2023",
+      "genres": [
+        "공포",
+        "미스터리"
+      ],
+      "cast": [
+        "패트릭 뎀시",
+        "Nell Verlaque",
+        "에디슨 레이",
+        "마일로 맨하임",
+        "Jalen Thomas Brooks"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/8vCCG2KSdDo0QJGQD2B7CkVO0rW.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/ktHEdqmMWC1wdfPRMRCTZe2OISL.jpg",
+      "vote": 6.462,
+      "ai": {
+        "synopsis_ko": "블랙 프라이데이 할인 행사 도중 벌어진 소동으로 마을 주민 여럿이 목숨을 잃고, 마을은 그 악몽 같은 날의 상처를 안은 채 일상을 이어갑니다. 그러던 어느 날 정체를 알 수 없는 살인 사건들이 잇따라 발생합니다. 처음에는 서로 관계없어 보이던 죽음들이 '복수'라는 이름 아래 계획된 연쇄 살인이라는 사실이 드러나고, 남은 이들은 다음 희생자가 되기 전에 살인마의 정체를 밝혀내야 합니다.",
+        "watch_points": [
+          "쇼핑 대목인 블랙 프라이데이와 추수감사절이라는 익숙한 명절 풍경을 공포의 무대로 바꾼 설정이 독특한 긴장감을 줍니다.",
+          "별개로 보이던 사건들이 하나의 계획으로 이어지는 과정을 따라가며 범인을 추리하는 미스터리의 재미가 있습니다.",
+          "패트릭 뎀시를 비롯해 에디슨 레이, 넬 버레이크 등 신구 배우들이 함께 만들어 내는 앙상블을 보는 재미가 있습니다."
+        ],
+        "recommend_reason": "정체불명의 살인마를 쫓는 슬래셔 공포와 추리 요소를 함께 즐기고 싶은 분께 추천드립니다. 넷플릭스 글로벌 TOP10에 2주간 이름을 올리고 한 주 동안 380만 회의 시청수를 기록한 만큼, 많은 시청자가 선택한 공포 영화를 찾으신다면 가볍게 골라 보셔도 좋겠습니다.",
+        "recommend_for": [
+          "공포 영화 팬",
+          "범인 추리를 좋아하는 분"
+        ],
+        "mood_tags": [
+          "긴장감",
+          "오싹한",
+          "미스터리"
+        ],
+        "confidence": "high",
+        "generated_at": "2026-11-11T02:34:53+00:00",
+        "model": "claude-opus-5-5",
+        "tmdb_id": 1071215
+      }
+    },
+    "Sing||": {
+      "id": "Sing||",
+      "show_title": "Sing",
+      "season_title": null,
+      "type": "movie",
+      "title_ko": "씽",
+      "year": "2016",
+      "genres": [
+        "애니메이션",
+        "코미디",
+        "가족",
+        "음악"
+      ],
+      "cast": [
+        "매튜 매커너히",
+        "리즈 위더스푼",
+        "세스 맥팔레인",
+        "스칼렛 요한슨",
+        "존 C. 라일리"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/kKDXw5uRCioD522P1skH49YLNAH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/z9ft5HYHzWcasR6SGcgeluxTznB.jpg",
+      "vote": 7.124,
+      "ai": {
+        "synopsis_ko": "관객이 끊긴 극장을 지키려는 코알라 버스터 문은 노래 경연을 열어 다시 객석을 채우겠다는 계획을 세웁니다. 그런데 전단지 실수로 천 달러였던 상금이 십만 달러로 적히면서, 저마다 꿈을 품은 동물들이 극장 앞으로 몰려듭니다. 스물다섯 아이를 돌보는 로지타, 록 음악을 사랑하는 애쉬, 범죄자인 아버지와 다른 길을 원하는 조니, 무대가 두려운 미나, 상금을 노리는 마이크까지 각자의 사정을 안고 연습실에 모입니다.",
+        "watch_points": [
+          "서로 다른 고민과 재능을 가진 동물 참가자들이 한 무대를 준비하는 과정을 따라가는 재미가 있습니다.",
+          "매튜 매커너히, 리즈 위더스푼, 스칼렛 요한슨 등 익숙한 배우들의 목소리 연기를 들어 보실 수 있습니다.",
+          "노래 밖의 현실과 부딪치는 인물들이 자기 목소리를 찾아가는 이야기가 음악과 함께 펼쳐집니다."
+        ],
+        "recommend_reason": "온 가족이 함께 부담 없이 웃고 음악을 즐길 영화를 찾는 분께 추천합니다. 넷플릭스 TOP10에 18주 동안 이름을 올릴 만큼 꾸준히 사랑받아 온 작품이라 함께 보기에 무난한 선택입니다.",
+        "recommend_for": [
+          "가족과 함께",
+          "음악 영화를 좋아하는 분",
+          "애니메이션 팬"
+        ],
+        "mood_tags": [
+          "유쾌한",
+          "따뜻한",
+          "흥겨운"
+        ],
+        "confidence": "high",
+        "generated_at": "2026-11-11T02:35:00+00:00",
+        "model": "claude-opus-5-5",
+        "tmdb_id": 335797
+      }
+    },
+    "Kidnapped in Her Own Home: The Martha Carelli Story||": {
+      "id": "Kidnapped in Her Own Home: The Martha Carelli Story||",
+      "show_title": "Kidnapped in Her Own Home: The Martha Carelli Story",
+      "season_title": null,
+      "type": "movie",
+      "title_ko": "Kidnapped in Her Own Home: The Martha Carelli Story",
+      "year": "2026",
+      "genres": [
+        "범죄",
+        "스릴러",
+        "TV 영화"
+      ],
+      "cast": [
+        "Stana Katic",
+        "Tyler Tomás Perez",
+        "Dove Meir",
+        "Michael Shenefelt",
+        "Gavin Keoni Spinner"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/24o9ECIyaEBxAEUXLqes4LsAwuD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/oyJ8zJJMAqtHTXZWxlPNhxfnDWN.jpg",
+      "vote": 6.25,
+      "ai": {
+        "synopsis_ko": "평범한 일상을 보내던 마사 카렐리의 삶은 탈옥수에게 인질로 붙잡히면서 한순간에 무너집니다. 탈옥수는 마사에게 자신의 도주 차량을 운전하라고 강요합니다. 점점 더 예측할 수 없게 변해 가는 범인 곁에서, 마사는 살아남기 위해 그를 상대로 치열한 머리싸움을 벌여야 합니다.",
+        "watch_points": [
+          "인질극이라는 제한된 상황에서 만들어지는 긴장감이 작품의 중심을 이룹니다.",
+          "시리즈 '캐슬'로 알려진 스타나 카틱이 위기에 놓인 주인공 마사를 연기합니다.",
+          "힘이 아닌 기지로 위협에 맞서야 하는 주인공의 심리전이 흥미를 더합니다."
+        ],
+        "recommend_reason": "짧은 호흡의 범죄 스릴러로 긴장감 있는 시간을 보내고 싶은 분께 추천해 드립니다. 공개 후 TOP10에 진입해 한 주 동안 전 세계에서 약 310만 회 시청될 만큼 관심을 받은 작품입니다.",
+        "recommend_for": [
+          "스릴러 마니아",
+          "실화 기반 범죄극을 좋아하는 분"
+        ],
+        "mood_tags": [
+          "긴장감",
+          "서스펜스",
+          "생존극"
+        ],
+        "confidence": "high",
+        "generated_at": "2026-11-11T02:35:07+00:00",
+        "model": "claude-opus-5-5",
+        "tmdb_id": 1665152
       }
     },
     "KPop Demon Hunters||": {
@@ -1627,376 +1910,137 @@
         "tmdb_id": 803796
       }
     },
-    "Hot Wheels Let's Race: Attack of the T-Rex||": {
-      "id": "Hot Wheels Let's Race: Attack of the T-Rex||",
-      "show_title": "Hot Wheels Let's Race: Attack of the T-Rex",
+    "My Best Friend||": {
+      "id": "My Best Friend||",
+      "show_title": "My Best Friend",
       "season_title": null,
       "type": "movie",
-      "title_ko": "Hot Wheels 렛츠 레이스! 티렉스의 공격",
+      "title_ko": "나의 베스트 프렌드",
       "year": "2026",
       "genres": [
-        "애니메이션",
-        "가족",
-        "액션"
+        "코미디"
       ],
       "cast": [
-        "Carter Burney",
-        "Amari McCoy",
-        "조시 키턴",
-        "Risa Mei",
-        "Griffen Campbell"
+        "Ingrid Guimarães",
+        "Mônica Martelli",
+        "Giulia Benite",
+        "Gabi Amaral",
+        "Ricardo Pereira"
       ],
-      "poster": "https://image.tmdb.org/t/p/w500/iIc0OkYnf06kv5Zp0IYVwuvffgh.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/dK69ml1Y34MrEovK4ZyizRiWbEH.jpg",
-      "vote": 7.438,
+      "poster": "https://image.tmdb.org/t/p/w500/wGfTFVeguXDXYrwPQ8QMFsaSK2M.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/q5IF3IHgKC4cQqQCp0VjllNkJp6.jpg",
+      "vote": 7.489,
       "ai": {
-        "synopsis_ko": "핫 휠 시티에 거대한 티렉스가 나타나면서 도시 전체가 위기에 빠집니다. 레이서 쿱과 동료들은 도시를 지키기 위해 다시 한번 질주에 나섭니다. 'Hot Wheels 렛츠 레이스!' 시리즈의 세계관을 이어 가는 애니메이션 영화입니다.",
+        "synopsis_ko": "빈 둥지 증후군을 겪고 있는 오랜 절친 두 사람이 있습니다. 십 대 딸들이 포르투갈로 떠나자, 두 친구는 딸들을 따라 함께 포르투갈로 향합니다. 낯선 곳에서 새로운 사랑과 즐거움을 마주하며, 두 사람은 우정의 의미를 새롭게 돌아보게 됩니다.",
         "watch_points": [
-          "거대한 티렉스와 레이싱카가 한 화면에 등장하는 구도 자체가 아이들의 호기심을 자극합니다.",
-          "쿱과 레이서 동료들이 함께 힘을 모아 위기에 맞서는 팀워크가 이야기의 중심에 있습니다.",
-          "애니메이션과 액션 장르답게 속도감 있는 레이싱 장면을 기대해 볼 수 있습니다."
+          "잉그리드 기마랑이스와 모니카 마르텔리가 보여주는 두 절친의 호흡이 이야기의 중심을 이룹니다.",
+          "자녀를 떠나보내는 부모의 허전한 마음을 무겁지 않게 코미디로 풀어냅니다.",
+          "포르투갈을 배경으로 한 여행 이야기라 이국적인 분위기를 함께 즐길 수 있습니다."
         ],
-        "recommend_reason": "자동차와 공룡을 좋아하는 아이와 함께 볼 가족용 애니메이션을 찾는 분께 권해 드립니다. 글로벌 TOP10에 2주간 이름을 올리고 주간 시청수 약 260만 회를 기록할 만큼 많은 가족들이 선택한 작품입니다.",
+        "recommend_reason": "오랜 친구와의 우정이나 자녀의 독립 이후 찾아오는 허전함에 공감하시는 분께 추천합니다. 공개 첫 주 글로벌 TOP10에 진입해 약 1,140만 시청수를 기록한 만큼, 가볍게 웃으며 보기 좋은 브라질 코미디입니다.",
         "recommend_for": [
-          "가족과 함께",
-          "자동차를 좋아하는 아이",
-          "공룡 좋아하는 어린이"
-        ],
-        "mood_tags": [
-          "경쾌한",
-          "신나는",
-          "모험"
-        ],
-        "confidence": "low",
-        "generated_at": "2026-11-10T04:30:12+00:00",
-        "model": "claude-opus-5-5",
-        "tmdb_id": 1802674
-      }
-    },
-    "Ice Age 4: Continental Drift||": {
-      "id": "Ice Age 4: Continental Drift||",
-      "show_title": "Ice Age 4: Continental Drift",
-      "season_title": null,
-      "type": "movie",
-      "title_ko": "아이스 에이지 4: 대륙 이동설",
-      "year": "2012",
-      "genres": [
-        "애니메이션",
-        "코미디",
-        "모험",
-        "가족"
-      ],
-      "cast": [
-        "레이 로마노",
-        "존 레귀자모",
-        "데니스 리어리",
-        "숀 윌리엄 스콧",
-        "조시 펙"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/8DSHzbDsNDaC0wlRZS3hLUzJAC7.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/scLQDnf1m2AqEEQSjAEdMRD6K9I.jpg",
-      "vote": 6.395,
-      "ai": {
-        "synopsis_ko": "도토리를 향한 다람쥐 스크랫의 끈질긴 집념이 뜻밖의 초대형 사고로 이어지면서 대륙이 갈라지기 시작합니다. 갑작스러운 대륙 이동으로 살 곳을 잃은 매니, 디에고, 시드는 빙하 조각을 배 삼아 바다 위를 정처 없이 떠돌게 됩니다. 그러던 중 이들 앞에 무시무시한 빙하 해적단이 나타나며 예상치 못한 모험이 시작됩니다.",
-        "watch_points": [
-          "도토리 하나 때문에 지구의 운명까지 흔들리는 스크랫의 소동이 시리즈 특유의 웃음을 줍니다.",
-          "익숙한 육지를 떠나 빙하를 타고 바다로 나선 매니, 디에고, 시드의 새로운 무대가 색다른 볼거리를 선사합니다.",
-          "빙하 해적단이라는 만만치 않은 상대가 등장해 모험에 긴장감을 더합니다."
-        ],
-        "recommend_reason": "아이와 함께 부담 없이 웃으며 볼 수 있는 가족 애니메이션을 찾는 분께 추천합니다. 넷플릭스 글로벌 TOP10에 3주간 오르고 주간 시청수 240만을 기록할 만큼 꾸준히 사랑받고 있는 작품입니다.",
-        "recommend_for": [
-          "가족과 함께",
-          "아이와 함께 보는 애니메이션",
-          "아이스 에이지 시리즈 팬"
-        ],
-        "mood_tags": [
-          "유쾌한",
-          "모험",
-          "따뜻한"
-        ],
-        "confidence": "high",
-        "generated_at": "2026-11-05T08:57:38+00:00",
-        "model": "claude-opus-5-5",
-        "tmdb_id": 57800
-      }
-    },
-    "Ice Age: Dawn of the Dinosaurs||": {
-      "id": "Ice Age: Dawn of the Dinosaurs||",
-      "show_title": "Ice Age: Dawn of the Dinosaurs",
-      "season_title": null,
-      "type": "movie",
-      "title_ko": "아이스 에이지 3: 공룡시대",
-      "year": "2009",
-      "genres": [
-        "애니메이션",
-        "코미디",
-        "가족",
-        "모험"
-      ],
-      "cast": [
-        "레이 로마노",
-        "존 레귀자모",
-        "데니스 리어리",
-        "사이먼 페그",
-        "숀 윌리엄 스콧"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/zty1hzthRVGgMDFU1B1uo8zfCk7.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/6Ybbh8TrO8bkEfQXDedekLwVDfA.jpg",
-      "vote": 6.782,
-      "ai": {
-        "synopsis_ko": "얼음이 녹는 위기를 함께 넘긴 빙하기 친구들 매니, 엘리, 시드, 디에고에게 새로운 소동이 찾아옵니다. 매니와 엘리가 아기 맘모스를 맞을 준비로 분주한 사이, 소외감을 느끼던 시드는 자기도 가족을 갖고 싶은 마음에 공룡 알을 가져오고 맙니다. 이 일로 위험에 빠진 시드를 구하기 위해 친구들은 얼음 아래 숨겨진 지하 공룡 세계로 들어가고, 그곳에서 공룡 사냥꾼 애꾸눈 벅을 만나게 됩니다. 한편 도토리를 쫓아 이 세계까지 내려온 스크랫 앞에는 도토리 라이벌 스크래티가 나타납니다.",
-        "watch_points": [
-          "빙하기 동물들이 거대한 공룡들이 사는 지하 세계로 들어가며 펼쳐지는 모험이 시리즈에 새로운 볼거리를 더합니다.",
-          "가족을 갖고 싶어 하는 시드의 엉뚱한 선택에서 시작되는 소동이 웃음과 함께 따뜻한 감정을 전합니다.",
-          "도토리와 새로운 라이벌 스크래티 사이에서 갈등하는 스크랫의 이야기가 본편과 별개로 쏠쏠한 재미를 줍니다."
-        ],
-        "recommend_reason": "아이와 함께 부담 없이 웃으며 볼 애니메이션을 찾는 분께 추천합니다. 넷플릭스 TOP10에 7주간 이름을 올리고 주간 글로벌 시청수 230만 회를 기록할 만큼 꾸준히 사랑받는 가족 모험 코미디입니다.",
-        "recommend_for": [
-          "가족과 함께",
-          "아이와 함께 보기",
-          "애니메이션 팬"
-        ],
-        "mood_tags": [
-          "유쾌한",
-          "모험적인",
-          "따뜻한"
-        ],
-        "confidence": "high",
-        "generated_at": "2026-11-05T08:57:47+00:00",
-        "model": "claude-opus-5-5",
-        "tmdb_id": 8355
-      }
-    },
-    "Ice Age 5: Collision Course||": {
-      "id": "Ice Age 5: Collision Course||",
-      "show_title": "Ice Age 5: Collision Course",
-      "season_title": null,
-      "type": "movie",
-      "title_ko": "아이스 에이지: 지구 대충돌",
-      "year": "2016",
-      "genres": [
-        "모험",
-        "애니메이션",
-        "가족",
-        "코미디",
-        "SF"
-      ],
-      "cast": [
-        "레이 로마노",
-        "존 레귀자모",
-        "데니스 리어리",
-        "애덤 드바인",
-        "Jesse Tyler Ferguson"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/e1Fe5z8zcPlpzv2rRrCIhl4zPXQ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/rBEH34dgPMy1WuqZ0AFXR2ThmNo.jpg",
-      "vote": 6.117,
-      "ai": {
-        "synopsis_ko": "도토리를 쫓던 스크랫이 이번에는 우주까지 날아가, 태양계를 뒤흔드는 행성 충돌 사건을 일으킵니다. 그 여파로 거대한 운석이 지구를 향해 떨어지는 위기가 닥치고, 매니와 시드, 디에고와 친구들은 안전한 곳을 찾아 먼 땅으로 길을 떠납니다. 다시 돌아온 벅이 길잡이로 나서고, 일행은 요가의 대가 샹그리라마와 브룩 등이 사는 지오토피아에 닿게 됩니다.",
-        "watch_points": [
-          "도토리 하나 때문에 우주까지 휘젓는 스크랫의 소동이 시리즈 특유의 웃음을 줍니다.",
-          "빙하기 동물들의 모험에 우주와 운석이라는 SF 소재가 더해져 규모가 한층 커졌습니다.",
-          "레이 로마노, 존 레귀자모, 데니스 리어리 등 익숙한 목소리 배우들의 호흡을 다시 만날 수 있습니다."
-        ],
-        "recommend_reason": "아이와 함께 부담 없이 볼 가족 애니메이션을 찾는 분께 권해 드립니다. 넷플릭스 TOP10에 7주간 머물고 주간 시청수 220만 회를 기록할 만큼 꾸준히 사랑받고 있는 작품입니다.",
-        "recommend_for": [
-          "가족과 함께",
-          "아이스 에이지 시리즈 팬",
-          "가볍게 웃고 싶은 분"
-        ],
-        "mood_tags": [
-          "유쾌한",
-          "모험",
-          "따뜻한"
-        ],
-        "confidence": "high",
-        "generated_at": "2026-11-05T08:57:54+00:00",
-        "model": "claude-opus-5-5",
-        "tmdb_id": 278154
-      }
-    },
-    "This Is Not a Test||": {
-      "id": "This Is Not a Test||",
-      "show_title": "This Is Not a Test",
-      "season_title": null,
-      "type": "movie",
-      "title_ko": "This Is Not a Test",
-      "year": "2026",
-      "genres": [
-        "스릴러",
-        "공포"
-      ],
-      "cast": [
-        "올리비아 홀트",
-        "Froy Gutierrez",
-        "Carson MacCormac",
-        "Corteon Moore",
-        "Chloe Avakian"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/vOh6v3BaysP5Ipd89S1XAR3ZtJj.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/dydvEc82Z6ptEx3aAubzJawesiQ.jpg",
-      "vote": 5.577,
-      "ai": {
-        "synopsis_ko": "감염자들로 뒤덮인 세상에서 슬론은 네 명의 반 친구들과 함께 코티지 고등학교로 몸을 피합니다. 굳게 닫힌 학교 문밖에서는 위협이 쉴 새 없이 문을 두드립니다. 고립된 공간에서 하루하루를 버티는 동안, 슬론은 진심으로 살고 싶어 하는 이들의 눈을 통해 세상을 새롭게 바라보기 시작합니다.",
-        "watch_points": [
-          "감염자를 피해 학교에 갇힌 다섯 명의 고등학생이 만들어 내는 밀폐된 공간의 긴장감을 느껴 보세요.",
-          "쉴 새 없이 문을 두드리는 바깥의 위협이 스릴러와 공포 장르 특유의 압박감을 더합니다.",
-          "올리비아 홀트가 연기하는 슬론의 시선과 내면 변화를 따라가는 재미가 있습니다."
-        ],
-        "recommend_reason": "좀비·감염자 소재의 생존 스릴러를 좋아하시는 분, 그리고 극한 상황 속 청춘들의 심리 변화에 관심 있는 분께 추천드립니다. 공개 후 글로벌 주간 시청수 약 210만 회를 기록하며 TOP10에 진입한 작품이라 가볍게 확인해 보기에도 좋습니다.",
-        "recommend_for": [
-          "생존 스릴러 팬",
-          "공포 장르 마니아",
-          "청춘물을 좋아하는 분"
-        ],
-        "mood_tags": [
-          "긴장감",
-          "폐쇄적",
-          "어두운"
-        ],
-        "confidence": "high",
-        "generated_at": "2026-11-05T08:58:02+00:00",
-        "model": "claude-opus-5-5",
-        "tmdb_id": 1428990
-      }
-    },
-    "Ice Age||": {
-      "id": "Ice Age||",
-      "show_title": "Ice Age",
-      "season_title": null,
-      "type": "movie",
-      "title_ko": "아이스 에이지",
-      "year": "2002",
-      "genres": [
-        "애니메이션",
-        "코미디",
-        "가족",
-        "모험"
-      ],
-      "cast": [
-        "레이 로마노",
-        "존 레귀자모",
-        "데니스 리어리",
-        "고란 비슈니치",
-        "잭 블랙"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/biwqSbuyxjrZMvVcb8Lsv3GyQbw.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/tyVAGH1vw9JDgxPyTUQPn91nIYc.jpg",
-      "vote": 7.388,
-      "ai": {
-        "synopsis_ko": "거대한 빙하가 지구를 뒤덮기 시작하자 동물들은 모두 따뜻한 남쪽으로 떠나지만, 염세적인 털북숭이 매머드 만프레드만은 홀로 북쪽으로 향합니다. 길에서 수다스러운 나무늘보 시드를 만난 그는 인간 아기 로샨을 발견하고, 아기의 가족을 찾아주기로 합니다. 여기에 검치호랑이 디에고가 동행하게 되는데, 그는 호랑이 무리의 두목에게서 남모를 임무를 받은 처지입니다. 성격도 사정도 제각각인 셋이 아기를 데리고 얼어붙은 대지를 가로지르는 여정이 시작됩니다.",
-        "watch_points": [
-          "무뚝뚝한 매머드와 쉴 새 없이 떠드는 나무늘보가 주고받는 대화가 웃음을 자아냅니다.",
-          "속내를 숨긴 검치호랑이가 일행에 섞이면서 생기는 긴장감이 이야기에 재미를 더합니다.",
-          "말 못 하는 인간 아기를 돌보며 서로 다른 동물들이 조금씩 가까워지는 과정을 지켜보는 맛이 있습니다."
-        ],
-        "recommend_reason": "아이와 어른이 함께 웃을 수 있는 모험 애니메이션을 찾는 분께 추천드립니다. 2002년 작품이지만 넷플릭스 TOP10에 4주 동안 머무르며 주간 글로벌 시청수 210만을 기록할 만큼 지금도 꾸준히 사랑받고 있습니다.",
-        "recommend_for": [
-          "가족과 함께",
-          "애니메이션 팬",
-          "추억의 작품을 다시 보고 싶은 분"
+          "친구와 함께",
+          "가벼운 코미디가 필요할 때",
+          "자녀를 둔 부모님"
         ],
         "mood_tags": [
           "유쾌한",
           "따뜻한",
-          "모험"
+          "여행 감성"
         ],
         "confidence": "high",
-        "generated_at": "2026-11-05T08:58:11+00:00",
+        "generated_at": "2026-11-11T02:35:14+00:00",
         "model": "claude-opus-5-5",
-        "tmdb_id": 425
+        "tmdb_id": 1257147
       }
     },
-    "Aliens in the Attic||": {
-      "id": "Aliens in the Attic||",
-      "show_title": "Aliens in the Attic",
+    "The One||": {
+      "id": "The One||",
+      "show_title": "The One",
       "season_title": null,
       "type": "movie",
-      "title_ko": "다락방의 외계인",
-      "year": "2009",
+      "title_ko": "더 원",
+      "year": "2001",
       "genres": [
-        "모험",
-        "코미디",
-        "가족",
-        "판타지",
-        "SF"
+        "액션",
+        "SF",
+        "스릴러"
       ],
       "cast": [
-        "Carter Jenkins",
-        "오스틴 버틀러",
-        "애슐리 티스데일",
-        "Ashley Boettcher",
-        "Robert Hoffman"
+        "이연걸",
+        "칼라 구지노",
+        "델로이 린도",
+        "제이슨 스타뎀",
+        "James Morrison"
       ],
-      "poster": "https://image.tmdb.org/t/p/w500/bb8ym5zSRGmhNx3gyDnzSN2waS4.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/s78mmP6T0Jn23Jgu4KYXbcFe6HJ.jpg",
-      "vote": 5.71,
+      "poster": "https://image.tmdb.org/t/p/w500/886ao9FKzfkEMFkiBH9SPJy8OKl.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/yZzPTih3HQZUBghrWirt0Rk17uE.jpg",
+      "vote": 6.135,
       "ai": {
-        "synopsis_ko": "아빠 스튜어트와 엄마 니나, 장녀 베타니, 15살 장남 톰, 7살 막내 한나로 이루어진 피어슨 가족은 네이트 삼촌네 가족과 함께 메인 주의 3층짜리 별장으로 여름휴가를 떠납니다. 그런데 이 별장에는 이미 먼저 자리를 잡은 이들이 있었습니다. 바로 키가 사람 무릎 정도밖에 되지 않는 작은 외계인들입니다. 겉보기엔 무해해 보이지만 인간을 마음대로 조종하는 기술을 지닌 이들에 맞서, 톰과 사촌 제이크 등 십대 아이들이 가족과 이웃, 나아가 지구를 지키기 위해 나섭니다.",
+        "synopsis_ko": "서로 다른 우주에 수많은 자신이 존재하고, 그중 하나를 죽일 때마다 남은 이들의 힘이 강해진다는 비밀을 알게 된 율라우는 우주 간 이동을 감시하던 요원에서 살인자로 변합니다. 압도적인 힘을 얻기 위해 그는 마지막 남은 또 다른 자신을 찾아 지구로 향합니다. 평범한 일상을 보내던 보안관 게이브는 죄수를 호송하던 중 자신과 똑같이 생긴 남자에게 공격을 받고 혼란에 빠집니다. 율라우를 뒤쫓아온 요원들에게서 진실을 들은 그는 최근 설명할 수 없이 강해진 자신의 몸도 이 일과 연결되어 있음을 알게 됩니다.",
         "watch_points": [
-          "평범한 가족 여름휴가가 외계인 소동으로 바뀌는 설정이 가볍고 유쾌한 모험의 재미를 줍니다.",
-          "어른이 아닌 십대 아이들이 주축이 되어 외계인에 맞서는 구도가 가족 영화다운 활기를 더합니다.",
-          "오스틴 버틀러와 애슐리 티스데일의 2009년 무렵 풋풋한 모습을 찾아보는 재미도 있습니다."
+          "이연걸이 같은 얼굴을 한 두 인물을 오가며 맞서는 설정 자체가 이 영화의 가장 큰 볼거리입니다.",
+          "평행우주와 '또 다른 나'라는 SF 설정을 무술 액션과 결합한 2001년 작품 특유의 감각을 느낄 수 있습니다.",
+          "제이슨 스타뎀, 칼라 구지노, 델로이 린도 등 익숙한 배우들의 모습을 함께 찾아보는 재미도 있습니다."
         ],
-        "recommend_reason": "아이들과 함께 부담 없이 웃으며 볼 수 있는 SF 가족 코미디를 찾는 분께 추천합니다. 공개된 지 오래된 작품이지만 주간 글로벌 시청수 210만 회를 기록하며 넷플릭스 TOP10에 진입해 지금도 가볍게 즐기기 좋은 영화임을 보여 줍니다.",
+        "recommend_reason": "이연걸의 맨몸 액션과 평행우주 설정이 어우러진 오락 영화를 찾는 분께 추천드립니다. 주간 글로벌 시청수 약 300만 회를 기록하며 TOP10에 오른 만큼, 가볍게 즐길 2000년대 액션 SF로 다시 주목받고 있습니다.",
         "recommend_for": [
-          "가족과 함께",
-          "어린이 동반 시청",
-          "가벼운 SF 코미디 팬"
-        ],
-        "mood_tags": [
-          "유쾌한",
-          "모험",
-          "아기자기한"
-        ],
-        "confidence": "high",
-        "generated_at": "2026-11-05T08:58:19+00:00",
-        "model": "claude-opus-5-5",
-        "tmdb_id": 20856
-      }
-    },
-    "Gajab Raat||": {
-      "id": "Gajab Raat||",
-      "show_title": "Gajab Raat",
-      "season_title": null,
-      "type": "movie",
-      "title_ko": "은폐된 밤",
-      "year": "2026",
-      "genres": [
-        "스릴러",
-        "범죄"
-      ],
-      "cast": [
-        "मनोज बाजपेयी",
-        "Divya Dutta",
-        "Akshay Oberoi",
-        "Saqib Saleem",
-        "Shraddha Das"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/e4N7M52cBbyi24xLga8yI6yt1u1.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/8I4YFWgi9IZW4VUi398A0BqLnm.jpg",
-      "vote": 5.7,
-      "ai": {
-        "synopsis_ko": "한 경찰이 부상당한 여성과 마주치고, 그녀에게 뜻밖의 연민을 느끼게 됩니다. 그 만남을 계기로 그는 고위층이 얽힌 음모의 존재를 알게 됩니다. 단 하룻밤 사이, 그는 목숨을 건 위험한 게임에 휘말리게 됩니다.",
-        "watch_points": [
-          "하룻밤이라는 짧은 시간 안에 벌어지는 사건이 만들어내는 긴박감을 느껴 보세요.",
-          "부상당한 여성에게 연민을 느끼는 경찰의 감정이 이야기를 어떻게 움직이는지 지켜볼 만합니다.",
-          "마노즈 바지파이, 디비야 두타, 사킵 살림 등 출연진이 그려내는 범죄 스릴러의 분위기에 주목해 보세요."
-        ],
-        "recommend_reason": "권력층의 음모와 쫓고 쫓기는 긴장감이 담긴 범죄 스릴러를 좋아하시는 분께 추천합니다. 넷플릭스 TOP10에 2주간 이름을 올리고 주간 글로벌 시청수 500만을 기록하며 관심을 모은 인도 영화입니다.",
-        "recommend_for": [
-          "스릴러 마니아",
-          "인도 영화에 관심 있는 분"
+          "액션 영화 팬",
+          "이연걸 팬",
+          "2000년대 SF 좋아하는 분"
         ],
         "mood_tags": [
           "긴박한",
-          "어두운",
-          "서스펜스"
+          "화끈한 액션",
+          "SF 판타지"
         ],
         "confidence": "high",
-        "generated_at": "2026-11-09T02:22:35+00:00",
+        "generated_at": "2026-11-11T02:35:22+00:00",
         "model": "claude-opus-5-5",
-        "tmdb_id": 1453407
+        "tmdb_id": 10796
+      }
+    },
+    "Surviving Hurricane Otis||": {
+      "id": "Surviving Hurricane Otis||",
+      "show_title": "Surviving Hurricane Otis",
+      "season_title": null,
+      "type": "movie",
+      "title_ko": "허리케인을 거슬러",
+      "year": "2026",
+      "genres": [
+        "드라마"
+      ],
+      "cast": [
+        "Benny Emmanuel",
+        "Kristyan Ferrer",
+        "Mónica del Carmen",
+        "Mónica Jiménez",
+        "Andrew Leland Rogers"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/lFaMt4I8LiQAGW9Rb5gfGFXbvOY.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/cpNMIRCrDl0sxDL1tHBzfWi0UZC.jpg",
+      "vote": 7.525,
+      "ai": {
+        "synopsis_ko": "허리케인 오티스가 멕시코 아카풀코를 덮치면서 이야기가 시작됩니다. 그동안 서로 거리를 두고 지내던 두 형제는 거대한 재난 한가운데에서 살아남기 위해 다시 힘을 합쳐야 하는 처지에 놓입니다. 절망적인 상황 속에서 두 사람이 형제애와 용기로 희망을 붙잡으려 애쓰는 과정을 그린, 실화를 바탕으로 한 드라마입니다.",
+        "watch_points": [
+          "실제로 아카풀코를 덮친 허리케인 오티스를 바탕으로 한 이야기라 재난의 무게가 더욱 현실적으로 다가옵니다.",
+          "서먹했던 두 형제가 극한 상황에서 함께 버텨 나가며 관계가 어떻게 달라지는지 지켜보는 재미가 있습니다.",
+          "베니 에마누엘과 크리스티안 페레르가 그려 내는 형제의 호흡이 이야기의 중심을 이룹니다."
+        ],
+        "recommend_reason": "재난 속에서 피어나는 가족애와 실화의 울림을 좋아하시는 분께 추천드립니다. 공개 후 2주째 글로벌 TOP10에 머무르며 주간 1,240만 회의 시청수를 기록할 만큼 많은 시청자의 관심을 받고 있습니다.",
+        "recommend_for": [
+          "실화 기반 드라마 애호가",
+          "가족·형제 이야기를 좋아하는 분"
+        ],
+        "mood_tags": [
+          "긴박한",
+          "뭉클한",
+          "희망적인"
+        ],
+        "confidence": "high",
+        "generated_at": "2026-11-05T08:54:31+00:00",
+        "model": "claude-opus-5-5",
+        "tmdb_id": 1780005
       }
     },
     "Baththa||": {
@@ -2045,141 +2089,6 @@
         "tmdb_id": 1515692
       }
     },
-    "The Paradise||": {
-      "id": "The Paradise||",
-      "show_title": "The Paradise",
-      "season_title": null,
-      "type": "movie",
-      "title_ko": "ది ప్యారడైజ్",
-      "year": "2026",
-      "genres": [
-        "액션",
-        "드라마"
-      ],
-      "cast": [
-        "నాని",
-        "Sonali Kulkarni",
-        "Mohan Babu",
-        "Raghav Juyal",
-        "Kayadu Lohar"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/smghVMoMWSIFi5dgIz4w1UIcEcY.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/7AcH5TFppoMusNkCBLaQP6UOODp.jpg",
-      "vote": 4.8,
-      "ai": {
-        "synopsis_ko": "1980년대 인도 세컨더라바드를 배경으로 한 액션 드라마입니다. 사회의 주변부로 밀려난 한 부족이 차별에 맞서 시민권을 얻기 위한 싸움에 나섭니다. 그 중심에는 누구도 예상하지 못했던 인물이 지도자로 서게 되고, 부족은 그의 이끌림 속에서 구조적인 억압에 정면으로 도전합니다. 나니, 소날리 쿨카르니, 모한 바부, 라가브 주얄, 카야두 로하르가 출연합니다.",
-        "watch_points": [
-          "1980년대 세컨더라바드라는 구체적인 시대와 공간이 이야기의 분위기를 만들어 냅니다.",
-          "차별과 시민권이라는 묵직한 주제를 액션과 드라마로 풀어낸 점이 눈에 띕니다.",
-          "뜻밖의 지도자로 등장하는 인물이 부족을 어떻게 이끌어 가는지 지켜보는 재미가 있습니다."
-        ],
-        "recommend_reason": "사회적 메시지가 담긴 액션 드라마나 인도 영화를 즐기시는 분께 추천합니다. 공개 후 2주 동안 넷플릭스 글로벌 TOP10에 오르며 주간 시청수 약 200만 회를 기록한 만큼, 많은 시청자의 관심을 받고 있는 작품입니다.",
-        "recommend_for": [
-          "인도 영화 팬",
-          "사회파 드라마 선호",
-          "액션 영화 마니아"
-        ],
-        "mood_tags": [
-          "묵직한",
-          "저항과 연대",
-          "시대극"
-        ],
-        "confidence": "high",
-        "generated_at": "2026-11-10T04:30:22+00:00",
-        "model": "claude-opus-5-5",
-        "tmdb_id": 1376856
-      }
-    },
-    "You, Me, Us||": {
-      "id": "You, Me, Us||",
-      "show_title": "You, Me, Us",
-      "season_title": null,
-      "type": "movie",
-      "title_ko": "너, 나, 우리",
-      "year": "2026",
-      "genres": [
-        "드라마",
-        "코미디"
-      ],
-      "cast": [
-        "Elio Germano",
-        "Maria Chiara Giannetta",
-        "Lidia Vitale",
-        "Anna Bonaiuto",
-        "Diop Virginia"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/ahSqZAAHU4PgNdbKdGPj332O7As.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/9uU3523A14KJ90Jr8pQx0NGGIgb.jpg",
-      "vote": 5.908,
-      "ai": {
-        "synopsis_ko": "자유로운 삶을 추구하는 여자와 단란한 가정을 꿈꾸는 남자가 있습니다. 서로 다른 배경과 가치관을 지닌 두 사람은 아이를 입양하기로 결심합니다. 그 결정을 계기로 두 사람의 사랑은 새로운 시험대에 오르게 됩니다.",
-        "watch_points": [
-          "자유를 중시하는 여자와 가정을 꿈꾸는 남자, 정반대인 두 사람이 서로를 어떻게 맞춰 가는지 지켜보는 재미가 있습니다.",
-          "입양이라는 현실적인 결정 앞에서 연인 관계가 어떻게 흔들리는지를 드라마와 코미디를 오가며 그려냅니다.",
-          "엘리오 제르마노와 마리아 키아라 잔네타가 보여 주는 두 주인공의 호흡도 눈여겨볼 만합니다."
-        ],
-        "recommend_reason": "사랑과 가족, 그리고 서로 다른 가치관의 충돌을 담백하게 다룬 이야기를 좋아하시는 분께 추천합니다. 공개 직후 글로벌 주간 시청수 190만 회를 기록하며 TOP10에 이름을 올린 이탈리아 영화라 가볍게 시작해 보시기에도 좋습니다.",
-        "recommend_for": [
-          "연인과 함께",
-          "유럽 영화 애호가",
-          "가족 드라마를 좋아하는 분"
-        ],
-        "mood_tags": [
-          "따뜻한",
-          "유쾌한",
-          "현실적인"
-        ],
-        "confidence": "low",
-        "generated_at": "2026-11-10T04:30:28+00:00",
-        "model": "claude-opus-5-5",
-        "tmdb_id": 1541477
-      }
-    },
-    "Dorothy||": {
-      "id": "Dorothy||",
-      "show_title": "Dorothy",
-      "season_title": null,
-      "type": "movie",
-      "title_ko": "டோரதி",
-      "year": "2026",
-      "genres": [
-        "범죄",
-        "드라마"
-      ],
-      "cast": [
-        "Sananth",
-        "Rishikanth",
-        "키르시 수레시",
-        "Ramachandran Durairaj",
-        "Soundara Raja"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/o3r5DmWhOKdFmeIUoRJj4CvCqOP.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/fPByMSinDUlJ05pMVw2sbqYF6Ew.jpg",
-      "vote": 8.5,
-      "ai": {
-        "synopsis_ko": "영화 「Dorothy(டோரதி)」는 인도 타밀나두주의 시골 마을을 배경으로 한 범죄 드라마입니다. 어릴 때부터 떼려야 뗄 수 없는 사이로 자라 온 두 친구는 카스트와 폭력, 그리고 해로운 남성성이 지배하는 세상 속에서 살아갑니다. 그러던 중 따뜻한 마음을 지닌 한 여성이 두 사람의 삶에 들어오게 되고, 그녀는 주변의 사회 질서에 조용히 의문을 던지기 시작합니다.",
-        "watch_points": [
-          "카스트와 폭력이 일상에 스며든 타밀나두 시골 마을의 분위기가 이야기의 토대를 이룹니다.",
-          "어린 시절부터 이어진 두 친구의 끈끈한 우정이 거친 환경 속에서 어떻게 그려지는지 지켜볼 만합니다.",
-          "한 여성의 등장이 굳어진 사회 질서에 조용히 균열을 내는 과정이 이 작품의 핵심 흐름입니다."
-        ],
-        "recommend_reason": "사회 구조와 인간관계를 함께 들여다보는 묵직한 드라마를 좋아하시는 분께 권해 드립니다. 넷플릭스 글로벌 TOP10에 2주간 이름을 올리고 주간 시청수 160만 회를 기록하며 꾸준한 관심을 받고 있는 작품입니다.",
-        "recommend_for": [
-          "인도 영화에 관심 있는 분",
-          "사회파 드라마를 좋아하는 분",
-          "우정 이야기를 좋아하는 분"
-        ],
-        "mood_tags": [
-          "묵직한",
-          "사회 비판적",
-          "잔잔한 긴장감"
-        ],
-        "confidence": "high",
-        "generated_at": "2026-11-05T09:36:19+00:00",
-        "model": "claude-opus-5-5",
-        "tmdb_id": 1578079
-      }
-    },
     "The Birthday Gift||": {
       "id": "The Birthday Gift||",
       "show_title": "The Birthday Gift",
@@ -2201,116 +2110,198 @@
       "backdrop": "https://image.tmdb.org/t/p/w500/j80P9BGGcugRDcbSG80LGRzgNq3.jpg",
       "vote": 0.0,
       "ai": {
-        "synopsis_ko": "얼음처럼 차가운 시카고의 밤, 아르헨티나 출신의 한 엄마와 딸이 단출한 생일 저녁 식사 자리를 마련합니다. 그런데 예상치 못한 손님이 찾아오면서 두 사람의 삶이 흔들리기 시작합니다. 영화는 하룻밤의 생일 만찬이라는 짧고 친밀한 시간 속에서 모녀가 겪는 변화를 따라갑니다.",
+        "synopsis_ko": "얼음처럼 차가운 시카고의 어느 겨울밤, 아르헨티나 출신의 엄마와 딸이 단출한 생일 저녁 식사 자리를 마련합니다. 그런데 예상하지 못한 손님이 찾아오면서 두 사람의 평온했던 시간이 흔들리기 시작합니다. 하룻밤의 생일 만찬이라는 한정된 시공간 속에서 가족의 이야기가 펼쳐지는 드라마입니다.",
         "watch_points": [
-          "겨울밤 시카고와 생일 만찬이라는 한정된 시공간이 만들어 내는 밀도 있는 분위기를 느껴 보세요.",
-          "아르헨티나 출신 엄마와 딸의 관계가 어떻게 그려지는지 주목해 보시면 좋습니다.",
-          "예상치 못한 손님의 등장이 저녁 식사 자리의 공기를 어떻게 바꾸는지 지켜보는 재미가 있습니다."
+          "추운 시카고의 겨울밤과 따뜻한 생일 식탁이 대비되는 분위기를 눈여겨보시면 좋습니다.",
+          "예상치 못한 손님의 등장이 엄마와 딸의 관계에 어떤 파장을 일으키는지가 이야기의 중심입니다.",
+          "저녁 식사 한 자리에 집중된 친밀한 구성 덕분에 인물들의 감정선을 가까이서 따라가실 수 있습니다."
         ],
-        "recommend_reason": "가족 관계를 섬세하게 다루는 소규모 드라마를 좋아하시는 분께 추천드립니다. 공개 후 글로벌 주간 시청수 150만 회를 기록하며 TOP10에 진입한 작품으로, 하룻밤 이야기라 부담 없이 보시기에도 좋습니다.",
+        "recommend_reason": "큰 사건보다 가족 사이의 미묘한 감정과 대화를 따라가는 잔잔한 드라마를 좋아하시는 분께 추천합니다. 글로벌 주간 시청수 210만 회를 기록하며 2주 동안 TOP10에 머문 작품이라, 조용한 저녁에 한 편 감상하기에 좋습니다.",
         "recommend_for": [
-          "잔잔한 가족 드라마를 좋아하는 분",
-          "대화 중심 영화 선호"
+          "가족 드라마를 좋아하는 분",
+          "잔잔한 실내극 선호"
         ],
         "mood_tags": [
           "친밀한",
-          "잔잔한 긴장감",
+          "잔잔한",
           "겨울밤"
         ],
         "confidence": "low",
-        "generated_at": "2026-11-10T04:30:35+00:00",
+        "generated_at": "2026-11-11T02:35:29+00:00",
         "model": "claude-opus-5-5",
         "tmdb_id": 1653554
       }
     },
-    "Dhoomakethu||": {
-      "id": "Dhoomakethu||",
-      "show_title": "Dhoomakethu",
+    "Unprotected: Murder in Galicia||": {
+      "id": "Unprotected: Murder in Galicia||",
+      "show_title": "Unprotected: Murder in Galicia",
       "season_title": null,
       "type": "movie",
-      "title_ko": "ധൂമകേതു",
+      "title_ko": "보호받지 못한 자: 머더 인 갈리시아",
       "year": "2026",
       "genres": [
-        "코미디",
-        "판타지"
+        "다큐멘터리",
+        "범죄"
       ],
       "cast": [
-        "Nikhila Vimal",
-        "Sajin Gopu",
-        "Ganapathi S Poduval",
-        "Shine Tom Chacko",
-        "Siddharth Bharathan"
+        "Eduardo Pérez \"Perreras\"",
+        "Maribel Tarrazo",
+        "Corona Salgado",
+        "Eduardo Pérez",
+        "Javier González"
       ],
-      "poster": "https://image.tmdb.org/t/p/w500/ma7nFrXqSiA8FxAxqhyk4zoP58x.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/4YxZxGPt702wGaNqgXwN6Jaq390.jpg",
-      "vote": 7.7,
+      "poster": "https://image.tmdb.org/t/p/w500/uvwAKeTTf9s0k69xelRXQbs6Hb7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/5DEE6tP6FOkgfjvoQYvjNjvt3cn.jpg",
+      "vote": 6.429,
       "ai": {
-        "synopsis_ko": "서른여섯 살 쿠탄은 결혼식 날 아침, 자신이 죽는 불길한 꿈을 꾸고 잠에서 깹니다. 하루가 흘러가면서 어디선가 겪어 본 듯한 순간들이 되풀이되고, 지금이 현실인지 기억인지 점점 구분하기 어려워집니다. 무언가 단단히 잘못됐다는 사실을 깨달은 쿠탄은 하루가 다시 반복되기 전에 그 진실을 밝혀내려고 서두릅니다.",
+        "synopsis_ko": "2015년 스페인 갈리시아에서 이사벨 푸엔테스가 자택에서 도둑으로 추정되는 이들에게 습격을 당해 죽음 직전까지 내몰리는 사건이 일어납니다. 처음에는 강도 사건으로 보였지만, 사건 직후 의심의 시선은 점차 그녀와 가까운 사람들에게로 옮겨 갑니다. 이 다큐멘터리는 그 의심이 어떤 과정을 거쳐 생겨나고 번져 갔는지를 차근차근 추적합니다.",
         "watch_points": [
-          "인생에서 가장 들뜬 날이어야 할 결혼식 당일에 불길한 꿈과 반복되는 하루가 겹쳐지는 설정이 묘한 긴장감을 만듭니다.",
-          "현실과 기억의 경계가 흐려지는 판타지 설정을 코미디 장르로 풀어낸다는 점이 흥미롭습니다.",
-          "니킬라 비말, 사진 고푸, 샤인 톰 차코 등 출연진의 호흡을 지켜보는 재미가 있습니다."
+          "평범한 강도 사건처럼 보이던 일이 주변 인물들에 대한 의심으로 옮겨 가는 과정을 따라가는 구성이 흥미롭습니다.",
+          "실제 사건을 다루는 다큐멘터리인 만큼 관련 인물들의 목소리를 통해 사건을 여러 각도에서 바라볼 수 있습니다.",
+          "스페인 갈리시아 지역에서 벌어진 실화라는 점에서 낯선 지역의 범죄 사건을 접하는 색다른 경험을 줍니다."
         ],
-        "recommend_reason": "같은 하루가 반복되는 타임루프 이야기를 좋아하시거나, 가볍게 웃으면서도 궁금증을 따라가는 영화를 찾는 분께 추천합니다. 공개 후 글로벌 주간 시청수 약 110만 회를 기록하며 TOP10에 진입한 작품이라 새로운 인도 영화를 접해 보기에도 좋습니다.",
+        "recommend_reason": "실화 기반 범죄 다큐멘터리를 즐겨 보시는 분께 추천합니다. 공개 후 글로벌 주간 시청수 160만 회를 기록하며 TOP10에 진입한 작품으로, 하나의 사건을 둘러싼 의심의 흐름을 차분히 짚어 보고 싶은 분께 잘 맞습니다.",
         "recommend_for": [
-          "타임루프물을 좋아하는 분",
-          "색다른 인도 영화를 찾는 분"
+          "실화 범죄 다큐 애호가",
+          "미스터리 추적물을 좋아하는 분"
         ],
         "mood_tags": [
-          "유쾌한",
-          "미스터리한",
-          "기묘한"
+          "긴장감",
+          "묵직함",
+          "탐사"
         ],
         "confidence": "high",
-        "generated_at": "2026-11-05T08:59:23+00:00",
+        "generated_at": "2026-11-11T02:35:39+00:00",
         "model": "claude-opus-5-5",
-        "tmdb_id": 1590718
+        "tmdb_id": 1794569
       }
     },
-    "The Secret Woman||": {
-      "id": "The Secret Woman||",
-      "show_title": "The Secret Woman",
+    "Don't Trouble the Trouble||": {
+      "id": "Don't Trouble the Trouble||",
+      "show_title": "Don't Trouble the Trouble",
       "season_title": null,
       "type": "movie",
-      "title_ko": "더 시크릿 우먼",
+      "title_ko": "డోంట్ ట్రబుల్ ద ట్రబుల్",
       "year": "2026",
       "genres": [
+        "판타지",
         "드라마",
-        "스릴러",
-        "미스터리"
+        "액션"
       ],
       "cast": [
-        "Natalie Madueño",
-        "클레스 방",
-        "Pål Sverre Hagen",
-        "Stina Ekblad",
-        "잉리 볼쇠 베르달"
+        "ഫഹദ് ഫാസിൽ",
+        "Ssara Palekar",
+        "Saurabh Sachdeva",
+        "Venkatesh Kakumanu",
+        "Subbaraju"
       ],
-      "poster": "https://image.tmdb.org/t/p/w500/AcalurfNjQTiLIzICTwtAq86tWC.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/ziOpmyZufqM7IusfThzBr1E9wqa.jpg",
-      "vote": 6.514,
+      "poster": "https://image.tmdb.org/t/p/w500/lxgQu74WalgmhWnSEqweyYj8fnc.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/iWVgNbAB4fCqzOPJXNLOZP4zfbK.jpg",
+      "vote": 5.75,
       "ai": {
-        "synopsis_ko": "노르웨이의 한 섬에서 작은 카페를 운영하며 파트너 요아킴과 조용히 살아가던 루이즈 안데르센은 과거의 기억을 잃은 여성입니다. 어느 여름날 낯선 방문객이 찾아와, 그녀가 루이즈가 아니라 3년 전 덴마크에서 실종된 헬레네 쇠데르베르라고 주장합니다. 자신에게 남편과 어린 아들, 그리고 초대형 해운 기업이 있다는 사실을 알게 된 그녀는 실종되던 밤의 진상을 밝히기 위해 익숙한 삶을 뒤로하고 떠납니다. 완벽해 보이는 부유한 과거로 돌아간 그녀는 자신이 왜 그곳을 떠나왔는지 하나씩 알아가기 시작합니다.",
+        "synopsis_ko": "마술사 수리는 주문을 걸다가 실수로 한 어린 소녀를 사라지게 만듭니다. 그런데 그 소녀는 평범한 아이가 아니라 소원을 들어주는 지니였다는 사실이 드러납니다. 도시 곳곳을 돌아다니게 된 지니는 화가 날 때마다 자신의 힘을 거침없이 드러내고, 이 때문에 예상치 못한 소동이 이어집니다.",
         "watch_points": [
-          "기억을 잃은 주인공이 '루이즈'와 '헬레네'라는 두 이름 사이에서 정체성을 찾아가는 과정이 긴장감 있게 펼쳐집니다.",
-          "노르웨이 섬마을의 소박한 일상과 덴마크 해운 재벌 가문의 화려한 세계가 대비되며 독특한 분위기를 만듭니다.",
-          "나탈리 마두에뇨, 클레스 방, 폴 스베레 하겐 등 북유럽 배우들의 연기가 미스터리의 무게감을 더합니다."
+          "마술사의 실수 하나로 시작되는 판타지 설정이 이야기의 흥미로운 출발점이 됩니다.",
+          "소원을 들어주는 지니가 도시를 탐험하며 벌어지는 일들을 판타지, 드라마, 액션이 어우러진 장르로 즐길 수 있습니다.",
+          "파하드 파실을 비롯해 사라 팔레카르, 사우라브 사크데바 등 출연진이 펼치는 연기를 지켜보는 재미가 있습니다."
         ],
-        "recommend_reason": "차분하면서도 서서히 조여오는 북유럽 미스터리 스릴러를 좋아하시는 분께 추천합니다. 넷플릭스 TOP10에 8주 동안 머물며 주간 글로벌 시청수 100만 회를 기록할 만큼 꾸준히 관심을 받은 작품입니다.",
+        "recommend_reason": "마법과 지니가 등장하는 판타지 소동극을 가볍게 즐기고 싶은 분께 추천드립니다. 공개 후 넷플릭스 글로벌 TOP10에 진입해 한 주 동안 약 140만 회의 시청수를 기록한 작품이라, 요즘 화제작을 확인해 보고 싶은 분께도 좋은 선택이 될 것입니다.",
         "recommend_for": [
-          "미스터리 스릴러 마니아",
-          "북유럽 장르물 팬",
-          "정체성 드라마를 좋아하는 분"
+          "판타지 장르 팬",
+          "인도 영화 관심층",
+          "가볍게 볼 영화를 찾는 분"
         ],
         "mood_tags": [
-          "서늘한",
-          "미스터리한",
-          "몰입감 있는"
+          "판타지",
+          "소동극",
+          "액션"
         ],
         "confidence": "high",
-        "generated_at": "2026-11-05T09:36:36+00:00",
+        "generated_at": "2026-11-11T02:35:49+00:00",
         "model": "claude-opus-5-5",
-        "tmdb_id": 1631807
+        "tmdb_id": 1261763
+      }
+    },
+    "Ninho: Fame Ain’t Worth It||": {
+      "id": "Ninho: Fame Ain’t Worth It||",
+      "show_title": "Ninho: Fame Ain’t Worth It",
+      "season_title": null,
+      "type": "movie",
+      "title_ko": "니뇨: 명성의 대가",
+      "year": "2026",
+      "genres": [
+        "다큐멘터리",
+        "음악"
+      ],
+      "cast": [
+        "Ninho",
+        "Cécile Nzobazola",
+        "Hös Copperfield",
+        "Yaro Sirsy",
+        "Christine Aubert-Maguéro"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/zstBJatewUcaNVPICaIvLIel10X.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/vwGjInWZImDB2AQnnrIt9775q6L.jpg",
+      "vote": 6.125,
+      "ai": {
+        "synopsis_ko": "2025년, 프랑스 랩 씬의 정상에 서 있던 래퍼 니뇨가 은퇴를 고민하기 시작합니다. 이 다큐멘터리는 10년간 이어진 성공과 그 이면의 희생을 돌아보며, 그가 왜 이런 선택의 갈림길에 서게 되었는지를 따라갑니다. 니뇨 본인과 주변 인물들이 함께 출연해 화려한 명성 뒤의 이야기를 들려줍니다.",
+        "watch_points": [
+          "프랑스 최고의 랩 스타로 꼽히는 니뇨의 지난 10년을 본인의 목소리로 들어볼 수 있습니다.",
+          "성공을 위해 치러야 했던 대가가 무엇이었는지 차분히 짚어보는 시선이 인상적입니다.",
+          "정상의 자리에서 은퇴를 고민한다는 출발점 자체가 흥미로운 질문을 던집니다."
+        ],
+        "recommend_reason": "프랑스 힙합이나 아티스트의 내면을 다룬 음악 다큐멘터리를 좋아하시는 분께 추천합니다. 공개 후 글로벌 주간 시청수 약 130만 회를 기록하며 TOP10에 진입해, 니뇨를 잘 모르시는 분들도 관심을 가져볼 만한 작품입니다.",
+        "recommend_for": [
+          "힙합 팬",
+          "음악 다큐 애호가",
+          "아티스트의 내면이 궁금한 분"
+        ],
+        "mood_tags": [
+          "성찰적인",
+          "진솔한",
+          "담담한"
+        ],
+        "confidence": "low",
+        "generated_at": "2026-11-11T02:35:56+00:00",
+        "model": "claude-opus-5-5",
+        "tmdb_id": 1816668
+      }
+    },
+    "Taken: Natalee Holloway||Taken: Natalee Holloway: Season 1": {
+      "id": "Taken: Natalee Holloway||Taken: Natalee Holloway: Season 1",
+      "show_title": "Taken: Natalee Holloway",
+      "season_title": "Taken: Natalee Holloway: Season 1",
+      "type": "tv",
+      "title_ko": "테이큰: 나탈리 할로웨이 실종 사건",
+      "year": "2026",
+      "genres": [
+        "다큐멘터리"
+      ],
+      "cast": [],
+      "poster": "https://image.tmdb.org/t/p/w500/rKyjcuSbsDDDcIisa6cx5k5yQNa.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/ryBFDxselVFSGGNCNIXrc8F6XgY.jpg",
+      "vote": 7.563,
+      "ai": {
+        "synopsis_ko": "2005년, 미국인 나탈리 할로웨이가 아루바에서 흔적도 없이 사라집니다. 갑작스러운 실종 이후 딸의 행방을 찾으려는 어머니의 기나긴 추적이 시작됩니다. 이 시리즈는 오랜 세월에 걸쳐 이어진 그 과정을 따라가는 범죄 실화 다큐멘터리입니다.",
+        "watch_points": [
+          "2005년 아루바에서 일어난 실제 실종 사건을 다큐멘터리 형식으로 차근차근 따라갑니다.",
+          "딸을 찾기 위해 오랜 세월 포기하지 않은 어머니의 시선이 이야기의 중심을 이룹니다.",
+          "한 번의 실종이 긴 시간 동안 어떤 추적으로 이어졌는지를 시리즈 분량으로 깊이 있게 살펴볼 수 있습니다."
+        ],
+        "recommend_reason": "실제 사건을 다룬 범죄 다큐멘터리를 즐겨 보시는 분께 추천합니다. 공개 후 TOP10에 진입해 주간 글로벌 시청수 약 1,290만을 기록하며 많은 관심을 받고 있습니다.",
+        "recommend_for": [
+          "범죄 실화 다큐 팬",
+          "실종 사건에 관심 있는 분"
+        ],
+        "mood_tags": [
+          "진지한",
+          "긴장감 있는",
+          "먹먹한"
+        ],
+        "confidence": "high",
+        "generated_at": "2026-11-11T02:36:06+00:00",
+        "model": "claude-opus-5-5",
+        "tmdb_id": 338684
       }
     },
     "The One About Matthew Perry||The One About Matthew Perry: Season 1": {
@@ -2396,6 +2387,88 @@
         "tmdb_id": 250923
       }
     },
+    "Black Doves||Black Doves: Season 2": {
+      "id": "Black Doves||Black Doves: Season 2",
+      "show_title": "Black Doves",
+      "season_title": "Black Doves: Season 2",
+      "type": "tv",
+      "title_ko": "블랙 도브",
+      "year": "2024",
+      "genres": [
+        "Action & Adventure",
+        "미스터리",
+        "범죄"
+      ],
+      "cast": [
+        "키이라 나이틀리",
+        "벤 위쇼",
+        "사라 랭커셔",
+        "앤드류 버칸",
+        "Ella Lily Hyland"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/oFT1UnhF3e37baGyrZks9Qm4YEf.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/uyL0MH8gtDlChQKpfpkVoUP41VY.jpg",
+      "vote": 7.039,
+      "ai": {
+        "synopsis_ko": "'블랙 도브'는 정치인의 아내로 위장한 채 살아가는 한 스파이의 이야기입니다. 그녀는 애인이 살해당했다는 사실을 알게 되고, 그 진실을 밝히기로 결심합니다. 이를 위해 옛 친구이자 암살자인 인물과 다시 손잡고 복수의 여정에 나섭니다. 이번에 시즌 2가 공개되었습니다.",
+        "watch_points": [
+          "평범한 정치인 아내라는 겉모습과 스파이라는 실체 사이의 긴장감이 이야기를 이끕니다.",
+          "키이라 나이틀리와 벤 위쇼가 스파이와 암살자로 만나 오랜 친구 사이의 호흡을 보여 줍니다.",
+          "액션과 미스터리, 범죄 장르가 어우러져 진실을 쫓는 과정에 몰입하게 됩니다."
+        ],
+        "recommend_reason": "정체를 숨긴 인물들이 얽히는 첩보 미스터리를 좋아하시는 분께 추천합니다. 시즌 2 공개 후 글로벌 TOP10에 진입해 한 주 동안 약 380만 회의 시청수를 기록하며 관심을 모으고 있습니다.",
+        "recommend_for": [
+          "첩보물 팬",
+          "범죄 미스터리 마니아",
+          "키이라 나이틀리·벤 위쇼 팬"
+        ],
+        "mood_tags": [
+          "긴장감",
+          "어두운 분위기",
+          "복수극"
+        ],
+        "confidence": "high",
+        "generated_at": "2026-11-11T02:36:16+00:00",
+        "model": "claude-opus-5-5",
+        "tmdb_id": 225385
+      }
+    },
+    "Raw||Raw: November 2, 2026": {
+      "id": "Raw||Raw: November 2, 2026",
+      "show_title": "Raw",
+      "season_title": "Raw: November 2, 2026",
+      "type": "tv",
+      "title_ko": "WWE Raw",
+      "year": "1993",
+      "genres": [
+        "Reality"
+      ],
+      "cast": [],
+      "poster": "https://image.tmdb.org/t/p/w500/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/ykWWT8FAChBffNxcDzoJMCK9LBb.jpg",
+      "vote": 6.763,
+      "ai": {
+        "synopsis_ko": "WWE Raw는 1993년부터 이어져 온 WWE의 대표 프로레슬링 시리즈입니다. 매주 링 위에 오르는 슈퍼스타들이 뛰어난 기량과 극적인 드라마를 실시간으로 선보입니다. 이번 회차는 2026년 11월 2일 방송분으로, 넷플릭스에서 만나보실 수 있습니다.",
+        "watch_points": [
+          "링 위 슈퍼스타들이 보여주는 탁월한 경기 기량을 감상하실 수 있습니다.",
+          "경기와 함께 펼쳐지는 극적인 드라마가 매주 이야기를 이어갑니다.",
+          "실시간으로 진행되는 쇼 특유의 현장감과 긴장감을 느끼실 수 있습니다."
+        ],
+        "recommend_reason": "프로레슬링의 화려한 액션과 드라마를 즐기시는 분께 추천합니다. 이번 회차는 글로벌 주간 시청수 230만 회를 기록하며 TOP10에 진입해 많은 시청자의 관심을 받았습니다.",
+        "recommend_for": [
+          "프로레슬링 팬",
+          "스포츠 엔터테인먼트 애호가"
+        ],
+        "mood_tags": [
+          "역동적인",
+          "현장감 넘치는"
+        ],
+        "confidence": "low",
+        "generated_at": "2026-11-11T02:36:22+00:00",
+        "model": "claude-opus-5-5",
+        "tmdb_id": 4656
+      }
+    },
     "Below||Below: Limited Series": {
       "id": "Below||Below: Limited Series",
       "show_title": "Below",
@@ -2439,6 +2512,90 @@
         "generated_at": "2026-11-05T09:00:06+00:00",
         "model": "claude-opus-5-5",
         "tmdb_id": 285322
+      }
+    },
+    "Love Is Blind||Love Is Blind: S11: Boston": {
+      "id": "Love Is Blind||Love Is Blind: S11: Boston",
+      "show_title": "Love Is Blind",
+      "season_title": "Love Is Blind: S11: Boston",
+      "type": "tv",
+      "title_ko": "연애 실험: 블라인드 러브",
+      "year": "2020",
+      "genres": [
+        "Reality"
+      ],
+      "cast": [
+        "Nick Lachey",
+        "Vanessa Lachey"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/uPjnkltP8u8ii54CH5Ocp9vA4I2.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/5sZyCtojLzqYAsz0qH9QMllu55I.jpg",
+      "vote": 6.265,
+      "ai": {
+        "synopsis_ko": "외모가 아닌 대화만으로 인생의 짝을 찾는 연애 리얼리티 '연애 실험: 블라인드 러브'의 열한 번째 시즌으로, 이번에는 보스턴을 무대로 펼쳐집니다. 참가자들은 서로의 얼굴을 보지 못한 채 대화를 나누며 마음을 열어 갑니다. 결혼을 약속한 뒤에야 비로소 상대의 얼굴을 마주하게 되는 대담한 실험이 시작됩니다. 진행은 버네사 러셰이와 닉 러셰이가 맡았습니다.",
+        "watch_points": [
+          "얼굴을 모른 채 오직 대화만으로 감정을 쌓아 가는 과정이 이 시리즈만의 독특한 재미를 줍니다.",
+          "보스턴이라는 새로운 배경에서 만나는 참가자들의 이야기가 이번 시즌의 색다른 분위기를 만듭니다.",
+          "버네사 러셰이와 닉 러셰이 부부의 진행이 실험의 흐름을 안정적으로 이끌어 줍니다."
+        ],
+        "recommend_reason": "사랑에서 외모와 대화 중 무엇이 더 중요한지 궁금했던 분께 권해 드리며, 보는 내내 자연스럽게 나라면 어땠을지 생각해 보게 됩니다. 글로벌 주간 시청수 280만 회를 기록하며 3주간 TOP10에 머문 만큼 많은 시청자가 함께 지켜본 시즌입니다.",
+        "recommend_for": [
+          "연애 리얼리티 팬",
+          "친구와 함께 수다 떨며 보기"
+        ],
+        "mood_tags": [
+          "설렘",
+          "몰입감",
+          "현실 연애"
+        ],
+        "confidence": "high",
+        "generated_at": "2026-11-05T09:00:23+00:00",
+        "model": "claude-opus-5-5",
+        "tmdb_id": 99353
+      }
+    },
+    "Will Trent||Will Trent: Season 1": {
+      "id": "Will Trent||Will Trent: Season 1",
+      "show_title": "Will Trent",
+      "season_title": "Will Trent: Season 1",
+      "type": "tv",
+      "title_ko": "윌 트렌트",
+      "year": "2023",
+      "genres": [
+        "범죄",
+        "드라마",
+        "코미디"
+      ],
+      "cast": [
+        "라몬 로드리게즈",
+        "에리카 크리스틴슨",
+        "Iantha Richardson",
+        "Jake McLaughlin",
+        "소냐 손"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/71TZaUSlp9aZN0lGXsGjl4bV6n8.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/9pGzG5CYx2XM8JFFQvMk9Z3z9ze.jpg",
+      "vote": 7.321,
+      "ai": {
+        "synopsis_ko": "윌 트렌트는 조지아 수사국(GBI)에서 손꼽히는 수사 요원입니다. 그는 남다른 관찰력과 날카로운 추리력으로 각종 사건을 하나씩 풀어 나갑니다. 뉴욕 타임스 베스트셀러에 오른 동명의 소설 시리즈를 원작으로 한 범죄 드라마입니다.",
+        "watch_points": [
+          "사소한 단서도 놓치지 않는 윌 트렌트의 관찰력과 추리 과정을 따라가는 재미가 있습니다.",
+          "범죄 드라마에 코미디 요소가 더해져 무겁지 않게 즐길 수 있습니다.",
+          "라몬 로드리게즈, 에리카 크리스틴슨, 소냐 손 등 출연진의 호흡도 볼거리입니다."
+        ],
+        "recommend_reason": "한 회씩 사건을 해결해 나가는 수사극을 좋아하시는 분께 추천합니다. 베스트셀러 소설을 원작으로 하며, 넷플릭스 글로벌 TOP10에 진입해 한 주 동안 약 190만 회의 시청수를 기록했습니다.",
+        "recommend_for": [
+          "수사극 애호가",
+          "원작 소설 팬"
+        ],
+        "mood_tags": [
+          "추리",
+          "경쾌한 긴장감"
+        ],
+        "confidence": "low",
+        "generated_at": "2026-11-11T02:36:27+00:00",
+        "model": "claude-opus-5-5",
+        "tmdb_id": 208569
       }
     },
     "The Diplomat||The Diplomat: Season 4": {
@@ -2485,173 +2642,6 @@
         "tmdb_id": 203857
       }
     },
-    "Love Is Blind||Love Is Blind: S11: Boston": {
-      "id": "Love Is Blind||Love Is Blind: S11: Boston",
-      "show_title": "Love Is Blind",
-      "season_title": "Love Is Blind: S11: Boston",
-      "type": "tv",
-      "title_ko": "연애 실험: 블라인드 러브",
-      "year": "2020",
-      "genres": [
-        "Reality"
-      ],
-      "cast": [
-        "Nick Lachey",
-        "Vanessa Lachey"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/uPjnkltP8u8ii54CH5Ocp9vA4I2.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/5sZyCtojLzqYAsz0qH9QMllu55I.jpg",
-      "vote": 6.265,
-      "ai": {
-        "synopsis_ko": "외모가 아닌 대화만으로 인생의 짝을 찾는 연애 리얼리티 '연애 실험: 블라인드 러브'의 열한 번째 시즌으로, 이번에는 보스턴을 무대로 펼쳐집니다. 참가자들은 서로의 얼굴을 보지 못한 채 대화를 나누며 마음을 열어 갑니다. 결혼을 약속한 뒤에야 비로소 상대의 얼굴을 마주하게 되는 대담한 실험이 시작됩니다. 진행은 버네사 러셰이와 닉 러셰이가 맡았습니다.",
-        "watch_points": [
-          "얼굴을 모른 채 오직 대화만으로 감정을 쌓아 가는 과정이 이 시리즈만의 독특한 재미를 줍니다.",
-          "보스턴이라는 새로운 배경에서 만나는 참가자들의 이야기가 이번 시즌의 색다른 분위기를 만듭니다.",
-          "버네사 러셰이와 닉 러셰이 부부의 진행이 실험의 흐름을 안정적으로 이끌어 줍니다."
-        ],
-        "recommend_reason": "사랑에서 외모와 대화 중 무엇이 더 중요한지 궁금했던 분께 권해 드리며, 보는 내내 자연스럽게 나라면 어땠을지 생각해 보게 됩니다. 글로벌 주간 시청수 280만 회를 기록하며 3주간 TOP10에 머문 만큼 많은 시청자가 함께 지켜본 시즌입니다.",
-        "recommend_for": [
-          "연애 리얼리티 팬",
-          "친구와 함께 수다 떨며 보기"
-        ],
-        "mood_tags": [
-          "설렘",
-          "몰입감",
-          "현실 연애"
-        ],
-        "confidence": "high",
-        "generated_at": "2026-11-05T09:00:23+00:00",
-        "model": "claude-opus-5-5",
-        "tmdb_id": 99353
-      }
-    },
-    "Minimum Wage||Minimum Wage: Season 1": {
-      "id": "Minimum Wage||Minimum Wage: Season 1",
-      "show_title": "Minimum Wage",
-      "season_title": "Minimum Wage: Season 1",
-      "type": "tv",
-      "title_ko": "오늘도 최저임금",
-      "year": "2026",
-      "genres": [
-        "코미디"
-      ],
-      "cast": [
-        "Aidan Micho",
-        "Grace Reiter",
-        "Hyde Healy",
-        "Julia DiCesare",
-        "Luke Burke"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/iTVhDUbzUFUJ18jrcYM4rw7qGk.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/tJSM9kwCWHXgoYbrfmJ2vwiizWq.jpg",
-      "vote": 7.2,
-      "ai": {
-        "synopsis_ko": "동네 피자 가게에서 일하는 10대들이 학교생활과 아르바이트를 동시에 해내야 하는 일상을 그린 코미디 시리즈입니다. 이들은 정신없는 사장과 넉넉지 않은 최저 시급에 시달리면서도 가게를 꾸려 나가기 위해 고군분투합니다. 소셜 미디어에서 인기를 끈 숏폼 콘텐츠를 원작으로 한 작품입니다.",
-        "watch_points": [
-          "학업과 아르바이트 사이에서 바쁘게 움직이는 10대들의 모습이 공감 가는 웃음을 줍니다.",
-          "좀처럼 종잡을 수 없는 사장과 직원들 사이의 관계가 코미디의 중심을 이룹니다.",
-          "숏폼 콘텐츠에서 출발한 작품인 만큼 원작의 감각이 시리즈로 어떻게 옮겨졌는지 비교해 보는 재미가 있습니다."
-        ],
-        "recommend_reason": "아르바이트 경험이 있거나 가볍게 웃을 수 있는 시트콤풍 코미디를 찾는 분께 추천드립니다. 공개 후 글로벌 주간 시청수 240만을 기록하며 넷플릭스 TOP10에 진입한 작품이라 부담 없이 시작해 보시기 좋습니다.",
-        "recommend_for": [
-          "알바 경험이 있는 분",
-          "가벼운 코미디를 원하는 분",
-          "숏폼 콘텐츠 팬"
-        ],
-        "mood_tags": [
-          "유쾌한",
-          "공감되는",
-          "가벼운"
-        ],
-        "confidence": "high",
-        "generated_at": "2026-11-06T03:11:46+00:00",
-        "model": "claude-opus-5-5",
-        "tmdb_id": 321221
-      }
-    },
-    "Raw||Raw: October 26, 2026": {
-      "id": "Raw||Raw: October 26, 2026",
-      "show_title": "Raw",
-      "season_title": "Raw: October 26, 2026",
-      "type": "tv",
-      "title_ko": "WWE Raw",
-      "year": "1993",
-      "genres": [
-        "Reality"
-      ],
-      "cast": [],
-      "poster": "https://image.tmdb.org/t/p/w500/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/ykWWT8FAChBffNxcDzoJMCK9LBb.jpg",
-      "vote": 6.763,
-      "ai": {
-        "synopsis_ko": "《WWE Raw》는 1993년부터 이어져 온 WWE의 대표 프로레슬링 시리즈입니다. 매주 링 위에 오르는 슈퍼스타들이 뛰어난 경기력과 극적인 드라마를 실시간으로 선보입니다. 이번 회차는 2026년 10월 26일 방송분입니다.",
-        "watch_points": [
-          "링 위 슈퍼스타들이 보여 주는 탁월한 기량과 경기 장면을 감상할 수 있습니다.",
-          "경기와 함께 펼쳐지는 극적인 드라마가 매주 이어지는 재미를 더합니다.",
-          "매주 실시간으로 진행되는 방송 특유의 현장감을 느낄 수 있습니다."
-        ],
-        "recommend_reason": "프로레슬링의 화려한 경기와 이야기를 함께 즐기고 싶은 분께 추천합니다. 이번 회차는 글로벌 주간 시청수 230만을 기록하며 TOP10에 이름을 올렸습니다.",
-        "recommend_for": [
-          "프로레슬링 팬",
-          "스포츠 엔터테인먼트 입문자"
-        ],
-        "mood_tags": [
-          "역동적인",
-          "현장감 있는",
-          "극적인"
-        ],
-        "confidence": "low",
-        "generated_at": "2026-11-10T04:30:40+00:00",
-        "model": "claude-opus-5-5",
-        "tmdb_id": 4656
-      }
-    },
-    "From||From: Season 1": {
-      "id": "From||From: Season 1",
-      "show_title": "From",
-      "season_title": "From: Season 1",
-      "type": "tv",
-      "title_ko": "프롬",
-      "year": "2022",
-      "genres": [
-        "미스터리",
-        "드라마",
-        "Sci-Fi & Fantasy"
-      ],
-      "cast": [
-        "해럴드 페리노",
-        "카타리나 산디노 모레노",
-        "리키 그",
-        "데이비드 알페이",
-        "클로에 반 랜드스쿠트"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/wjaz71csFQWCvXkXDuIptfqwY7R.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/m7eiSGHFzr584zFmetGqkqaU6BN.jpg",
-      "vote": 8.491,
-      "ai": {
-        "synopsis_ko": "미국 중부 어딘가에 들어오는 사람은 누구든 빠져나갈 수 없는 기묘한 마을이 있습니다. 이곳에 갇힌 주민들은 정상적인 일상을 지키려 애쓰면서 탈출구를 찾기 위해 고군분투합니다. 하지만 마을을 둘러싼 숲에는 위협이 도사리고 있고, 특히 해가 지면 무서운 생물들이 모습을 드러냅니다.",
-        "watch_points": [
-          "들어올 수는 있어도 나갈 수 없는 마을이라는 설정이 처음부터 강한 궁금증을 불러일으킵니다.",
-          "해가 지면 찾아오는 공포가 낮과 밤의 분위기를 뚜렷하게 갈라 긴장감을 만들어 냅니다.",
-          "해럴드 페리노, 카타리나 산디노 모레노 등 배우들이 극한 상황에 놓인 주민들의 모습을 그려 냅니다."
-        ],
-        "recommend_reason": "정체를 알 수 없는 공간에 갇힌 사람들의 생존과 미스터리를 따라가는 이야기를 좋아하시는 분께 추천합니다. 글로벌 주간 시청수 220만 회를 기록하며 2주 동안 넷플릭스 TOP10에 머문 만큼, 많은 시청자의 관심을 받은 작품입니다.",
-        "recommend_for": [
-          "미스터리 마니아",
-          "공포·SF 장르 팬",
-          "몰아보기 좋아하는 분"
-        ],
-        "mood_tags": [
-          "긴장감",
-          "오싹함",
-          "미스터리"
-        ],
-        "confidence": "high",
-        "generated_at": "2026-11-05T09:00:42+00:00",
-        "model": "claude-opus-5-5",
-        "tmdb_id": 124364
-      }
-    },
     "East of Eden||East of Eden: Limited Series": {
       "id": "East of Eden||East of Eden: Limited Series",
       "show_title": "East of Eden",
@@ -2695,37 +2685,49 @@
         "tmdb_id": 258165
       }
     },
-    "Instadocs: Jane Doe v. Cornell||": {
-      "id": "Instadocs: Jane Doe v. Cornell||",
-      "show_title": "Instadocs: Jane Doe v. Cornell",
-      "season_title": null,
+    "A Couple of Lies||A Couple of Lies: Limited Series": {
+      "id": "A Couple of Lies||A Couple of Lies: Limited Series",
+      "show_title": "A Couple of Lies",
+      "season_title": "A Couple of Lies: Limited Series",
       "type": "tv",
-      "title_ko": null,
-      "year": null,
-      "genres": null,
-      "cast": null,
-      "poster": null,
-      "backdrop": null,
-      "vote": null,
+      "title_ko": "커플 오브 라이즈",
+      "year": "2026",
+      "genres": [
+        "드라마",
+        "미스터리"
+      ],
+      "cast": [
+        "Emma Appleton",
+        "Fares Fares",
+        "프리다 구스타프손",
+        "Jakob Oftebro",
+        "Anna Bjelkerud"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/4Z88NNfpPkG6ymd59G52v2ji6t7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/wzbO83x1CJqhoKYciDNa3aC37qT.jpg",
+      "vote": 4.313,
       "ai": {
-        "synopsis_ko": "'Instadocs: Jane Doe v. Cornell'은 넷플릭스에서 시리즈로 공개된 작품입니다. 제목의 형식으로 보아 'Jane Doe'와 'Cornell' 사이의 사건을 다루는 다큐멘터리 성격의 시리즈로 짐작되지만, 구체적인 내용은 확인된 자료가 부족합니다. 자세한 줄거리는 작품 소개 페이지를 함께 참고하시길 권해 드립니다.",
+        "synopsis_ko": "헬렌과 칼 부부는 스톡홀름 군도에 있는 자신들의 집을 시칠리아의 햇살 가득한 빌라와 맞바꾸기로 합니다. 상대는 한 번도 만난 적 없는 스칼릿과 아담 커플로, 두 커플은 몇 주 동안 서로의 삶을 바꿔 살아 보기로 합니다. 그런데 낯선 집에 적응해 가던 중, 어딘가 불안한 단서들이 하나둘 눈에 띄기 시작합니다.",
         "watch_points": [
-          "제목에 담긴 'Jane Doe v. Cornell'이라는 사건이 어떻게 풀려 가는지 지켜보는 재미가 있습니다.",
-          "'Instadocs'라는 이름처럼 짧고 집중도 있는 구성을 기대해 볼 수 있습니다.",
-          "공개 후 글로벌 주간 시청수 200만 회를 기록하며 TOP10에 오른 화제작이라는 점도 눈여겨볼 만합니다."
+          "스톡홀름 군도와 시칠리아 빌라라는 대비되는 두 공간이 이야기의 배경으로 펼쳐집니다.",
+          "서로를 모르는 두 커플이 각자 상대의 집에서 지내며 생기는 묘한 긴장감이 극을 이끕니다.",
+          "평온한 휴가처럼 시작한 이야기가 감시와 불신의 분위기로 서서히 물들어 가는 과정을 지켜보는 재미가 있습니다."
         ],
-        "recommend_reason": "실제 사건이나 시사적인 이야기를 다큐멘터리 형식으로 접하고 싶은 분께 추천해 드립니다. 글로벌 TOP10에 1주간 이름을 올리며 주간 시청수 200만 회를 기록해, 지금 많은 시청자가 관심을 보이는 작품을 확인해 보기 좋습니다.",
+        "recommend_reason": "일상적인 설정에서 서서히 긴장감이 쌓이는 심리 미스터리를 좋아하시는 분께 추천합니다. 파레스 파레스, 에마 애플턴 등이 출연하는 리미티드 시리즈로, 공개 첫 주 글로벌 TOP10에 오르며 주간 약 320만 회의 시청수를 기록했습니다.",
         "recommend_for": [
-          "다큐멘터리 애호가",
-          "시사·사건 관심층"
+          "미스터리 드라마 애호가",
+          "짧게 몰아보기 좋은 시리즈를 찾는 분",
+          "북유럽 드라마 팬"
         ],
         "mood_tags": [
-          "진지한",
-          "현실적인"
+          "긴장감",
+          "서스펜스",
+          "이국적인 풍경"
         ],
-        "confidence": "low",
-        "generated_at": "2026-11-05T08:42:01+00:00",
-        "model": "claude-opus-5-5"
+        "confidence": "high",
+        "generated_at": "2026-11-05T09:01:28+00:00",
+        "model": "claude-opus-5-5",
+        "tmdb_id": 336240
       }
     },
     "Lupin||Lupin: Part 4": {
@@ -2772,6 +2774,50 @@
         "generated_at": "2026-11-05T09:00:58+00:00",
         "model": "claude-opus-5-5",
         "tmdb_id": 96677
+      }
+    },
+    "Anaesthesia||Anaesthesia: Season 1": {
+      "id": "Anaesthesia||Anaesthesia: Season 1",
+      "show_title": "Anaesthesia",
+      "season_title": "Anaesthesia: Season 1",
+      "type": "tv",
+      "title_ko": "마취",
+      "year": "2026",
+      "genres": [
+        "드라마"
+      ],
+      "cast": [
+        "Leszek Lichota",
+        "Aleksandra Popławska",
+        "Karolina Gruszka",
+        "Masza Wągrocka",
+        "Karol Biskup"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/h11NvlBzbTF6P2boA65ITdFSSo4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/7T59rrJSmQoJatZdq5ytboMsuLI.jpg",
+      "vote": 7.875,
+      "ai": {
+        "synopsis_ko": "뛰어난 실력을 지닌 외과 의사 다비트 와자시는 대담한 수술에 도전했다가 실패를 겪습니다. 그 일로 삶이 흔들리게 된 그는 다시 일어서기 위해 명문 병원을 떠나 지역 병원으로 자리를 옮깁니다. 폴란드 드라마 「마취」는 새로운 환경에서 다시 시작하려는 한 의사의 이야기를 따라갑니다.",
+        "watch_points": [
+          "최고의 자리에서 실패를 겪은 외과 의사가 지역 병원이라는 낯선 환경에서 다시 출발하는 과정을 지켜보는 재미가 있습니다.",
+          "레셰크 리호타, 알렉산드라 포프와프스카, 카롤리나 그루슈카 등 폴란드 배우들의 연기를 만나볼 수 있습니다.",
+          "병원을 배경으로 한 드라마이면서도 한 인물이 무너진 삶을 다시 세워 가는 개인의 이야기에 초점을 맞춘 작품입니다."
+        ],
+        "recommend_reason": "의학 드라마나 재기를 다룬 인물 중심 드라마를 좋아하시는 분께 추천드립니다. 공개 후 글로벌 TOP10에 진입해 한 주 동안 약 350만 회의 시청수를 기록한 작품이라, 새로운 유럽 드라마를 찾으시는 분이라면 가볍게 시작해 보셔도 좋겠습니다.",
+        "recommend_for": [
+          "의학 드라마 팬",
+          "유럽 드라마 입문",
+          "인물 중심 드라마를 좋아하는 분"
+        ],
+        "mood_tags": [
+          "진지한",
+          "휴먼 드라마",
+          "재기의 이야기"
+        ],
+        "confidence": "low",
+        "generated_at": "2026-11-11T02:36:35+00:00",
+        "model": "claude-opus-5-5",
+        "tmdb_id": 312006
       }
     },
     "Lupin||Lupin: Part 1": {
@@ -2857,97 +2903,6 @@
         "tmdb_id": 338689
       }
     },
-    "Lupin||Lupin: Part 2": {
-      "id": "Lupin||Lupin: Part 2",
-      "show_title": "Lupin",
-      "season_title": "Lupin: Part 2",
-      "type": "tv",
-      "title_ko": "뤼팽",
-      "year": "2021",
-      "genres": [
-        "범죄",
-        "드라마",
-        "미스터리"
-      ],
-      "cast": [
-        "오마르 시",
-        "뤼디빈 사니에",
-        "Antoine Gouy",
-        "Soufiane Guerrab",
-        "Shirine Boutella"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/e0i0ALSg9yspnYkmII6Pru32RbB.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/jgAZYiuRV37pCxmhx8NTdhE36RL.jpg",
-      "vote": 7.679,
-      "ai": {
-        "synopsis_ko": "한 남자가 가족이 겪은 뼈아픈 배신에 복수하기로 마음먹습니다. 그의 계획과 함께 새로운 전설이 시작됩니다. 프랑스의 전설적인 괴도 아르센 뤼팽을 현대적으로 재해석한 범죄 미스터리 시리즈로, 이번 작품은 그 이야기를 이어가는 파트 2입니다.",
-        "watch_points": [
-          "오마르 시가 주인공을 맡아 복수를 품은 남자의 이야기를 이끌어 갑니다.",
-          "고전 소설 속 괴도 아르센 뤼팽을 현대 배경으로 옮겨 온 재해석이 흥미롭습니다.",
-          "범죄, 드라마, 미스터리 장르가 어우러져 긴장감 있는 전개를 보여 줍니다."
-        ],
-        "recommend_reason": "치밀한 계획과 복수가 얽힌 범죄 미스터리를 좋아하시는 분께 추천합니다. 글로벌 TOP10에 9주 동안 이름을 올리고 주간 시청수 320만을 기록할 만큼 많은 시청자의 관심을 받은 시리즈입니다.",
-        "recommend_for": [
-          "범죄 미스터리 애호가",
-          "프랑스 드라마 팬",
-          "괴도물을 좋아하는 분"
-        ],
-        "mood_tags": [
-          "긴장감 있는",
-          "세련된",
-          "복수극"
-        ],
-        "confidence": "high",
-        "generated_at": "2026-11-05T09:01:20+00:00",
-        "model": "claude-opus-5-5",
-        "tmdb_id": 96677
-      }
-    },
-    "A Couple of Lies||A Couple of Lies: Limited Series": {
-      "id": "A Couple of Lies||A Couple of Lies: Limited Series",
-      "show_title": "A Couple of Lies",
-      "season_title": "A Couple of Lies: Limited Series",
-      "type": "tv",
-      "title_ko": "커플 오브 라이즈",
-      "year": "2026",
-      "genres": [
-        "드라마",
-        "미스터리"
-      ],
-      "cast": [
-        "Emma Appleton",
-        "Fares Fares",
-        "프리다 구스타프손",
-        "Jakob Oftebro",
-        "Anna Bjelkerud"
-      ],
-      "poster": "https://image.tmdb.org/t/p/w500/4Z88NNfpPkG6ymd59G52v2ji6t7.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/wzbO83x1CJqhoKYciDNa3aC37qT.jpg",
-      "vote": 4.313,
-      "ai": {
-        "synopsis_ko": "헬렌과 칼 부부는 스톡홀름 군도에 있는 자신들의 집을 시칠리아의 햇살 가득한 빌라와 맞바꾸기로 합니다. 상대는 한 번도 만난 적 없는 스칼릿과 아담 커플로, 두 커플은 몇 주 동안 서로의 삶을 바꿔 살아 보기로 합니다. 그런데 낯선 집에 적응해 가던 중, 어딘가 불안한 단서들이 하나둘 눈에 띄기 시작합니다.",
-        "watch_points": [
-          "스톡홀름 군도와 시칠리아 빌라라는 대비되는 두 공간이 이야기의 배경으로 펼쳐집니다.",
-          "서로를 모르는 두 커플이 각자 상대의 집에서 지내며 생기는 묘한 긴장감이 극을 이끕니다.",
-          "평온한 휴가처럼 시작한 이야기가 감시와 불신의 분위기로 서서히 물들어 가는 과정을 지켜보는 재미가 있습니다."
-        ],
-        "recommend_reason": "일상적인 설정에서 서서히 긴장감이 쌓이는 심리 미스터리를 좋아하시는 분께 추천합니다. 파레스 파레스, 에마 애플턴 등이 출연하는 리미티드 시리즈로, 공개 첫 주 글로벌 TOP10에 오르며 주간 약 320만 회의 시청수를 기록했습니다.",
-        "recommend_for": [
-          "미스터리 드라마 애호가",
-          "짧게 몰아보기 좋은 시리즈를 찾는 분",
-          "북유럽 드라마 팬"
-        ],
-        "mood_tags": [
-          "긴장감",
-          "서스펜스",
-          "이국적인 풍경"
-        ],
-        "confidence": "high",
-        "generated_at": "2026-11-05T09:01:28+00:00",
-        "model": "claude-opus-5-5",
-        "tmdb_id": 336240
-      }
-    },
     "Lupin||Lupin: Part 3": {
       "id": "Lupin||Lupin: Part 3",
       "show_title": "Lupin",
@@ -2995,47 +2950,95 @@
         "tmdb_id": 96677
       }
     },
-    "The Gift of Deceit||The Gift of Deceit: Season 1": {
-      "id": "The Gift of Deceit||The Gift of Deceit: Season 1",
-      "show_title": "The Gift of Deceit",
-      "season_title": "The Gift of Deceit: Season 1",
+    "Akka: The Protectors||Akka: The Protectors: Season 1": {
+      "id": "Akka: The Protectors||Akka: The Protectors: Season 1",
+      "show_title": "Akka: The Protectors",
+      "season_title": "Akka: The Protectors: Season 1",
       "type": "tv",
-      "title_ko": "사기의 기술",
+      "title_ko": "아카",
       "year": "2026",
       "genres": [
-        "드라마"
+        "드라마",
+        "범죄"
       ],
       "cast": [
-        "Marieta Severo",
-        "Alice Wegmann",
-        "Nanda Costta",
-        "José de Abreu",
-        "Felipe Camargo"
+        "키르시 수레시",
+        "Radhika Apte",
+        "Tanvi Azmi",
+        "B. Jayashree",
+        "Nivedita Bhargava"
       ],
-      "poster": "https://image.tmdb.org/t/p/w500/odOJLtScJ7Wj4zFpZwAeThcUocR.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/gSlWzjRk1QarsB2PrJemCd88wJc.jpg",
-      "vote": 6.4,
+      "poster": "https://image.tmdb.org/t/p/w500/tdnHaR0vlKMQbjmaCs2V3LDmzSd.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/cVUKFfws4upCB4ytz5uGIONIiRc.jpg",
+      "vote": 7.167,
       "ai": {
-        "synopsis_ko": "통제욕이 강한 어머니와 그녀의 딸, 그리고 노련한 사기꾼이 수백만 달러 규모의 미술품 절도 사건에 얽혀 들어갑니다. 서로 다른 속내를 지닌 이들이 대립하기 시작하면서 감춰져 있던 위험한 비밀들이 하나씩 모습을 드러냅니다. 원제 'Dom de Iludir'로 공개된 2026년 드라마 시리즈입니다.",
+        "synopsis_ko": "여성이 다스리는 왕국에서 수장의 자리를 지켜 온 바바니는 대대로 이어받은 영토와 부를 책임지고 있습니다. 그런데 이 모든 것을 노리는 무자비한 반역자 루드라가 나타나면서, 왕국은 지금껏 겪어 보지 못한 거대한 위협 앞에 서게 됩니다. 권력과 계승을 둘러싼 긴장 속에서 바바니가 어떻게 맞서 나갈지가 이야기의 출발점입니다.",
         "watch_points": [
-          "거액의 미술품 절도를 둘러싸고 인물들이 벌이는 신경전과 긴장감을 따라가는 재미가 있습니다.",
-          "통제하려는 어머니와 딸 사이의 관계가 사건과 맞물리며 만들어내는 감정의 결을 눈여겨보실 만합니다.",
-          "마리에타 세베루, 알리시 베그만, 조제 지 아브레우 등 출연진의 연기 호흡도 감상 포인트입니다."
+          "여성이 통치하는 왕국이라는 독특한 설정이 범죄 드라마의 긴장감과 어떻게 어우러지는지 지켜보는 재미가 있습니다.",
+          "대대로 지켜 온 영토와 부를 둘러싼 수장 바바니와 반역자 루드라의 대립 구도가 이야기의 중심을 이룹니다.",
+          "키르시 수레시, 라디카 압테, 탄비 아즈미 등 개성 있는 배우들이 함께 만드는 앙상블을 눈여겨볼 만합니다."
         ],
-        "recommend_reason": "속고 속이는 인물들의 심리전과 가족 간의 갈등이 함께 담긴 드라마를 좋아하시는 분께 추천합니다. 공개 후 넷플릭스 글로벌 TOP10에 진입해 한 주 동안 약 230만 회의 시청수를 기록한 작품이라 가볍게 첫 화를 시작해 보셔도 좋겠습니다.",
+        "recommend_reason": "권력 다툼과 계승을 다룬 묵직한 범죄 드라마를 좋아하시는 분께 추천합니다. 공개 후 한 주 만에 글로벌 주간 시청수 230만 회를 기록하며 TOP10에 오른 만큼, 새로운 인도 시리즈를 찾는 분이라면 시작해 볼 만합니다.",
         "recommend_for": [
-          "사기·범죄극 애호가",
-          "가족 갈등 드라마를 즐기는 분"
+          "범죄 드라마 애호가",
+          "인도 콘텐츠에 관심 있는 분",
+          "여성 서사를 좋아하는 분"
         ],
         "mood_tags": [
-          "긴장감",
-          "미스터리",
-          "심리전"
+          "긴장감 있는",
+          "묵직한",
+          "권력 다툼"
+        ],
+        "confidence": "low",
+        "generated_at": "2026-11-11T02:36:42+00:00",
+        "model": "claude-opus-5-5",
+        "tmdb_id": 243555
+      }
+    },
+    "Lupin||Lupin: Part 2": {
+      "id": "Lupin||Lupin: Part 2",
+      "show_title": "Lupin",
+      "season_title": "Lupin: Part 2",
+      "type": "tv",
+      "title_ko": "뤼팽",
+      "year": "2021",
+      "genres": [
+        "범죄",
+        "드라마",
+        "미스터리"
+      ],
+      "cast": [
+        "오마르 시",
+        "뤼디빈 사니에",
+        "Antoine Gouy",
+        "Soufiane Guerrab",
+        "Shirine Boutella"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/e0i0ALSg9yspnYkmII6Pru32RbB.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/jgAZYiuRV37pCxmhx8NTdhE36RL.jpg",
+      "vote": 7.679,
+      "ai": {
+        "synopsis_ko": "한 남자가 가족이 겪은 뼈아픈 배신에 복수하기로 마음먹습니다. 그의 계획과 함께 새로운 전설이 시작됩니다. 프랑스의 전설적인 괴도 아르센 뤼팽을 현대적으로 재해석한 범죄 미스터리 시리즈로, 이번 작품은 그 이야기를 이어가는 파트 2입니다.",
+        "watch_points": [
+          "오마르 시가 주인공을 맡아 복수를 품은 남자의 이야기를 이끌어 갑니다.",
+          "고전 소설 속 괴도 아르센 뤼팽을 현대 배경으로 옮겨 온 재해석이 흥미롭습니다.",
+          "범죄, 드라마, 미스터리 장르가 어우러져 긴장감 있는 전개를 보여 줍니다."
+        ],
+        "recommend_reason": "치밀한 계획과 복수가 얽힌 범죄 미스터리를 좋아하시는 분께 추천합니다. 글로벌 TOP10에 9주 동안 이름을 올리고 주간 시청수 320만을 기록할 만큼 많은 시청자의 관심을 받은 시리즈입니다.",
+        "recommend_for": [
+          "범죄 미스터리 애호가",
+          "프랑스 드라마 팬",
+          "괴도물을 좋아하는 분"
+        ],
+        "mood_tags": [
+          "긴장감 있는",
+          "세련된",
+          "복수극"
         ],
         "confidence": "high",
-        "generated_at": "2026-11-05T09:32:29+00:00",
+        "generated_at": "2026-11-05T09:01:20+00:00",
         "model": "claude-opus-5-5",
-        "tmdb_id": 334700
+        "tmdb_id": 96677
       }
     }
   }
