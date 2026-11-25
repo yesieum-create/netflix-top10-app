@@ -2145,5 +2145,288 @@
     "poster": "https://image.tmdb.org/t/p/w500/pk7ewQL2vAxtit0YmDEURmAInS9.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w500/jM5dhDrpRiVxuzcvAEeHhcAKt50.jpg",
     "vote": 6.4
+  },
+  "In the Grey||": {
+    "tmdb_id": 1122573,
+    "title_ko": "인 더 그레이",
+    "original_title": "In the Grey",
+    "year": "2026",
+    "genres": [
+      "액션",
+      "범죄"
+    ],
+    "overview_source": "악질 채무 청산을 전담하는 변호사 ‘레이첼’은 스펜서 골드스타인 투자가 '보비’를 찾아가 부패한 거물 ‘매니’에게 받지 못한 채무 10억 달러를 되찾아 주겠다고 제안한다. ‘레이첼’은 시스템의 빈틈을 교묘히 이용해, ‘살라사르’를 공략할 계획을 세우고, 전직 특수부대 요원 '시드’와 ‘브롱코'를 임무에 끌어들여 기상천외한 작전을 세우는데!",
+    "cast": [
+      "헨리 카빌",
+      "제이크 질렌할",
+      "에이사 곤살레스",
+      "Carlos Bardem",
+      "Michael Vu"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/wilN2jrZqClKcgONqyXQUnB4btD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w500/qcIKxhqGMIj8uujsSoSMZWr8QqU.jpg",
+    "vote": 7.496
+  },
+  "Guarding Stars||": {
+    "tmdb_id": 1551025,
+    "title_ko": "스타의 보디가드",
+    "original_title": "Guarding Stars",
+    "year": "2026",
+    "genres": [
+      "로맨스",
+      "코미디"
+    ],
+    "overview_source": "연말 동안 매력적인 액션 스타의 경호 업무를 맡게 된 원칙주의 철벽 경호원. 묘한 기류가 흐르는 두 사람의 만남 속에 비밀이 하나둘 드러나고, 크리스마스는 생각보다 훨씬 복잡하게 꼬여만 간다.",
+    "cast": [
+      "레이튼 미스터",
+      "재러드 파달레키",
+      "앤디 맥도웰",
+      "Noah LaLonde",
+      "Shaun Johnston"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/5bsXFYXOlbzHBpl9mPaxmOPIQJ9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w500/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg",
+    "vote": 6.9
+  },
+  "Dirty Money||": {
+    "tmdb_id": 572195,
+    "title_ko": "더러운 돈에 손대지 마라",
+    "original_title": "더러운 돈에 손대지 마라",
+    "year": "2024",
+    "genres": [
+      "범죄",
+      "액션",
+      "드라마"
+    ],
+    "overview_source": "수사도, 뒷돈 챙기는 부업도 늘 함께하는 생계형 형사 명득과 동혁. 우연히 범죄 조직의 검은돈에 대한 정보를 입수한 두 사람은 인생 역전을 위해 신고도, 추적도 불가한 돈을 훔치기로 계획한다. 그러나 완벽한 계획을 세웠다고 생각했던 현장에서 잠입 수사 중이던 형사의 죽음으로 사건은 꼬여만 간다. 살인 사건이 된 범죄 현장을 명득과 동혁이 직접 수사하게 되고 은폐하려고 했던 사건 현장의 증거가 두 사람을 지목하면서 그들을 점점 압박해 오는데…",
+    "cast": [
+      "정우",
+      "김대명",
+      "박병은",
+      "조현철",
+      "정해균"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/2XkmblX1FB1v4Pb9GQlmhSe861e.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w500/4rvzMXyQRC0hVFKFNDSGxjgxy76.jpg",
+    "vote": 5.6
+  },
+  "Steps||": {
+    "tmdb_id": 1595124,
+    "title_ko": "스텝스",
+    "original_title": "Steps",
+    "year": "2026",
+    "genres": [
+      "애니메이션",
+      "가족",
+      "코미디",
+      "모험",
+      "판타지"
+    ],
+    "overview_source": "독특한 매력이 넘치는 액션 코미디. 신데렐라의 '못된' 의붓자매 릴리스가 요정 대모의 요술봉을 훔치면서 우리가 알던 동화 속 이야기가 완전히 뒤집힌다.",
+    "cast": [
+      "앨리 웡",
+      "아만다 사이프리드",
+      "스테파니 수",
+      "니키 글레이저",
+      "다니엘 래드클리프"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w500/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
+    "vote": 7.2
+  },
+  "David||": {
+    "tmdb_id": 1167307,
+    "title_ko": "다윗",
+    "original_title": "David",
+    "year": "2025",
+    "genres": [
+      "애니메이션",
+      "가족",
+      "드라마",
+      "역사",
+      "모험"
+    ],
+    "overview_source": "소년 다윗은 어느 날 선지자 사무엘로부터 왕이 될 운명을 듣게 되지만, 그것이 무엇을 의미하는지 알기도 전에 전쟁의 한가운데로 내던져진다. 모두가 숨을 죽인 전장, 세상이 두려워한 거인 골리앗 앞에 홀로 선 다윗은 단 하나의 돌로 마침내 그를 쓰러뜨린다. 기적 같은 승리 이후, 그는 단숨에 영웅이 되지만 그 이름은 곧 사울 왕의 분노를 깨운다. 또다시 거대한 위협 앞에 맞서게 된 다윗은 자신에게 주어진 운명의 무게와 마주하게 되는데...",
+    "cast": [
+      "브랜든 잉그만",
+      "브라이언 스티발레",
+      "Shahar Taboch",
+      "Aaron Tavaler",
+      "Hector"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/tGmTssnoltCCZBY7ys4lYRTFYFj.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w500/mZ6J2g6HCV2gj3iuCdSxcyBXq9c.jpg",
+    "vote": 8.078
+  },
+  "The Blue Road||": {
+    "tmdb_id": 300523,
+    "title_ko": "푸른길",
+    "original_title": "푸른길",
+    "year": "2026",
+    "genres": [
+      "범죄",
+      "미스터리"
+    ],
+    "overview_source": "사지가 뒤틀린 시체, 의문의 메시지, 국경을 넘어 반복되는 끔찍한 살인사건을 쫓는 두 형사의 이야기",
+    "cast": [
+      "손석구",
+      "나가야마 에이타",
+      "김신록",
+      "최성은",
+      "정재영"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/9mmOjx2bWuLd9NnVpC71OUEXBym.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w500/7ojpD6ARKYhRxnsjzMIrorOfj4T.jpg",
+    "vote": 7.75
+  },
+  "Good Partner||": {
+    "tmdb_id": 243761,
+    "title_ko": "굿파트너",
+    "original_title": "굿파트너",
+    "year": "2024",
+    "genres": [
+      "드라마",
+      "코미디"
+    ],
+    "overview_source": "이혼 전문 베테랑 변호사와 이혼은 처음인 신입 변호사가 같은 회사서 격돌한다. 경험도 가치관도 너무 다른 두 사람. 각자의 개인사까지 끼어들면서, 하루도 조용히 넘어가는 법이 없다.",
+    "cast": [
+      "장나라",
+      "김혜윤",
+      "박해진",
+      "피오",
+      "지승현"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/ouEi7BycKPPqlO6ThAmQq9zvNLt.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w500/tNHTruWAXAEaoqgCnD3Jv5xUmzx.jpg",
+    "vote": 8.0
+  },
+  "The Devil's Plan B||": {
+    "tmdb_id": 342270,
+    "title_ko": "데블스플랜 B",
+    "original_title": "데블스플랜 B",
+    "year": "2026",
+    "genres": [
+      "Reality"
+    ],
+    "overview_source": "《데블스 플랜: 데드 어게인》의 플레이어들이 다시 한자리에 모였다. 미공개 영상부터 결정적 장면, 팬들의 기상천외한 추측까지 함께 리뷰하며 생생한 리액션을 펼친다.",
+    "cast": [
+      "장동민",
+      "김동재",
+      "서출구",
+      "스텔라 장",
+      "신동"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/uKmUjxTaiNSMsIZBsGymWGhYHza.jpg",
+    "backdrop": null,
+    "vote": 0.0
+  },
+  "Dr. Seuss' The Grinch||": {
+    "tmdb_id": 8871,
+    "title_ko": "그린치",
+    "original_title": "How the Grinch Stole Christmas",
+    "year": "2000",
+    "genres": [
+      "가족",
+      "코미디",
+      "판타지"
+    ],
+    "overview_source": "크리스마스를 앞둔 후빌 사람들은 선물과 장식 준비로 들떠 있지만, 산꼭대기 동굴의 그린치에게 마을의 흥겨운 소음은 괴롭기만 하다. 사람들을 피해 개 맥스와 살아가는 그는 해마다 찾아오는 축제를 못마땅해하며 심술궂은 장난을 궁리한다. 한편 어린 신디 루 후는 어른들이 물건을 사고 경쟁하는 데 몰두하는 모습을 보며 크리스마스가 정말 무엇인지 궁금해한다. 우연히 그린치와 마주친 신디는 모두가 싫어하는 그에게도 사연이 있으리라 생각하고 마을 사람들과 어울릴 기회를 만들어주려 한다. 하지만 오래된 상처와 새로 벌어진 소동은 그린치의 마음을 더욱 비뚤어지게 만든다. 마침내 선물과 음식까지 모조리 빼앗을 계획을 세운 그린치는 산타로 변장하고 후빌의 가장 특별한 밤을 노린다.",
+    "cast": [
+      "짐 캐리",
+      "테일러 맘슨",
+      "제프리 탬버",
+      "크리스틴 바란스키",
+      "빌 어윈"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/gqkJSh8pqMdiWwPfRNJGQkuivDi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w500/sy0vo1cmpKqwPRiMUiJ45jyLsX7.jpg",
+    "vote": 6.8
+  },
+  "Russell Brand: Open Secret||": {
+    "tmdb_id": 1823907,
+    "title_ko": "러셀 브랜드: 모른 척했던 비밀",
+    "original_title": "Russell Brand: Open Secret",
+    "year": "2026",
+    "genres": [
+      "다큐멘터리",
+      "범죄"
+    ],
+    "overview_source": "코미디 스타로 혜성처럼 떠오른 러셀 브랜드가 성범죄 의혹에 휩싸여 형사재판에 서기까지, 그의 급격한 성공과 추락을 조명하는 다큐멘터리.",
+    "cast": [
+      "러셀 브랜드",
+      "George Monbiot",
+      "Nish Kumar",
+      "Amanda Alguero Alejos",
+      "Mark Pinheiro"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/rYhOUFkNRwD4ETV7BFcsID53yyi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w500/sdYU5S9SMWk9Wr3IMP0538k341l.jpg",
+    "vote": 5.3
+  },
+  "Despicable Me 4||": {
+    "tmdb_id": 519182,
+    "title_ko": "슈퍼배드 4",
+    "original_title": "Despicable Me 4",
+    "year": "2024",
+    "genres": [
+      "애니메이션",
+      "코미디",
+      "액션",
+      "SF",
+      "가족"
+    ],
+    "overview_source": "슈트-업 하고 악당 전담 처리반 AVL이 된 에이전트 미니언즈와 미니언즈 만큼 귀여운 그루 주니어가 태어나면서 더욱 완벽해진 그루 패밀리. 이들 앞에 과거 그루의 고등학교 동창이자 그에게 체포당했던 빌런 맥심이 등장하고, 오직 그루를 향한 복수심에 불타올라 탈옥까지 감행한 맥심은 그루 패밀리의 뒤를 바짝 추격하며 위협을 가하기 시작하는데... 과연 에이전트 미니언즈와 그루 패밀리는 맥심을 막아낼 수 있을까?",
+    "cast": [
+      "스티브 카렐",
+      "크리스틴 위그",
+      "윌 페럴",
+      "소피아 베르가라",
+      "미란다 코스그로브"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/vZmCFVff9JySHTUp9zbYUIAcxzc.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w500/twsxsfao6ZOVvT8LfudH603MMi6.jpg",
+    "vote": 6.948
+  },
+  "Obsession||": {
+    "tmdb_id": 1339713,
+    "title_ko": "옵세션",
+    "original_title": "Obsession",
+    "year": "2026",
+    "genres": [
+      "공포",
+      "스릴러"
+    ],
+    "overview_source": "니키를 짝사랑하던 베어는 골동품 상점에서 구입한 원 위시 윌로우에 니키가 자신을 가장 사랑하게 해달라고 소원을 빈다. 그날 밤, 두 사람은 연인이 되지만 벗어날 수 없는 끔찍한 일과 마주하게 되는데...",
+    "cast": [
+      "마이클 존스턴",
+      "인디 네버레티",
+      "쿠퍼 톰린슨",
+      "메간 로리스",
+      "앤디 릭터"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/df4rpubfWy0g7HCzBNtPLLKnoMH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w500/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+    "vote": 8.157
+  },
+  "The Law of Beasts||": {
+    "tmdb_id": 332839,
+    "title_ko": "로 오브 비스트",
+    "original_title": "Prawo bestii",
+    "year": "2026",
+    "genres": [
+      "범죄",
+      "드라마"
+    ],
+    "overview_source": "유죄 판결을 받은 아동 살해범의 출소가 가까워지자, 폴란드는 다시 혼란에 휩싸인다. 사건 수사를 지휘한 수사관과 정신과 의사 사이의 윤리적 충돌도 다시 불붙는다.",
+    "cast": [
+      "Agnieszka Grochowska",
+      "Agnieszka Żulewska",
+      "Michał Pawlik",
+      "Andrzej Chyra",
+      "Kamilla Baar"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/9anIbazZJUteF9FLvdSsISJcNNq.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w500/9ims6WUxFggBrlmgA9Rew1Co5MD.jpg",
+    "vote": 6.6
   }
 }
