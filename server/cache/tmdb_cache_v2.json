@@ -2428,5 +2428,26 @@
     "poster": "https://image.tmdb.org/t/p/w500/9anIbazZJUteF9FLvdSsISJcNNq.jpg",
     "backdrop": "https://image.tmdb.org/t/p/w500/9ims6WUxFggBrlmgA9Rew1Co5MD.jpg",
     "vote": 6.6
+  },
+  "ChiaroScuro||": {
+    "tmdb_id": 336243,
+    "title_ko": "키아로스쿠로: 빛과 어둠",
+    "original_title": "ChiaroScuro",
+    "year": "2026",
+    "genres": [
+      "코미디",
+      "범죄"
+    ],
+    "overview_source": "로마의 박물관에서 시신이 발견되자, 한 미술 전문가가 직감과 전문성을 발휘해 경찰 수사를 돕는다. 그런데, 그가 쫓는 미스터리는 그의 과거와 맞닿아 있다.",
+    "cast": [
+      "Pierpaolo Spollon",
+      "Andrea Lattanzi",
+      "Romana Maggiora Vergano",
+      "Matilde Gioli",
+      "Aurora Giovinazzo"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w500/wM62vjwgxjQTlXX76xmQS1T49O2.jpg",
+    "vote": 7.783
   }
 }
